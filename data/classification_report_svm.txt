@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+       blank       1.00      0.88      0.93         8
+       cover       1.00      1.00      1.00         2
+     diagram       1.00      0.91      0.95        11
+      sketch       1.00      1.00      1.00         3
+        text       0.71      1.00      0.83         5
+
+    accuracy                           0.93        29
+   macro avg       0.94      0.96      0.94        29
+weighted avg       0.95      0.93      0.93        29
