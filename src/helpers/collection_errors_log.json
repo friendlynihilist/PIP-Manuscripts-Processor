@@ -1,0 +1,48 @@
+[
+    {
+        "line": 7,
+        "error": "'NoneType' object has no attribute 'strip'",
+        "Database Number": "hou02614c00001",
+        "Title": "I. Manuscripts",
+        "raw_row": {
+            "Database Number": "hou02614c00001",
+            "Component Title": "I. Manuscripts",
+            "Component Date": "1787-1951",
+            "Start Year": "1787",
+            "End Year": "1951",
+            "Component identifier": "MS Am 1632",
+            "Container info": "",
+            "Component type": "series",
+            "Component creator": "",
+            "Digital content link": "",
+            "Access Note": "",
+            "Physical description": "",
+            "Level 1": " ",
+            "Level 2": " ",
+            "Level 3": null
+        }
+    },
+    {
+        "line": 8,
+        "error": "'NoneType' object has no attribute 'strip'",
+        "Database Number": "hou02614c00002",
+        "Title": "A. Mathematics",
+        "raw_row": {
+            "Database Number": "hou02614c00002",
+            "Component Title": "A. Mathematics",
+            "Component Date": "1787-1951",
+            "Start Year": "1787",
+            "End Year": "1951",
+            "Component identifier": "MS Am 1632",
+            "Container info": "",
+            "Component type": "subseries",
+            "Component creator": "",
+            "Digital content link": "",
+            "Access Note": "",
+            "Physical description": "",
+            "Level 1": "I. Manuscripts",
+            "Level 2": " ",
+            "Level 3": null
+        }
+    }
+]
