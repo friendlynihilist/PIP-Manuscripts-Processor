@@ -5,7 +5,7 @@ import json
 import requests
 
 CSV_PATH = "collection_6437.csv"
-JSON_OUTPUT = "peirce_collection_metadata_with_manifest.json"
+JSON_OUTPUT = "collection_metadata.json"
 
 SKIP_ROWS = 6
 HEADERS = [
