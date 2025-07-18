@@ -1,0 +1,302 @@
+{
+  "D._Logic__hou02614c00458__seq613_cls0_0": {
+    "metadata": {
+      "Manuscript Title": "Peirce, Charles S. (Charles Sanders), 1839-1914. Chapter III. The Simplest Mathematics (Logic III)  : autograph manuscript",
+      "Category": "D. Logic",
+      "ID Manuscript": "hou02614c00458",
+      "Canvas URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+      "ID Canvas": "D._Logic__hou02614c00458__seq613",
+      "Type": "Diagramma",
+      "oa:Target": "xywh=870,808,646,149",
+      "Manifest URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248",
+      "Digital Link": "http://nrs.harvard.edu/urn-3:FHCL.HOUGH:12491033"
+    },
+    "evaluations": [
+      {
+        "model": "gpt-4o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n \n - Three words: \"man,\" \"wounded,\" and \"disgraced.\"\n - One straight line connecting \"man\" to the curved shape.\n - One curved shape or arc enclosing the words \"wounded\" and \"disgraced.\"\n \n These elements are written in black ink on lined paper.",
+          "Indexical Question": "Yes, there is a relationship between the elements:\n \n - The word \"man\" is connected by a straight line to the curved shape.\n - The curved shape encloses the words \"wounded\" and \"disgraced.\"\n \n This suggests that \"wounded\" and \"disgraced\" are related to \"man.\"",
+          "Symbolic Question": "In Peirce’s diagrammatic logic:\n \n - The word \"man\" on the background (Sheet of Assertion) is considered true or asserted.\n - The closed curve around \"wounded\" and \"disgraced\" represents a logical negation.\n \n The line from \"man\" to the closed curve suggests a relationship or identity between \"man\" and the contents of the negated region.\n \n Translation into a logical statement might be: \"A man is neither wounded nor disgraced.\"\n \n In natural language, it means the assertion that the concept of a \"man\" excludes the states of being \"wounded\" or \"disgraced.\""
+        }
+      },
+      {
+        "model": "yorickvp/llava-v1.6-vicuna-13b:0603dec596080fa084e26f0ae6d605fc5788ed2b1a0358cd25010619487eae63",
+        "answers": {
+          "Morphological Question": "The image appears to be a hand-drawn sketch with the following elements:\n \n 1. A word \"man\" written in a cursive script.\n 2. A line connecting the word \"man\" to a shape that resembles a circular or oval outline.\n 3. A word \"mound\" written inside the circular or oval shape.\n 4. A line connecting the word \"mound\" to another word \"disgrace\" written inside the same shape.\n \n The shape itself is not a standard geometric shape like a circle or oval, but rather a freehand drawing that seems to be an attempt to represent a mound or a similar shape. The overall impression is that of a concept map or a brainstorming diagram with the words \"man,\" \"mound,\" and \"disgrace\" connected by lines, suggesting a relationship or association between these concepts.",
+          "Indexical Question": "The image you've provided appears to be a hand-drawn sketch with the words \"man disgrace\" written in a cursive script. The word \"man\" is on the left side of the sketch, and \"disgrace\" is on the right side. There is a curved line connecting the two words, suggesting a relationship or association between them. The line could be interpreted as a visual metaphor for a connection or relationship between the concepts of \"man\" and \"disgrace.\"\n \n Without additional context, it's difficult to determine the exact nature of the relationship or the intent behind the drawing. It could be a personal expression, a conceptual art piece, or a part of a larger discussion or argument. The image does not provide enough information to determine the specific context or the intent of the person who drew it.",
+          "Symbolic Question": "The diagram you've provided appears to be a hand-drawn representation of a diagrammatic logic concept, which is a form of logic developed by Charles Sanders Peirce. In this form of logic, the diagram is used to represent the relationships between propositions.\n \n In the diagram, we see a closed curve (the cut) surrounding the words \"mound\" and \"disgrace.\" This cut represents logical negation, meaning that the propositions \"mound\" and \"disgrace\" are being denied. The cut is placed directly on the background, which in Peirce's logic is considered the Sheet of Assertion, so the propositions \"mound\" and \"disgrace\" are considered to be true.\n \n The lines connecting the words \"mound\" and \"disgrace\" suggest an identity or existential quantification, which means that the propositions are being equated or that they are being treated as if they are the same.\n \n To translate this diagram into a logical statement, we would need to use the principles of Peirce's logic. However, since the diagram is hand-drawn and not a formal diagram, it's not possible to provide a precise logical statement. The diagram seems to be a representation of the concepts of denial and identity or existential quantification, but without a clear understanding of the context in which this diagram was created, it's difficult to provide a precise logical statement.\n \n In natural language, the diagram suggests that the concepts of \"mound\" and \"disgrace\" are being denied, and they are being treated as if they are the same. This could mean that the person who created the diagram is denying the existence of a mound and the disgrace associated with it, or that the mound and the disgrace are one and the same thing. However, without additional context, this is an interpretation and not a definitive logical statement."
+        }
+      },
+      {
+        "model": "nelsonjchen/minigpt-4_vicuna-13b:47a8e0a09e1e99bb784f3aa6277b5abb0917233ba74e6937eb447fd0bba7fd5a",
+        "answers": {
+          "Morphological Question": "It looks like there are a few elements present in the image. There are two arrows pointing in opposite directions, a circle with a line through it, and a curved line that connects the two arrows. It appears that these elements may be part of a diagram or flowchart, but it's difficult to tell exactly what the image represents without more context.",
+          "Indexical Question": "The elements present in the image are the text that reads, 'Indexical question: man, moundel, and dishrape.' The first element is the name of a person, the second element is a place, and the third element is an object. The elements are not connected to each other in any way, but they are related in that they all belong to the same language system and are part of the same sentence. The image is a text, and it does not show any visual representation of the elements.",
+          "Symbolic Question": "This appears to be a diagram showing a logical system with various elements such as cuts, propositions, and background. The diagram appears to be showing how different elements are related to each other through cuts.\n The different elements in the diagram have different meanings and the interpretation of the diagram is dependent on understanding the meaning of each element. The lines and shapes in the diagram represent different logical relationships between the elements.\n The principle of Peirce's diagrammatic logic is that elements inside the same region are interpreted conjunctively (i.e., asserted together) and elements placed directly on the background (the Sheet of Assertion) are considered true. A cut around propositions denies them. Nested cuts represent nested negation.\n It is not possible to translate the meaning of this diagram into a logical statement as it is a diagrammatic representation and its meaning is dependent on understanding the meaning of each element."
+        }
+      },
+      {
+        "model": "BLIP3-o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n\n1. **Words**: The words \"wounded\" and \"disgrace\" are written inside an oval shape.\n2. **Lines**: There is a horizontal line at the top of the image that appears to be crossed out or erased.\n3. **Arcs**: There are two curved lines forming the oval shape around the words \"wounded\" and \"disgrace.\"\n4. **Nodes**: There is a node-like structure where the horizontal line intersects with the curved lines forming the oval.\n5. **Shapes**: The main shape is an oval, and there is also a smaller arc-like shape within the oval.\n\nIn summary, the image contains words, lines, arcs, a node, and shapes.",
+          "Indexical Question": "The image appears to be a hand-drawn diagram or sketch with two main elements: \"man\" and \"wounded disgrace.\" The word \"man\" is on the left side, and it is connected by a line to the phrase \"wounded disgrace,\" which is enclosed within a curved shape that resembles a thought bubble or a speech bubble.\n\nThe relationship between these elements could be interpreted as follows:\n\n- The \"man\" is the subject of the phrase.\n- The phrase \"wounded disgrace\" describes a state or condition associated with the man.\n\nThe connection suggests that the man is experiencing or has experienced something that is causing him to be in a state of \"wounded disgrace.\" This could imply a sense of shame, humiliation, or distress due to some form of injury or damage to his reputation or character.",
+          "Symbolic Question": "Certainly! Let's break down the diagram step by step according to Peirce's diagrammatic logic:\n\n1. **Sheet of Assertion**: The text \"man\" is placed directly on the background, which means it is considered true.\n2. **Cut**: There is a closed curve (cut) enclosing two terms: \"wounded\" and \"disgrace.\"\n3. **Negation**: Since the cut is enclosing these terms, it indicates that the conjunction of \"wounded\" and \"disgrace\" is denied.\n\nPutting it all together, the logical statement represented by the diagram would be:\n\n**\"It is not the case that a man is both wounded and disgraced.\"**\n\nIn formal logical notation, this could be written as:\n¬∃x (Man(x) ∧ Wounded(x) ∧ Disgraced(x))\n\nThis translates to: \"It is not true that a man is both wounded and disgraced.\""
+        }
+      },
+      {
+        "model": "microsoft/phi-4-multimodal-instruct:40c8f5c03ce250441855e776528bafd11cdb302c6677613acc0942c58dbd0afa",
+        "answers": {
+          "Morphological Question": "The image contains two words: 'man' and 'wounded', and a line connecting them.",
+          "Indexical Question": "Yes, there is a relationship between the elements present in the image. The word 'man' is connected to the phrase 'wounded disgrace' through a line that leads to a bracket encompassing both words.",
+          "Symbolic Question": "The diagram shows a cut around the word \"disgrace,\" which means that the proposition \"man disgraces\" is being negated. Therefore, the logical statement would be \"It is not the case that a man disgraces.\""
+        }
+      }
+    ],
+    "ground_truth": {
+      "Morphological Question": "The image contains the following elements:\n \n - Three words: \"man,\" \"wounded,\" and \"disgraced.\"\n - One straight line connecting \"man\" to the curved shape.\n - One curved shape or arc enclosing the words \"wounded\" and \"disgraced.\"",
+      "Indexical Question": " - The word \"man\" is connected by a straight line to the curved shape.\n - The curved shape encloses the words \"wounded\" and \"disgraced.\"\n \n This suggests that \"wounded\" and \"disgraced\" are related to \"man.\"",
+      "Symbolic Question": "It means that something is identical with a man who is not at once wounded and disgraced; that is, some man is either not wounded OR not disgraced."
+    }
+  },
+  "D._Logic__hou02614c00458__seq613_cls0_1": {
+    "metadata": {
+      "Manuscript Title": "Peirce, Charles S. (Charles Sanders), 1839-1914. Chapter III. The Simplest Mathematics (Logic III)  : autograph manuscript",
+      "Category": "D. Logic",
+      "ID Manuscript": "hou02614c00458",
+      "Canvas URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+      "ID Canvas": "D._Logic__hou02614c00458__seq613",
+      "Type": "Diagramma",
+      "oa:Target": "xywh=842,523,602,141",
+      "Manifest URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248",
+      "Digital Link": "http://nrs.harvard.edu/urn-3:FHCL.HOUGH:12491033"
+    },
+    "evaluations": [
+      {
+        "model": "gpt-4o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n \n 1. Words:\n  - \"man\"\n  - \"wounded\"\n  - \"disgraced\"\n \n 2. Lines:\n  - A horizontal line starting from the word \"man\"\n  - A vertical line curving down from the word \"man\" to connect to \"wounded\"\n  - A curved line from \"wounded\" to \"disgraced\"\n \n 3. Shapes:\n  - An oval encircling the word \"disgraced\" \n \n These elements form a simple diagram or flow showing a connection between the words.",
+          "Indexical Question": "Yes, there is a relationship between the elements:\n \n 1. The word \"man\" is connected to \"wounded\" by a curved line.\n 2. \"Wounded\" is connected to \"disgraced\" by another curved line.\n 3. The word \"disgraced\" is enclosed in an oval shape.\n \n These connections suggest a progression or association between the concepts represented by the words.",
+          "Symbolic Question": "Based on Peirce’s diagrammatic logic:\n \n 1. The word \"man\" is on the background, suggesting it is asserted as true.\n 2. \"Wounded\" is connected to \"man,\" indicating an association or that \"some man is wounded.\"\n 3. \"Disgraced\" is inside a closed curve (the oval), which represents negation.\n \n In logical terms, the diagram could be interpreted as:\n \n - \"There exists a man who is wounded, but not disgraced.\"\n \n This means:\n \n - The qualities of being \"wounded\" and \"man\" are asserted or accepted, while \"disgraced\" is negated."
+        }
+      },
+      {
+        "model": "yorickvp/llava-v1.6-vicuna-13b:0603dec596080fa084e26f0ae6d605fc5788ed2b1a0358cd25010619487eae63",
+        "answers": {
+          "Morphological Question": "The image contains handwritten text with various elements. There are two words: \"men\" and \"disgraces.\" The word \"men\" is written in a cursive script, while \"disgraces\" is written in a more angular, print-like style. There are also two lines that connect the words \"men\" and \"disgraces,\" suggesting a relationship or association between the two. The lines are not straight but have a slight curve, indicating a casual or informal handwriting style. The overall shape of the lines and the words is somewhat irregular and organic, with no strict geometric shapes or arcs present. The image does not contain any distinct nodes or shapes other than the text and the connecting lines.",
+          "Indexical Question": "The image shows a handwritten text that appears to be a list or a series of words. The words \"men,\" \"disgrace,\" and \"wounded\" are connected by lines, suggesting a relationship between them. The word \"wounded\" is connected to \"men\" and \"disgrace,\" which could imply a causal relationship or a thematic connection between the concepts of being wounded and the disgrace that might result from it. The word \"disgrace\" is also connected to \"wounded,\" which could indicate a reciprocal relationship or a cycle of events. The overall impression is that the text is discussing the consequences or the aftermath of being wounded, particularly in the context of men and the disgrace that might follow.",
+          "Symbolic Question": "The diagram you've provided appears to be a simple hand-drawn sketch, not a formal diagrammatic logic representation. It shows a closed curve (the cut) with the word \"men\" inside it, and a larger circle with the word \"disgraces\" inside it. The cut is not placed directly on the background, so it is not considered true according to the principles of Peirce's diagrammatic logic.\n \n To interpret this diagram in the context of Peirce's logic, we would typically look for a clear indication of identity or existential quantification, as well as the placement of elements to determine their logical relationship. However, the diagram does not provide clear indications of these elements, and the handwriting is not precise enough to determine the intended meaning with certainty.\n \n In natural language, the diagram could be interpreted as a casual sketch or a doodle, possibly representing a thought or idea about men and disgraces, but without a clear context or understanding of the intent behind the drawing, it is not possible to provide a precise logical statement or interpretation."
+        }
+      },
+      {
+        "model": "nelsonjchen/minigpt-4_vicuna-13b:47a8e0a09e1e99bb784f3aa6277b5abb0917233ba74e6937eb447fd0bba7fd5a",
+        "answers": {
+          "Morphological Question": "In the image there is one element, which is the word \"disease\" in the form of a handwritten message.",
+          "Indexical Question": "The elements present in the image are the letter M, the word wounded, the letter D, and the word disasters. The elements are connected to each other through their respective positions in the image. The word wounded is written on top of the letter M, and the letter D is written on top of the word disasters.",
+          "Symbolic Question": "The diagram appears to be a representation of a logical system, likely in the form of a semantic network. It appears to be illustrating a set of rules and relationships between different elements, with the \"man\" and \"dissociated\" labels providing additional context.\n \n Based on the principles outlined in the question, it appears that the diagram represents a system of logical negation. The closed curve, or \"cut,\" represents logical negation, and elements within the same region are interpreted conjunctively (i.e., asserted together). Elements placed directly on the background (the \"Sheet of Assertion\") are considered true. A cut around propositions denies them. Nested cuts represent nested negation.\n \n Lines may indicate identity or existential quantification. Based on these principles, the diagram can be interpreted as follows:\n \n * The \"Man\" and \"Dissociated\" labels provide additional context to the elements within the same region, which are interpreted conjunctively.\n * The \"Man\" label indicates that the element within that region is true.\n * The \"Dissociated\" label indicates that the element within that region is negated.\n * The nested cuts represent nested negation, with the inner cut denying the element within the outer cut.\n \n Overall, the diagram appears to represent a system of logical negation, with elements within the same region interpreted conjunctively and elements outside of that region negated."
+        }
+      },
+      {
+        "model": "BLIP3-o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n\n1. **Words**: The words \"wounded\" and \"disgraced\" are present.\n2. **Lines**: There are two horizontal lines crossing over the word \"wounded.\"\n3. **Arcs**: There is an arc or curve drawn around the word \"disgraced.\"\n4. **Nodes**: There is a node or point where the line intersects with the arc around \"disgraced.\"\n\nIn summary, there are two words, two horizontal lines, one arc, and one node in the image.",
+          "Indexical Question": "The image appears to be a handwritten note or diagram with two words: \"wounded\" and \"disgraced.\" There is a line connecting these two words, suggesting a relationship between them. The word \"man\" is also present but not directly connected to either of the other two words.\n\nGiven the context, it seems that the words \"wounded\" and \"disgraced\" might be related in some way, possibly indicating that a person who is wounded may also be disgraced. However, without additional context, it's difficult to determine the exact nature of this relationship. The connection could imply causation, consequence, or simply be a descriptive pairing.",
+          "Symbolic Question": "The diagram you provided appears to be a form of Peirce's existential graphs, which are a type of diagrammatic logic developed by Charles Sanders Peirce. Let's break down the components:\n\n1. **Closed Curve (Cut):** The closed curve in the diagram represents logical negation. It encloses the terms \"wounded\" and \"disgraced,\" indicating that both terms are negated.\n\n2. **Elements Inside the Cut:** The terms \"wounded\" and \"disgraced\" are placed inside the cut, which means they are negated. In other words, the cut negates the conjunction of \"wounded\" and \"disgraced.\"\n\n3. **Sheet of Assertion:** The background outside the cut is considered true. This means that the negation of the conjunction of \"wounded\" and \"disgraced\" is true.\n\nGiven these principles, we can translate the diagram into a logical statement as follows:\n\n\\[\n\\neg (\\text{wounded} \\land \\text{disgraced})\n\\]\n\nThis statement reads: \"It is not the case that a man is both wounded and disgraced.\""
+        }
+      },
+      {
+        "model": "microsoft/phi-4-multimodal-instruct:40c8f5c03ce250441855e776528bafd11cdb302c6677613acc0942c58dbd0afa",
+        "answers": {
+          "Morphological Question": "The image contains two words: 'wounded' and 'disgraced'.",
+          "Indexical Question": "Yes, there is a relationship between the elements present in the image. The word 'wounded' is connected to the word 'man' with a line, and the word 'disgraced' is connected to the word 'wounded' with a line.",
+          "Symbolic Question": "The diagram shows a cut around the word \"disgraced,\" which means that the proposition \"man disgraced\" is being negated. Therefore, the logical statement would be \"It is not the case that the man is disgraced.\""
+        }
+      }
+    ],
+    "ground_truth": {
+      "Morphological Question": "The image contains the following elements:\n \n 1. Words:\n  - \"man\"\n  - \"wounded\"\n  - \"disgraced\"\n \n 2. Lines:\n  - A horizontal line starting from the word \"man\" that bifurcate to connect the world \"wounded\" and \"disgraced\" \n 3. Shapes:\n  - An oval encircling the word \"disgraced\" ",
+      "Indexical Question": " 1. The word \"man\" is connected to \"wounded\" by a curved line.\n 2. \"Wounded\" is connected to \"disgraced\" by another curved line.\n 3. The word \"disgraced\" is enclosed in an oval shape.\n \n These connections suggest a progression or association between the concepts represented by the words.",
+      "Symbolic Question": "It means that something is identical with a man wounded but NOT disgraced."
+    }
+  },
+  "D._Logic__hou02614c00458__seq613_cls0_3": {
+    "metadata": {
+      "Manuscript Title": "Peirce, Charles S. (Charles Sanders), 1839-1914. Chapter III. The Simplest Mathematics (Logic III)  : autograph manuscript",
+      "Category": "D. Logic",
+      "ID Manuscript": "hou02614c00458",
+      "Canvas URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+      "ID Canvas": "D._Logic__hou02614c00458__seq613",
+      "Type": "Diagramma",
+      "oa:Target": "xywh=875,1121,633,144",
+      "Manifest URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248",
+      "Digital Link": "http://nrs.harvard.edu/urn-3:FHCL.HOUGH:12491033"
+    },
+    "evaluations": [
+      {
+        "model": "gpt-4o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n \n - Two words: \"wounded\" and \"disgraced.\"\n - One line connecting the word \"man\" with the arcs leading to the words \"wounded\" and \"disgraced.\"\n - Two arcs branching from the line, each leading to one of the words.\n - Two shapes resembling ovals that encircle the words \"wounded\" and \"disgraced.\"\n \n These elements appear to form a diagram or a visual representation of a concept.",
+          "Indexical Question": "Yes, there is a relationship between the elements:\n \n - The word \"man\" is the starting point and is connected by a line.\n - The line branches into two arcs, each leading to one of the words: \"wounded\" and \"disgraced.\"\n - Both \"wounded\" and \"disgraced\" are connected back to \"man,\" suggesting that these words are associated with the concept or subject \"man.\"\n \n The diagram seems to depict associations between \"man\" and the words \"wounded\" and \"disgraced.\"",
+          "Symbolic Question": "In Peirce’s diagrammatic logic, the image can be interpreted as follows:\n \n - The word \"man\" is on the background, the Sheet of Assertion, indicating it is true or given in the context.\n - The words \"wounded\" and \"disgraced\" are each enclosed in their own oval shapes, or cuts.\n \n Since the words \"wounded\" and \"disgraced\" are enclosed in separate cuts without any nesting, they are individually negated. The negations might be interpreted as \"not wounded\" and \"not disgraced.\"\n \n Therefore, the diagram could be logically interpreted as:\n \n \"man\" AND (NOT \"wounded\") AND (NOT \"disgraced\")\n \n In natural language, this would suggest:\n \n A man is asserted, and it is denied that he is wounded or disgraced."
+        }
+      },
+      {
+        "model": "yorickvp/llava-v1.6-vicuna-13b:0603dec596080fa084e26f0ae6d605fc5788ed2b1a0358cd25010619487eae63",
+        "answers": {
+          "Morphological Question": "In the image, there are three elements:\n \n 1. Two words: \"mum\" and \"disgrace\"\n 2. Two lines connecting the words: one line connects \"mum\" to \"disgrace,\" and the other line connects \"disgrace\" to \"mum.\"\n 3. Two arcs or shapes that resemble the letter \"M\" or a stylized \"U\" shape, one on each side of the words, possibly indicating a relationship or association between the words.",
+          "Indexical Question": "The image appears to be a hand-drawn sketch with various words and phrases written in a cursive script. The words \"mum,\" \"disgrace,\" and \"wounded\" are connected by lines, suggesting a relationship between them. It's not clear from the image alone what the exact nature of the relationship is, but it could be a conceptual or thematic connection. For example, \"mum\" might be related to the other two words in a context such as a family situation where a parent is feeling disgraced or wounded. The image could be part of a story, a poem, or a personal reflection, and the connections between the words might be part of a narrative or emotional journey.",
+          "Symbolic Question": "The diagram you've provided appears to represent a simple logical structure with three elements, each connected by lines. The elements are labeled \"mum,\" \"wondered,\" and \"dispraised.\"\n \n In Peirce's diagrammatic logic, a closed curve (cut) represents logical negation. A line connecting two elements represents conjunction (assertion together). A line connecting an element to the background (Sheet of Assertion) represents truth.\n \n Given these principles, we can interpret the diagram as follows:\n \n 1. The line connecting \"mum\" and \"wondered\" represents a conjunction, asserting that \"mum wondered.\"\n 2. The line connecting \"wondered\" and \"dispraised\" represents another conjunction, asserting that \"wondered dispraised.\"\n 3. The line connecting \"mum\" to the background represents \"mum is true.\"\n 4. The line connecting \"wondered\" to the background represents \"wondered is true.\"\n 5. The line connecting \"dispraised\" to the background represents \"dispraised is true.\"\n \n The diagram does not contain any cuts or nested cuts, so there is no negation or nested negation implied. The lines indicate identity or existential quantification, as they connect the elements directly to the background.\n \n In natural language, the diagram can be translated as follows:\n \n \"Mum wondered, and wondered dispraised. Mum is true, and wondered is true, and dispraised is true.\"\n \n This is a straightforward representation of the logical relationships between the elements in the diagram."
+        }
+      },
+      {
+        "model": "nelsonjchen/minigpt-4_vicuna-13b:47a8e0a09e1e99bb784f3aa6277b5abb0917233ba74e6937eb447fd0bba7fd5a",
+        "answers": {
+          "Morphological Question": "1) The image appears to contain three elements: a straight line, a curved line, and a small circular shape. 2) The straight line appears to be a continuous and unbroken path. The curved line appears to be a broken or interrupted path. The circular shape appears to be a simple shape with no internal elements. 3) There are no words or letters present in the image.",
+          "Indexical Question": "There are several elements present in the image, such as the bed, dresser, lamps, and the person in the bed. The bed, dresser, and lamps appear to be connected to each other, forming a cohesive scene. The person in the bed is also connected to the other elements, as they are part of the same environment. The image appears to be a snapshot of a person in bed, with their belongings surrounding them.",
+          "Symbolic Question": "The diagram appears to represent a logical system based on the principles of Peirce's diagrammatic logic. It consists of a sheet with various regions labeled with mathematical symbols and signs, and lines connecting these regions.\n The system appears to be based on the idea that certain propositions (represented by regions on the sheet) are true if they are surrounded by other propositions that are also true. For example, the proposition represented by the region labeled \"x\" is considered true because it is surrounded by other true propositions.\n However, certain propositions can be negated by placing a cut (represented by a closed curve) around them. This means that these propositions are denied and considered false. Nested cuts represent nested negations, meaning that multiple propositions can be negated at once.\n Lines in the diagram may indicate identity or existential quantification. The diagram appears to be a representation of logical relationships between different propositions, but it is not possible to translate the meaning of the diagram into a single logical statement without more context."
+        }
+      },
+      {
+        "model": "BLIP3-o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n\n1. **Words**: The words \"wounded\" and \"disgraced\" are written in cursive handwriting.\n2. **Lines**: There is a curved line connecting the word \"wounded\" to the word \"disgraced.\"\n3. **Arcs**: The curved line itself can be considered an arc.\n4. **Nodes**: The points where the curved line connects to the words \"wounded\" and \"disgraced\" can be considered nodes.\n\nIn summary, there are two words, one curved line (arc), and two nodes.",
+          "Indexical Question": "The image appears to be a handwritten note or diagram with two main elements: \"wounded\" and \"disgraced.\" There is a line connecting these two words, suggesting a relationship between them. The word \"wounded\" is written above the line, and \"disgraced\" is written below it, indicating that they might be related concepts or ideas being discussed.\n\nIn the context of the image, the connection could imply that being wounded (physically or emotionally) can lead to disgrace, or that someone who is disgraced may have been wounded in some way. However, without additional context, it's difficult to determine the exact nature of the relationship intended by the writer.",
+          "Symbolic Question": "The diagram you provided shows two elements: \"wounded\" and \"disgraced,\" with a cut separating them. According to Peirce's diagrammatic logic:\n\n1. The cut around \"wounded\" and \"disgraced\" indicates that both elements are denied.\n2. The elements \"wounded\" and \"disgraced\" are placed directly on the background (Sheet of Assertion), which means they are considered true.\n\nGiven these principles, the diagram can be interpreted as follows:\n\n- The cut around \"wounded\" and \"disgraced\" negates both elements.\n- Since \"wounded\" and \"disgraced\" are true, their negation would be false.\n\nTherefore, the logical statement represented by the diagram is:\n\\[\n\\neg(\\text{wounded} \\land \\text{disgraced})\n\\]\n\nThis translates to:\n\\[\n\\text{It is not the case that the man is both wounded and disgraced.}\n\\]"
+        }
+      },
+      {
+        "model": "microsoft/phi-4-multimodal-instruct:40c8f5c03ce250441855e776528bafd11cdb302c6677613acc0942c58dbd0afa",
+        "answers": {
+          "Morphological Question": "The image contains two words: 'wounded' and 'disgrace'. There are also two arcs connecting these words.",
+          "Indexical Question": "Yes, there is a relationship between the elements present in the image. The elements 'wounded' and 'disgrace' are connected to each other, as indicated by the lines connecting them.",
+          "Symbolic Question": "The diagram shows two propositions, \"wounded\" and \"disgraced,\" enclosed within a single region, indicating that they are asserted together. The propositions are placed on the Sheet of Assertion, which means they are considered true. There is no cut around either proposition, so neither is negated. Therefore, the logical statement can be interpreted as \"wounded and disgraced.\""
+        }
+      }
+    ],
+    "ground_truth": {
+      "Morphological Question": "The image contains the following elements:\n \n - Three words: \"man,\" \"wounded,\" and \"disgraced.\"\n - One horizontal line starting from the word \"man\" that biforcate leading to the words \"wounded\" and \"disgraced.\"\n - Two arcs branching from the line, each leading to one of the words.\n - Two ovals that encircle the words \"wounded\" and \"disgraced.\"",
+      "Indexical Question": " - The word \"man\" is the starting point and is connected by a line.\n - The line branches, leading to two words: \"wounded\" and \"disgraced.\"\n - Both \"wounded\" and \"disgraced\" are connected back to \"man,\" suggesting that these words are associated with the concept or subject \"man.\"\n \n The diagram seems to depict associations between \"man\" and the words \"wounded\" and \"disgraced.\"",
+      "Symbolic Question": "It means that something is a man who is not wounded AND not disgraced. The continuity of the identity is unaffected by the oval."
+    }
+  },
+  "D._Logic__hou02614c00458__seq613_cls0_4": {
+    "metadata": {
+      "Manuscript Title": "Peirce, Charles S. (Charles Sanders), 1839-1914. Chapter III. The Simplest Mathematics (Logic III)  : autograph manuscript",
+      "Category": "D. Logic",
+      "ID Manuscript": "hou02614c00458",
+      "Canvas URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+      "ID Canvas": "D._Logic__hou02614c00458__seq613",
+      "Type": "Diagramma",
+      "oa:Target": "xywh=841,209,633,156",
+      "Manifest URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248",
+      "Digital Link": "http://nrs.harvard.edu/urn-3:FHCL.HOUGH:12491033"
+    },
+    "evaluations": [
+      {
+        "model": "gpt-4o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n \n 1. **Words:**\n  - \"man\"\n  - \"wounded\"\n  - \"disgraced\"\n \n 2. **Lines/Arcs:**\n  - A curved line connecting \"man\" to \"wounded\" and \"disgraced.\"\n \n This appears to be a conceptual or mind map style diagram with words connected by a line.",
+          "Indexical Question": "Yes, there is a relationship between the elements. The word \"man\" is connected to both \"wounded\" and \"disgraced\" by a curved line. This suggests that \"wounded\" and \"disgraced\" are attributes or descriptors related to \"man.\"",
+          "Symbolic Question": "In Peirce’s diagrammatic logic, if we consider the principles you mentioned:\n \n 1. The words \"wounded\" and \"disgraced\" are within a closed curve connected to \"man.\"\n 2. There is no explicit cut (circle or loop) around these words to suggest logical negation.\n 3. The words are placed directly on the background, indicating they are true.\n \n Given these observations, we can interpret the diagram as asserting that:\n \n - There exists a \"man\" who is both \"wounded\" and \"disgraced.\"\n \n There is no indication of negation, so it is a straightforward assertion of conjunction. If there was a visible closed loop around the entire set, it would have indicated negation, but since that is absent, this direct interpretation is the most accurate within Peirce’s framework."
+        }
+      },
+      {
+        "model": "yorickvp/llava-v1.6-vicuna-13b:0603dec596080fa084e26f0ae6d605fc5788ed2b1a0358cd25010619487eae63",
+        "answers": {
+          "Morphological Question": "The image contains handwritten text. There are several elements present:\n \n 1. Words: The words \"man\" and \"disgrace\" are written in a cursive script.\n 2. Lines: There are lines connecting the words \"man\" and \"disgrace,\" suggesting a relationship or association between the two.\n 3. Arcs: The word \"disgrace\" is underlined with an arc, which is a common way to emphasize a word in handwriting.\n 4. Nodes: The handwriting includes various nodes where the pen has lifted off the paper, indicating the flow of the writing.\n 5. Shapes: The handwriting itself is a combination of shapes, including loops, curves, and straight lines, which are typical of cursive script.\n \n These elements together create the visual representation of the text in the image.",
+          "Indexical Question": "The image shows handwritten text with the words \"mon\" and \"disgrace\" connected by a line. The word \"mon\" is written in a larger, cursive font, while \"disgrace\" is written in a smaller, more straightforward script. The line connecting them appears to be a simple line drawing, possibly indicating a relationship or connection between the two words.\n \n The relationship between the elements in the image could be interpreted in various ways, depending on the context. If we consider the words as nouns, \"mon\" could be interpreted as a shortened form of \"monument,\" which might be related to the concept of disgrace in the sense of a monumental failure or a disgraceful event that is remembered or commemorated. Alternatively, \"mon\" could be a shortened form of \"monarchy,\" which might be connected to the concept of disgrace in the sense of a disgraced royal or a disgraced monarchy.\n \n If we consider the words as verbs, \"mon\" could be interpreted as a shortened form of \"monitor,\" which might be related to the concept of disgrace in the sense of being monitored or watched closely, leading to a disgraceful outcome.\n \n Without additional context, it's difficult to determine the exact relationship between the elements, but the connection between the words suggests a deliberate linkage by the writer, which could be related to a specific concept, event, or idea.",
+          "Symbolic Question": "The diagram you've provided appears to be a hand-drawn representation of a Peircean diagrammatic logic. However, the diagram is not clear enough to discern the specific elements and their relationships with certainty.\n \n In Peircean diagrammatic logic, elements are represented by points, lines, and curves, and their relationships are interpreted based on their positioning and the type of curve used. Closed curves, like the one in the image, are used to represent negation.\n \n To interpret the diagram, one would typically look for points and lines that are inside or outside the curve, and then apply the rules of Peircean logic to determine the logical relationships between the elements. For example, if a point is inside the curve, it would be considered negated. If a line is drawn from one point to another, it might indicate identity or existential quantification.\n \n However, due to the quality of the image and the complexity of the diagram, it's not possible to provide a precise interpretation or translation into a logical statement. If you can provide a clearer image or more context, I might be able to offer a more detailed interpretation."
+        }
+      },
+      {
+        "model": "nelsonjchen/minigpt-4_vicuna-13b:47a8e0a09e1e99bb784f3aa6277b5abb0917233ba74e6937eb447fd0bba7fd5a",
+        "answers": {
+          "Morphological Question": "There are several elements present in the image. Some of the elements include:\n \n 1. Lines: There are multiple lines present in the image, including the horizontal and vertical lines that form the border of the image and the lines that make up the shape of the tree.\n 2. Shapes: The shape of the tree is a complex shape made up of several branches and leaves.\n 3. Words: The words \"morphological question\" are present in the image.\n 4. Arcs: There are no arcs present in the image.\n 5. Nodes: There are no nodes present in the image.\n 6. Colors: The image is in black and white.\n 7. Orientation: The image is oriented in a landscape direction.",
+          "Indexical Question": "There is no direct relationship between the elements present in the image. They are all separate elements.",
+          "Symbolic Question": "The diagram appears to be a representation of a logical system, likely in the style of Peirce's diagrammatic logic. The system seems to be based on the use of cuts, which represent logical negation, and elements inside the same region being interpreted conjunctively (i.e. asserted together). Elements placed directly on the background (the Sheet of Assertion) are considered true. A cut around propositions denies them. Nested cuts represent nested negation. Lines may indicate identity or existential quantification.\n \n Based on these principles, it appears that the system is using cuts to represent the negation of certain propositions. The elements within the same region are interpreted as true. The cut around the propositions denies them. Nested cuts represent nested negation. The lines may indicate identity or existential quantification.\n \n It is difficult to translate this into a logical statement without more information about the specific propositions being negated and the meaning of the lines. However, the overall structure of the diagram suggests a logical system based on the use of cuts to negate propositions and indicate the relationships between them."
+        }
+      },
+      {
+        "model": "BLIP3-o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n\n1. **Words**: The words \"wounded\" and \"disgraced\" are written in cursive.\n2. **Lines**: There is a horizontal line connecting the two words.\n3. **Arcs**: There is an arc or curve drawn between the words \"wounded\" and \"disgraced.\"\n4. **Nodes**: There are no distinct nodes in the image; however, the words themselves can be considered as nodes in a conceptual sense if we consider them as points of connection.\n\nIn summary, there are two words, one horizontal line, one arc, and potentially two nodes (the words themselves).",
+          "Indexical Question": "The image appears to show handwritten text with two words: \"wounded\" and \"disgraced.\" There is a line connecting the word \"man\" to both \"wounded\" and \"disgraced,\" suggesting a relationship between these terms.\n\nThe connection implies that the term \"man\" is associated with both \"wounded\" and \"disgraced.\" This could be interpreted as a statement about a man who has been wounded and disgraced, or it could be part of a larger context where these terms are being used together to describe a situation or condition involving a man. Without additional context, it's difficult to determine the exact nature of the relationship or the full meaning of the statement.",
+          "Symbolic Question": "The given diagram consists of two elements: \"wounded man\" and \"disgraced.\" There is a closed curve (cut) that encloses both elements. According to Peirce's diagrammatic logic:\n\n1. The closed curve (cut) around \"wounded man\" and \"disgraced\" indicates that these two elements are denied.\n2. Elements placed directly on the background (Sheet of Assertion) are considered true.\n\nSince the cut is around both \"wounded man\" and \"disgraced,\" it means that the conjunction of \"wounded man\" and \"disgraced\" is denied. In other words, it is not the case that both \"wounded man\" and \"disgraced\" hold simultaneously.\n\nTherefore, the logical statement corresponding to this diagram is:\n\\[\n\\neg (\\text{wounded man} \\land \\text{disgraced})\n\\]\n\nThis can be read as \"It is not the case that the man is both wounded and disgraced.\""
+        }
+      },
+      {
+        "model": "microsoft/phi-4-multimodal-instruct:40c8f5c03ce250441855e776528bafd11cdb302c6677613acc0942c58dbd0afa",
+        "answers": {
+          "Morphological Question": "The image contains two words: 'wounded' and 'man'.",
+          "Indexical Question": "The elements 'wounded' and 'man' are connected with a hyphen, indicating a relationship between the two words. The word 'disgraced' is connected to 'man' with a bracket, suggesting it is an attribute or result related to the man.",
+          "Symbolic Question": "The diagram shows a cut around the word \"man\" and the word \"disgrace\" is outside the cut. According to Peirce's diagrammatic logic, the cut represents logical negation. Therefore, the logical statement can be interpreted as \"It is not the case that a man is disgraced.\""
+        }
+      }
+    ],
+    "ground_truth": {
+      "Morphological Question": "The image contains the following elements:\n \n 1. **Words:**\n  - \"man\"\n  - \"wounded\"\n  - \"disgraced\"\n \n 2. **Lines/Arcs:**\n  - An horizontal line that biforcate connecting \"man\" to \"wounded\" and \"disgraced.\"",
+      "Indexical Question": "The word \"man\" is connected to both \"wounded\" and \"disgraced\" by a curved line. This suggests that \"wounded\" and \"disgraced\" are attributes or descriptors related to \"man.\"",
+      "Symbolic Question": "This asserts that something is at once a man, wounded AND disgraced."
+    }
+  },
+  "D._Logic__hou02614c00458__seq613_cls0_5": {
+    "metadata": {
+      "Manuscript Title": "Peirce, Charles S. (Charles Sanders), 1839-1914. Chapter III. The Simplest Mathematics (Logic III)  : autograph manuscript",
+      "Category": "D. Logic",
+      "ID Manuscript": "hou02614c00458",
+      "Canvas URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+      "ID Canvas": "D._Logic__hou02614c00458__seq613",
+      "Type": "Diagramma",
+      "oa:Target": "xywh=958,1504,396,104",
+      "Manifest URI": "https://iiif.lib.harvard.edu/manifests/drs:48995248",
+      "Digital Link": "http://nrs.harvard.edu/urn-3:FHCL.HOUGH:12491033"
+    },
+    "evaluations": [
+      {
+        "model": "gpt-4o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n \n 1. A handwritten word: \"wounded.\"\n 2. An oval shape encircling the word.\n 3. A horizontal line extending from the left side of the oval.",
+          "Indexical Question": "Yes, there is a relationship between the elements:\n \n 1. The word \"wounded\" is encircled by the oval shape, indicating that it is highlighted or emphasized.\n 2. The horizontal line is connected to the oval, suggesting a pointing or linking gesture towards the word.",
+          "Symbolic Question": "Based on Peirce’s diagrammatic logic:\n \n 1. The word \"wounded\" is inside a closed curve (the oval), which represents a cut or logical negation.\n 2. The horizontal line extending from the oval does not have another distinct element to connect to, making the meaning of the line ambiguous. In Peirce’s logic, a line might indicate identity or existential quantification, but here it does not clearly specify what is being identified or quantified.\n \n Translating this into logical terms:\n \n - Since \"wounded\" is inside a cut (oval), it is negated. Thus, the logical interpretation of the diagram is ¬(wounded), meaning \"not wounded.\"\n \n This represents a simple negation of the proposition \"wounded.\" The line does not provide additional logical content based on the given elements."
+        }
+      },
+      {
+        "model": "yorickvp/llava-v1.6-vicuna-13b:0603dec596080fa084e26f0ae6d605fc5788ed2b1a0358cd25010619487eae63",
+        "answers": {
+          "Morphological Question": "The image appears to be a hand-drawn sketch of a word, which is \"wounded.\" The elements present in the image include:\n \n 1. A central, rounded shape that represents the letter \"o\" in the word \"wounded.\"\n 2. A curved line that forms the upper part of the letter \"u\" in \"wounded.\"\n 3. A straight line that forms the lower part of the letter \"u\" in \"wounded.\"\n 4. A curved line that forms the lower part of the letter \"n\" in \"wounded.\"\n 5. A straight line that forms the upper part of the letter \"d\" in \"wounded.\"\n 6. A curved line that forms the lower part of the letter \"d\" in \"wounded.\"\n 7. A curved line that forms the lower part of the letter \"e\" in \"wounded.\"\n 8. A straight line that forms the upper part of the letter \"e\" in \"wounded.\"\n 9. A curved line that forms the upper part of the letter \"d\" in \"wounded.\"\n \n The sketch is not perfectly aligned or proportioned, which is common in hand-drawn sketches.",
+          "Indexical Question": "The image shows a handwritten word \"wounded\" with a line extending from the \"w\" to the \"d\" of the word. The line appears to be a continuation of the \"w\" and forms a loop, which is not a typical way to write the word. The relationship between the elements in the image is that the line is connected to the \"w\" and \"d\" of the word, suggesting a connection between the \"w\" and \"d\" in the context of the word \"wounded.\" However, this is a non-standard way of writing the word, and the line does not form a standard letter or word shape.",
+          "Symbolic Question": "The diagram you've provided appears to be a simple hand-drawn representation of a cut and a line. In Peirce's diagrammatic logic, a cut represents logical negation, and the line could represent identity or existential quantification.\n \n Given the context you've provided, the cut around the word \"wounded\" could represent the logical negation of the word, which would mean that the word \"wounded\" is not true. The line leading to the cut might indicate an existential quantification, suggesting that there is at least one wounded entity.\n \n However, without more context or a clearer understanding of the intent behind the diagram, it's difficult to provide a precise logical statement. The diagram seems to be a simple representation and might not be intended to convey a complex logical statement. It could be a personal note or a conceptual sketch rather than a formal logical statement."
+        }
+      },
+      {
+        "model": "nelsonjchen/minigpt-4_vicuna-13b:47a8e0a09e1e99bb784f3aa6277b5abb0917233ba74e6937eb447fd0bba7fd5a",
+        "answers": {
+          "Morphological Question": "The image appears to have no elements present. It is a blank page with no words, lines, arcs, nodes, shapes, or any other elements visible.",
+          "Indexical Question": "No, there is no direct relationship between the elements present in the image. The elements in the image are the black ink, the white paper, and the words 'noun' written in black ink. While they are all present in the same image, they are not directly connected to each other.",
+          "Symbolic Question": "This is a diagrammatic representation of a logical system. The diagram consists of a series of shapes and lines, each with a specific meaning. The central shape, which looks like a doughnut, represents the \"Sheet of Assertion,\" which is where elements in the same region are interpreted conjunctively. The other shapes, which are outside the central shape, represent propositions that have been negated or denied.\n \n The meaning of the diagram can be translated into a logical statement as follows:\n \n \"For all propositions p and q, if p is negated, then q is denied.\"\n \n In other words, if we negate one proposition, we deny any other proposition that is inside the same region. Nested cuts represent nested negations, meaning that if one proposition is negated, any other propositions that are inside that negation are also denied.\n \n Lines in the diagram can indicate identity or existential quantification. For example, a line that connects two shapes could mean that the two shapes are identical or that one shape is contained within the other."
+        }
+      },
+      {
+        "model": "BLIP3-o",
+        "answers": {
+          "Morphological Question": "The image contains the following elements:\n\n1. A word: \"wounded\"\n2. A line: A horizontal line to the left of the word.\n3. An arc: A curved line that forms an oval shape around the word \"wounded.\"\n\nSo, there are three main elements: one word, one line, and one arc.",
+          "Indexical Question": "The image contains a handwritten word \"wounded\" enclosed within an oval shape, and a line extending from the left side of the oval. The relationship between these elements is not explicitly defined by the image itself, as it does not provide context or additional information about their connection.\n\n- The word \"wounded\" is the central element.\n- The oval encloses the word \"wounded,\" suggesting that it might be highlighted or emphasized for some reason.\n- The line extending from the left side of the oval could be interpreted in various ways:\n  - It might indicate a direction or a point of origin for the word \"wounded.\"\n  - It could represent a connection to something outside the image, such as a source or a cause related to the word \"wounded.\"\n\nWithout further context, it's difficult to determine the exact nature of the relationship between these elements. If this image is part of a larger document or presentation, the context would provide more clarity on how these elements are interconnected.",
+          "Symbolic Question": "The diagram you've provided shows a single word \"wounded\" enclosed within a closed curve, which in Peirce's diagrammatic logic, signifies negation. This means that the negation applies to the word \"wounded.\" Therefore, the logical statement represented by this diagram is:\n\n**¬wounded**\n\nThis translates to: **\"It is not the case that someone is wounded.\"**"
+        }
+      },
+      {
+        "model": "microsoft/phi-4-multimodal-instruct:40c8f5c03ce250441855e776528bafd11cdb302c6677613acc0942c58dbd0afa",
+        "answers": {
+          "Morphological Question": "The image contains one word 'wounded' and one line.",
+          "Indexical Question": "Yes, there is a relationship between the elements present in the image. The word \"wounded\" is connected to the line that precedes it, indicating that the line is part of the word.",
+          "Symbolic Question": "The diagram shows the word \"wounded\" enclosed within a single closed curve, which represents logical negation. Since there are no nested cuts or lines indicating identity or existential quantification, and the word is not placed directly on the background, the diagram does not provide enough information to form a complete logical statement. However, if we assume that the diagram is meant to represent the negation of the word \"wounded,\" the logical statement would be \"not wounded.\""
+        }
+      }
+    ],
+    "ground_truth": {
+      "Morphological Question": "The image contains the following elements:\n \n 1. A handwritten word: \"wounded.\"\n 2. An oval shape encircling the word.\n 3. A horizontal line extending from the left side of the oval.",
+      "Indexical Question": " 1. The word \"wounded\" is encircled by the oval shape, indicating that it is highlighted or emphasized.\n 2. The horizontal line is connected to the oval, suggesting a pointing or linking gesture towards the word.",
+      "Symbolic Question": "It means \"something is not wounded\"."
+    }
+  }
+}
