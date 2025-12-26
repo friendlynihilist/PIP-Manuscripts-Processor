@@ -1,0 +1,235 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "type": "AnnotationPage",
+  "id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json/annotations",
+  "items": [
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno0",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1020,948,757,174"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno1",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=987,614,706,164"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno2",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=445,1486,2059,288"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno3",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1026,1315,742,169"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno4",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=986,245,741,182"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno5",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1123,1764,464,122"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno6",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1139,1980,428,119"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno7",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=454,783,2069,164"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno8",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=468,157,608,82"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno9",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=461,1889,1545,74"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno10",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=440,430,2083,179"
+        }
+      }
+    },
+    {
+      "@id": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json#anno11",
+      "@type": "oa:Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I diagrammi rappresentano relazioni logiche tra un soggetto (“man”) e predicati secondari: “wounded” e “disgraced”. Le connessioni indicano una struttura disgiuntiva o congiuntiva, a seconda della presenza di ovali e biforcazioni. Le didascalie manoscritte ci forniscono la chiave interpretativa: i cerchi (ovals) indicano gruppi logici — ad esempio: Un uomo che è ferito ma non disonorato; Un uomo che non è né ferito né disonorato; Qualcosa che è non ferito.",
+        "format": "text/plain",
+        "language": "it"
+      },
+      "target": {
+        "source": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/canvas-48995863.json",
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=458,1135,2043,168"
+        }
+      }
+    }
+  ]
+}

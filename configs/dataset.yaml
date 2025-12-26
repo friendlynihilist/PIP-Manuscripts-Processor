@@ -1,0 +1,6 @@
+path: /Users/carloteopedretti/Library/Mobile Documents/com~apple~CloudDocs/PhD/PIP-Manuscripts-Processor/yolo  # senza slash finale
+train: images/train
+val: images/val
+
+nc: 2
+names: ["diagram", "text_block"]

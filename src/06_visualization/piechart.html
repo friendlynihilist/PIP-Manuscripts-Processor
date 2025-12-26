@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 2rem;
+    background: #fff;
+  }
+  svg {
+    width: 100%;
+    height: 700px;
+  }
+  button {
+    margin: 1rem;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+  }
+</style>
+<body>
+<svg></svg>
+<button id="exportBtn">Esporta PNG (300 DPI)</button>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+// === Static data ===
+const data = [
+  { category: "D. Logic", text: 9508, diagram: 1116 },
+  { category: "B. Pragmatism", text: 4010, diagram: 216 },
+  { category: "A. Mathematics", text: 178, diagram: 67 }
+];
+
+const svg = d3.select("svg");
+const width = 1500;
+const height = 700;
+const radius = 100;
+const fontSize = 16;
+
+const color = d3.scaleOrdinal()
+  .domain(["Text", "Diagram"])
+  .range(["#ff8802", "#5fb9b3"]);
+
+const pie = d3.pie()
+  .value(d => d.value)
+  .sort(null);
+
+const arc = d3.arc()
+  .innerRadius(0)
+  .outerRadius(radius);
+
+const group = svg
+  .attr("width", width)
+  .attr("height", height)
+  .append("g")
+  .attr("transform", `translate(0, ${height / 2 - 20})`)
+  .style("font-family", "'Lato', sans-serif");
+
+const chartGroup = group.selectAll("g")
+  .data(data)
+  .join("g")
+  .attr("transform", (d, i) => `translate(${280 + i * 400}, 0)`);
+
+chartGroup.each(function(d) {
+  const g = d3.select(this);
+  const pieData = pie([
+    { label: "Text", value: d.text },
+    { label: "Diagram", value: d.diagram }
+  ]);
+
+  g.selectAll("path")
+    .data(pieData)
+    .join("path")
+    .attr("d", arc)
+    .attr("fill", d => color(d.data.label));
+
+  g.selectAll("text")
+    .data(pieData)
+    .join("text")
+    .attr("transform", d => `translate(${arc.centroid(d)})`)
+    .attr("text-anchor", "middle")
+    .attr("font-size", fontSize)
+    .text(d => d.data.value);
+
+  g.append("text")
+    .attr("y", -radius - 35)
+    .attr("text-anchor", "middle")
+    .attr("font-size", fontSize + 2)
+    .text(d.category);
+
+  // Etichette affiancate sopra a destra
+  ["Text", "Diagram"].forEach((label, i) => {
+    g.append("rect")
+      .attr("x", radius + 40 + i * 100)
+      .attr("y", -radius + 10)
+      .attr("width", 14)
+      .attr("height", 14)
+      .attr("fill", color(label));
+
+    g.append("text")
+      .attr("x", radius + 60 + i * 100)
+      .attr("y", -radius + 22)
+      .attr("font-size", fontSize)
+      .text(label);
+  });
+});
+
+// === Export PNG @ 300 DPI ===
+document.getElementById("exportBtn").addEventListener("click", function () {
+  const svgElement = document.querySelector("svg");
+  const svgData = new XMLSerializer().serializeToString(svgElement);
+  const svgBlob = new Blob([svgData], { type: "image/svg+xml;charset=utf-8" });
+  const url = URL.createObjectURL(svgBlob);
+  const image = new Image();
+
+  image.onload = function () {
+    const dpi = 300;
+    const scaleFactor = dpi / 96;
+    const canvas = document.createElement("canvas");
+    canvas.width = svgElement.clientWidth * scaleFactor;
+    canvas.height = svgElement.clientHeight * scaleFactor;
+
+    const ctx = canvas.getContext("2d");
+    ctx.scale(scaleFactor, scaleFactor);
+    ctx.fillStyle = "#ffffff";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(image, 0, 0);
+
+    const png = canvas.toDataURL("image/png");
+    const a = document.createElement("a");
+    a.download = "piecharts_300dpi.png";
+    a.href = png;
+    a.click();
+
+    URL.revokeObjectURL(url);
+  };
+
+  image.src = url;
+});
+</script>
+</body>

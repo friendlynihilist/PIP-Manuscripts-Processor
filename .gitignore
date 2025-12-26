@@ -1,6 +1,48 @@
+# Old structure (deprecated)
 /data/raw/Manuscripts
 /bak/
 Manuscripts
 .venv
 /data/derived
 /data/annotations
+/labelstudio/
+/yolo/
+/yolov5/
+/project/
+
+# New structure - exclude large data files
+/data/00_raw/manuscripts/
+/data/01_intermediate/
+/data/02_results/crops/
+/data/02_results/annotations/images/
+/data/02_results/annotations/labels/
+/data/03_models/
+/experiments/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+
+# macOS
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# YOLO training runs
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
