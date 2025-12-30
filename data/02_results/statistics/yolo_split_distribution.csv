@@ -1,0 +1,3 @@
+split,num_images,num_diagram_annotations,num_textblock_annotations
+train,443,2358,1739
+validation,111,687,496

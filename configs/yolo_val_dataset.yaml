@@ -1,0 +1,6 @@
+path: data/01_intermediate/yolo_detections
+train: images/train
+val: images/val
+
+nc: 2
+names: ["diagram", "text_block"]
