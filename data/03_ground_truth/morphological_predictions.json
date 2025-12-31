@@ -1,0 +1,3371 @@
+{
+  "evaluations": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "many",
+            "man wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"many\", \"man wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:26.476357"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:32.691246"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"disgraced\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:27.132383"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraces",
+            "wounds"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"disgraces\", \"wounds\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:33.181893"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "mass",
+            "hounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"mass\", \"hounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:52.508075"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "wounded",
+            "disgraced",
+            "wounded",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 3,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"wounded\", \"disgraced\", \"wounded\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:59.155431"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man - disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man - disgraced\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:39.403606"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "mantle disc space",
+            "mantle",
+            "mounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 3,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"mantle disc space\", \"mantle\", \"mounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:46.100214"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "american"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"american\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:26.113360"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "respects",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"respects\", \"American\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:32.666333"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "Grounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"Grounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:39.102257"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:45.390336"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "man-wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"man-wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:26.574293"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "catholic",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 3,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"catholic\", \"woman\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:32.697338"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "catholic-adores-woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"catholic-adores-woman\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:39.337052"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:45.468443"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:51.779425"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "Catholic-adored-woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"Catholic-adored-woman\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:58.936823"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "animal",
+            "man",
+            "rational"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"man\", \"animal\", \"man\", \"rational\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:26.459504"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 5,
+          "labels": [
+            "man",
+            "fears",
+            "hates",
+            "snake",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 5,\n    \"labels\": [\"man\", \"fears\", \"hates\", \"snake\", \"snake\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:32.813813"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "fears",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"fears\", \"hates\", \"snake\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:39.059325"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "rational animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"rational animal\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:45.183147"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "fears",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 3,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"man\", \"fears\", \"hates\", \"snake\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:51.442328"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "rational animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"rational animal\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:58.270746"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "natural",
+            "animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"natural\", \"animal\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:58:04.338303"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "grounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"grounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:58:10.763937"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "model": "Claude Sonnet 4.5",
+      "model_id": "claude-sonnet-4-5-20250929",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "impoundee"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"impoundee\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:58:17.094525"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"man\",\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:57:39.120293"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:03.513763"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "man disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\n      \"man\",\n      \"man disgraced\",\n      \"wounded\"\n    ]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:57:50.685232"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:13.578417"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:00:20.895117"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 6,
+          "labels": [
+            "man",
+            "wounded",
+            "man",
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":4,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":6,\"labels\":[\"man\",\"wounded\",\"man\",\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:01:15.934482"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:41.714132"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\n      \"man\",\n      \"man\",\n      \"disgraced\",\n      \"wounded\"\n    ]\n  }\n}\n```",
+      "timestamp": "2025-12-31T15:59:57.464009"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "respects",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "{\n\"cuts\": {\n\"count\": 2,\n\"nested\": true\n},\n\"lines\": {\n\"count\": 1,\n\"branching\": true\n},\n\"spots\": {\n\"count\": 3,\n\"labels\": [\"man\", \"respects\", \"American\"]\n}\n}",
+      "timestamp": "2025-12-31T15:57:51.298014"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "respects",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"man\",\"respects\",\"American\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:06.315408"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:23.154248"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:38.396695"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:54:53.865120"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "catholic",
+            "adores",
+            "woman",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "{\n\"cuts\": {\n\"count\": 2,\n\"nested\": true\n},\n\"lines\": {\n\"count\": 1,\n\"branching\": true\n},\n\"spots\": {\n\"count\": 4,\n\"labels\": [\n\"catholic\",\n\"adores\",\n\"woman\",\n\"woman\"\n]\n}\n}",
+      "timestamp": "2025-12-31T16:55:56.889718"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "catholic",
+            "adores",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":3,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"catholic\",\"adores\",\"woman\"]}}\n```",
+      "timestamp": "2025-12-31T16:56:42.055296"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "wounded",
+            "man"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"wounded\",\"man\"]}}\n```",
+      "timestamp": "2025-12-31T16:57:10.410121"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"man\",\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:57:45.269714"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "Catholic",
+            "adores",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"Catholic\",\"adores\",\"woman\"]}}\n```",
+      "timestamp": "2025-12-31T16:58:15.129626"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "animal",
+            "man",
+            "rational"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":4,\"nested\":true},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":4,\"labels\":[\"man\",\"animal\",\"man\",\"rational\"]}}\n```",
+      "timestamp": "2025-12-31T16:54:57.099312"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 7,
+          "labels": [
+            "man",
+            "fears",
+            "hates",
+            "snake",
+            "fears",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":4,\"nested\":true},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":7,\"labels\":[\"man\",\"fears\",\"hates\",\"snake\",\"fears\",\"hates\",\"snake\"]}}\n```",
+      "timestamp": "2025-12-31T16:55:40.103941"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 5,
+          "labels": [
+            "man",
+            "fears",
+            "snake",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":4,\"nested\":true},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":5,\"labels\":[\"man\",\"fears\",\"snake\",\"hates\",\"snake\"]}}\n```",
+      "timestamp": "2025-12-31T16:56:13.516453"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "rational",
+            "animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"rational\",\"animal\"]}}\n```",
+      "timestamp": "2025-12-31T16:57:06.015102"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "fears",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":4,\"labels\":[\"man\",\"fears\",\"hates\",\"snake\"]}}\n```",
+      "timestamp": "2025-12-31T16:57:37.599948"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "rational",
+            "animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"rational\",\"animal\"]}}\n```",
+      "timestamp": "2025-12-31T16:58:09.919383"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "rational",
+            "animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"rational\",\"animal\"]}}\n```",
+      "timestamp": "2025-12-31T17:10:00.000000"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "werunder"
+          ]
+        }
+      },
+      "raw_response": "Based on the visual analysis of the diagram:\n\n1.  **Cuts (closed curves):** There is **1** closed curve, which is an oval shape enclosing the text. It is not nested inside any other cut.\n2.  **Lines (heavy lines):** There is **1** heavy, thick line segment on the left side. It starts outside the oval and crosses into it, terminating at the beginning of the text. It does not branch; it is a single stroke.\n3.  **Spots (text labels):** There is **1** text label inside the oval. The handwritten cursive text reads as \"**werunder**\" (transcribed literally based on the strokes: w-e-r-u-n-d-e-r).\n\n```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"werunder\"]}}\n```",
+      "timestamp": "2025-12-31T17:12:00.000000"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "model": "Gemini 3 Pro",
+      "model_id": "google/gemini-3-pro-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "isounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"isounded\"]}}\n```",
+      "timestamp": "2025-12-31T17:01:11.388845"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:54:39.146721"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\"cuts\": {\"count\": 1, \"nested\": false}, \"lines\": {\"count\": 1, \"branching\": true}, \"spots\": {\"count\": 3, \"labels\": [\"man\", \"man\", \"wounded\"]}}",
+      "timestamp": "2025-12-31T16:54:45.397650"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:43.786133"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:48.361409"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:22:03.531134"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 5,
+          "labels": [
+            "man",
+            "wounded",
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":4,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":5,\"labels\":[\"man\",\"wounded\",\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:22:08.044279"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\n      \"man\",\n      \"disgraced\",\n      \"wounded\"\n    ]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:21:53.792036"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "disgraced",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":3,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":4,\"labels\":[\"man\",\"disgraced\",\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:58.521734"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "respects",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"man\",\"respects\",\"American\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:43.805559"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "respects",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"man\",\"respects\",\"American\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:48.333914"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:53.206743"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:57.631908"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\"cuts\": {\"count\": 1, \"nested\": false}, \"lines\": {\"count\": 1, \"branching\": false}, \"spots\": {\"count\": 2, \"labels\": [\"man\", \"wounded\"]}}",
+      "timestamp": "2025-12-31T16:21:43.330306"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "catholic",
+            "adores",
+            "woman",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":4,\"labels\":[\"catholic\",\"adores\",\"woman\",\"woman\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:48.853720"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "catholic",
+            "adores",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"catholic\",\"adores\",\"woman\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:53.425233"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "wounded",
+            "man"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"wounded\",\"man\"]}}\n```",
+      "timestamp": "2025-12-31T16:21:58.802321"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"man\",\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:22:04.367906"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "Catholic",
+            "adores",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"Catholic\",\"adores\",\"woman\"]}}\n```",
+      "timestamp": "2025-12-31T16:22:09.753638"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "animal",
+            "man",
+            "rational"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\n      \"man\",\n      \"animal\",\n      \"man\",\n      \"rational\"\n    ]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:21:45.125728"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 7,
+          "labels": [
+            "man",
+            "fears",
+            "hates",
+            "snake",
+            "fears",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 3,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 7,\n    \"labels\": [\n      \"man\",\n      \"fears\",\n      \"hates\",\n      \"snake\",\n      \"fears\",\n      \"hates\",\n      \"snake\"\n    ]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:21:50.019853"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 5,
+          "labels": [
+            "man",
+            "fears",
+            "snake",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 3,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 5,\n    \"labels\": [\n      \"man\",\n      \"fears\",\n      \"snake\",\n      \"hates\",\n      \"snake\"\n    ]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:21:55.509564"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "rational",
+            "animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":3,\"labels\":[\"man\",\"rational\",\"animal\"]}}\n```",
+      "timestamp": "2025-12-31T16:22:00.133404"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "fears",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\n      \"man\",\n      \"fears\",\n      \"hates\",\n      \"snake\"\n    ]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:22:04.861929"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "rational",
+            "animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"rational\",\"animal\"]}}\n```",
+      "timestamp": "2025-12-31T16:22:09.995496"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "rational",
+            "animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\n      \"man\",\n      \"rational\",\n      \"animal\"\n    ]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:22:15.172136"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "werunder"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"werunder\"]}}\n```",
+      "timestamp": "2025-12-31T16:22:21.123016"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "model": "Gemini 3 Flash",
+      "model_id": "google/gemini-3-flash-preview",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "isrounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"isrounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:22:26.265711"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "many",
+            "wounded man"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"many\",\"wounded man\"]}}\n```",
+      "timestamp": "2025-12-31T15:57:27.338456"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:57:31.538974"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "manglisgrace",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"manglisgrace\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:57:28.536351"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgrace",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"disgrace\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:57:32.769016"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:59:02.641281"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 4,
+          "branching": true
+        },
+        "spots": {
+          "count": 6,
+          "labels": [
+            "man",
+            "wounded",
+            "mant",
+            "disgracer",
+            "mant",
+            "wormded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":3,\"nested\":true},\"lines\":{\"count\":4,\"branching\":true},\"spots\":{\"count\":6,\"labels\":[\"man\",\"wounded\",\"mant\",\"disgracer\",\"mant\",\"wormded\"]}}\n```",
+      "timestamp": "2025-12-31T15:59:06.980251"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:02.076925"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "mont disgraceer",
+            "man",
+            "mounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"mont disgraceer\",\"man\",\"mounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:08.327690"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "respects",
+            "man",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"respects\",\"man\",\"American\"]}}\n```",
+      "timestamp": "2025-12-31T16:54:39.003181"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "respects",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"respects\",\"American\"]}}\n```",
+      "timestamp": "2025-12-31T16:54:48.181396"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounds"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounds\"]}}\n```",
+      "timestamp": "2025-12-31T16:55:02.431910"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 4,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":4,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:55:13.796474"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "man wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"man wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:54:38.891222"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "Catholic",
+            "adores",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":3,\"nested\":true},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"Catholic\",\"adores\",\"woman\"]}}\n```",
+      "timestamp": "2025-12-31T16:54:48.074045"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "catholic-adores-woman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":1,\"labels\":[\"catholic-adores-woman\"]}}\n```",
+      "timestamp": "2025-12-31T16:54:57.260385"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded man"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":false},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded man\"]}}\n```",
+      "timestamp": "2025-12-31T16:55:06.527880"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "wounded",
+            "man wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"wounded\",\"man wounded\"]}}\n```",
+      "timestamp": "2025-12-31T16:55:15.743459"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "Catholieadreswoman"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":1,\"labels\":[\"Catholieadreswoman\"]}}\n```",
+      "timestamp": "2025-12-31T16:55:24.916179"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "animal",
+            "man",
+            "rational"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":4,\"labels\":[\"man\",\"animal\",\"man\",\"rational\"]}}\n```",
+      "timestamp": "2025-12-31T15:57:28.608011"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 4,
+          "branching": true
+        },
+        "spots": {
+          "count": 5,
+          "labels": [
+            "man",
+            "fears",
+            "hates",
+            "bears",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":3,\"nested\":true},\"lines\":{\"count\":4,\"branching\":true},\"spots\":{\"count\":5,\"labels\":[\"man\",\"fears\",\"hates\",\"bears\",\"snake\"]}}\n```",
+      "timestamp": "2025-12-31T15:57:32.984489"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 4,
+          "branching": true
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "fears",
+            "snake",
+            "hates"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":3,\"nested\":true},\"lines\":{\"count\":4,\"branching\":true},\"spots\":{\"count\":4,\"labels\":[\"man\",\"fears\",\"snake\",\"hates\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:01.525174"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "rational animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"rational animal\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:05.862505"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "fears",
+            "Snake",
+            "hates"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"fears\",\"Snake\",\"hates\"]}}\n```",
+      "timestamp": "2025-12-31T15:58:10.226003"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "rational animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"rational animal\"]}}\n```",
+      "timestamp": "2025-12-31T15:59:01.633143"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "rotational animal"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"rotational animal\"]}}\n```",
+      "timestamp": "2025-12-31T15:59:05.880378"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "werunder"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"werunder\"]}}\n```",
+      "timestamp": "2025-12-31T15:59:10.003280"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "model": "Gemma 3 27B",
+      "model_id": "gemma-3-27b-it",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "is rounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"is rounded\"]}}\n```",
+      "timestamp": "2025-12-31T15:59:14.107316"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "many",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"many\", \"man\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:54:39.620353"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man-",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man-\", \"man\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:54:50.347187"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"disgraced\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:54:40.007409"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraces",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"disgraces\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:54:49.693713"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:22.500710"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": false
+        },
+        "spots": {
+          "count": 5,
+          "labels": [
+            "man",
+            "wounded",
+            "man",
+            "disgraces",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 3,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 5,\n    \"labels\": [\"man\", \"wounded\", \"man\", \"disgraces\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:56:03.533407"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "disgraced",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"disgraced\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T15:58:06.742158"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "many",
+            "disgraces",
+            "many",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"many\", \"disgraces\", \"many\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:12.975953"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "respects",
+            "man",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 3,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"respects\", \"man\", \"American\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:54:41.341883"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 3,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "respects",
+            "American"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 3,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"respects\", \"American\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:54:50.957853"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:01.848129"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:11.343406"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:54:41.342374"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "Catholic",
+            "advice",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"Catholic\", \"advice\", \"woman\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:54:51.047120"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "catholic",
+            "adore",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"catholic\", \"adore\", \"woman\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:01.917549"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": true
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "```json\n{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"wounded\"]\n  }\n}\n```",
+      "timestamp": "2025-12-31T16:55:11.503597"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "man",
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"man\", \"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:21.038189"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "Catholic",
+            "adore",
+            "woman"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"Catholic\", \"adore\", \"woman\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:56:01.919291"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "animal",
+            "man",
+            "rational"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"man\", \"animal\", \"man\", \"rational\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:54:41.800160"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 4,
+          "nested": true
+        },
+        "lines": {
+          "count": 3,
+          "branching": false
+        },
+        "spots": {
+          "count": 6,
+          "labels": [
+            "fears",
+            "hates",
+            "snake",
+            "fears",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 3,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 6,\n    \"labels\": [\"fears\", \"hates\", \"snake\", \"fears\", \"hates\", \"snake\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:54:52.661277"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": false
+        },
+        "lines": {
+          "count": 3,
+          "branching": true
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "fears",
+            "snake",
+            "hates",
+            "man"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 3,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"fears\", \"snake\", \"hates\", \"man\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:03.454817"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "rational animal"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"rational animal\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:13.290285"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": true
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 4,
+          "labels": [
+            "man",
+            "tears",
+            "hates",
+            "snake"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"man\", \"tears\", \"hates\", \"snake\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:55:22.950062"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 3,
+          "labels": [
+            "man",
+            "rational",
+            "animal"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\"man\", \"rational\", \"animal\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:56:01.884523"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 2,
+          "nested": true
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 2,
+          "labels": [
+            "man",
+            "rational animal"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"rational animal\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:56:11.459406"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 1,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "werunder"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"werunder\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:56:20.858296"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "model": "Qwen 2.5 VL 72B",
+      "model_id": "qwen2.5-vl-72b-instruct",
+      "prediction": {
+        "cuts": {
+          "count": 1,
+          "nested": false
+        },
+        "lines": {
+          "count": 2,
+          "branching": false
+        },
+        "spots": {
+          "count": 1,
+          "labels": [
+            "wounded"
+          ]
+        }
+      },
+      "raw_response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"wounded\"]\n  }\n}",
+      "timestamp": "2025-12-31T16:56:30.305536"
+    }
+  ],
+  "metadata": {
+    "total_evaluations": 135,
+    "models": [
+      "Claude Sonnet 4.5",
+      "Gemini 3 Pro",
+      "Gemini 3 Flash",
+      "Gemma 3 27B",
+      "Qwen 2.5 VL 72B"
+    ],
+    "source": "Automated consolidation from data/02_results/diagram_evaluations/",
+    "format_version": "1.0"
+  }
+}
