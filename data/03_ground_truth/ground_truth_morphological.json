@@ -1,0 +1,528 @@
+{
+  "diagrams": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 1,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 2,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 2,
+        "branching": true
+      },
+      "spots": {
+        "count": 4,
+        "labels": [
+          "man",
+          "man",
+          "disgraced",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 1,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "disgraced",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 1,
+        "branching": false
+      },
+      "spots": {
+        "count": 2,
+        "labels": [
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "cuts": {
+        "count": 4,
+        "nested": true
+      },
+      "lines": {
+        "count": 3,
+        "branching": true
+      },
+      "spots": {
+        "count": 6,
+        "labels": [
+          "man",
+          "man",
+          "disgraced",
+          "wounded",
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 2,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "disgraced",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "cuts": {
+        "count": 3,
+        "nested": true
+      },
+      "lines": {
+        "count": 2,
+        "branching": true
+      },
+      "spots": {
+        "count": 4,
+        "labels": [
+          "man",
+          "disgraced",
+          "wounded",
+          "man"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 1,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "respects",
+          "American"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 2,
+        "branching": false
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "respects",
+          "American"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 2,
+        "branching": false
+      },
+      "spots": {
+        "count": 2,
+        "labels": [
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 2,
+        "branching": false
+      },
+      "spots": {
+        "count": 2,
+        "labels": [
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 1,
+        "branching": false
+      },
+      "spots": {
+        "count": 2,
+        "labels": [
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 3,
+        "branching": true
+      },
+      "spots": {
+        "count": 4,
+        "labels": [
+          "Catholic",
+          "adores",
+          "woman",
+          "woman"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 3,
+        "branching": false
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "Catholic",
+          "adores",
+          "woman"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 1,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 2,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "man",
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 2,
+        "branching": false
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "Catholic",
+          "adores",
+          "woman"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "cuts": {
+        "count": 4,
+        "nested": true
+      },
+      "lines": {
+        "count": 2,
+        "branching": false
+      },
+      "spots": {
+        "count": 4,
+        "labels": [
+          "man",
+          "man",
+          "animal",
+          "rational"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "cuts": {
+        "count": 4,
+        "nested": true
+      },
+      "lines": {
+        "count": 4,
+        "branching": true
+      },
+      "spots": {
+        "count": 7,
+        "labels": [
+          "man",
+          "fears",
+          "hates",
+          "fears",
+          "hates",
+          "snake",
+          "snake"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "cuts": {
+        "count": 4,
+        "nested": true
+      },
+      "lines": {
+        "count": 3,
+        "branching": true
+      },
+      "spots": {
+        "count": 5,
+        "labels": [
+          "man",
+          "fears",
+          "hates",
+          "snake",
+          "snake"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 1,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "rational",
+          "animal"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 2,
+        "branching": true
+      },
+      "spots": {
+        "count": 4,
+        "labels": [
+          "man",
+          "fears",
+          "hates",
+          "snake"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 1,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "rational",
+          "animal"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "cuts": {
+        "count": 2,
+        "nested": true
+      },
+      "lines": {
+        "count": 1,
+        "branching": true
+      },
+      "spots": {
+        "count": 3,
+        "labels": [
+          "man",
+          "rational",
+          "animal"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 1,
+        "branching": false
+      },
+      "spots": {
+        "count": 1,
+        "labels": [
+          "wounded"
+        ]
+      }
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "cuts": {
+        "count": 1,
+        "nested": false
+      },
+      "lines": {
+        "count": 2,
+        "branching": false
+      },
+      "spots": {
+        "count": 2,
+        "labels": [
+          "wounded"
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "total_diagrams": 27,
+    "source": "Manual annotations from data/03_ground_truth/morphological/",
+    "format_version": "1.0"
+  }
+}
