@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq60.jpg",
+  "segment_index": "43",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq60/A._Mathematics__hou02614c00285__seq60_cls0_43.jpg",
+  "x": "536",
+  "y": "1513",
+  "width": "77",
+  "height": "43",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** primary element visible.\n\n**Type of element:**\n*   **Shape:** It is an **irregular, closed loop** or rough oval. It appears to be a hand-drawn outline, possibly a sketch of a rock, a stain, or a natural feature, rendered with a jagged, uneven line.\n\nAdditionally, there is a small **partial mark** or fragment of a shape visible on the far left edge of the image.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:27:22.058015"
+}

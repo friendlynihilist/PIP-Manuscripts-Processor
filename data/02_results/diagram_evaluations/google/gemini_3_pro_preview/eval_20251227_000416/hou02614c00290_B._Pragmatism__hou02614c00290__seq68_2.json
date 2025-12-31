@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00290",
+  "page_filename": "B._Pragmatism__hou02614c00290__seq68.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00290__seq68/B._Pragmatism__hou02614c00290__seq68_cls0_2.jpg",
+  "x": "1386",
+  "y": "800",
+  "width": "319",
+  "height": "246",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936251/canvas/B._Pragmatism__hou02614c00290__seq68",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **9 distinct elements** which can be categorized into three types:\n\n1.  **Shapes (3 elements)**:\n    *   There is **1 large outer oval** (or roughly circular shape) that encloses the other elements.\n    *   Inside the large shape, there are **2 smaller inner ovals** stacked vertically.\n\n2.  **Lines (4 elements)**:\n    *   There are **4 short horizontal line segments**. Two extend from the sides of the top inner oval (one left, one right), and two extend from the sides of the bottom inner oval (one left, one right). These appear to connect the inner shapes to the outer boundary.\n\n3.  **Words (2 elements)**:\n    *   There are **2 handwritten words**, one written inside each of the inner ovals.\n    *   The text is written in cursive and appears upside down relative to the viewer. When rotated 180 degrees, the words appear to read **\"Lives\"** (in the top oval) and **\"Kills\"** (in the bottom oval).\n\n**Summary Count:**\n*   **3 Shapes**\n*   **4 Lines**\n*   **2 Words**",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:51:25.005367"
+}

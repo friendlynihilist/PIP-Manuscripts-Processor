@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq8.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq8/A._Mathematics__hou02614c00285__seq8_cls0_0.jpg",
+  "x": "583",
+  "y": "1610",
+  "width": "398",
+  "height": "253",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq8",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here are the elements present:\n\n**Words (2):**\n*   \"Strengths\" (handwritten in pencil on the top line)\n*   \"Violents\" (handwritten in pencil on the bottom line)\n\n**Numbers (2):**\n*   \"5\" (to the left of \"Strengths\")\n*   \"6\" (to the left of \"Violents\")\n\n**Lines (4):**\n*   **Orange wavy line:** Located underneath the word \"Strengths\".\n*   **Green diagonal line:** A small mark located to the left of the number \"6\".\n*   **Grey straight line:** An underline beneath the word \"Violents\".\n*   **Orange scribbled line:** Located at the very bottom, underneath the grey underline.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:39:35.089433"
+}

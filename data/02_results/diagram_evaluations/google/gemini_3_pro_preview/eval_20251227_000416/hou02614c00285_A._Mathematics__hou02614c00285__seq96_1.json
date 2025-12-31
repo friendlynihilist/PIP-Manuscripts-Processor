@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq96.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq96/A._Mathematics__hou02614c00285__seq96_cls0_1.jpg",
+  "x": "518",
+  "y": "945",
+  "width": "101",
+  "height": "280",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq96",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here are the elements present:\n\n**1. Numbers (Digits)**\nThere are approximately **13 distinct digits** arranged in a vertical column format, representing a mathematical calculation.\n*   **Row 1:** The number **7**.\n*   **Row 2:** The number **16**.\n*   **Row 3:** The number **512**.\n*   **Row 4:** The digits **0**, **2**, and **4** are clearly visible (likely part of a larger number like 1024 or 6024, with the first digit being faint or cut off).\n*   **Row 5 (Result):** The number **1495**.\n\n**2. Lines**\n*   **Horizontal Line:** There is **1** horizontal line drawn underneath the column of numbers, serving as the summation bar.\n*   **Vertical Line:** There is **1** wavy, irregular vertical line running down the right side of the numbers, likely separating this calculation from other content on the page.\n\n**3. Other Markings**\n*   **Scribbles:** At the very top, there are some faint, indistinct markings or scribbles that resemble a partial number or symbol (possibly \"- 84\" or similar).",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:46:59.305587"
+}

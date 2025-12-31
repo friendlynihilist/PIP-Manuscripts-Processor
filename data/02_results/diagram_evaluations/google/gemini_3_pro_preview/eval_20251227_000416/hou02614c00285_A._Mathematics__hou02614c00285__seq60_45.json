@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq60.jpg",
+  "segment_index": "45",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq60/A._Mathematics__hou02614c00285__seq60_cls0_45.jpg",
+  "x": "1114",
+  "y": "1764",
+  "width": "48",
+  "height": "43",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** element present.\n\n**Type of element:**\n*   **Shape:** It is a rough, irregular **loop** or **oval** outline. It appears to be a hand-drawn sketch or mark, possibly representing a rock, a hole, or a contour on a textured surface like paper.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:27:53.228069"
+}

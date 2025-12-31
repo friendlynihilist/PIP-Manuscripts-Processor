@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00153",
+  "page_filename": "A._Mathematics__hou02614c00153__seq45.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00153__seq45/A._Mathematics__hou02614c00153__seq45_cls0_2.jpg",
+  "x": "769",
+  "y": "1820",
+  "width": "291",
+  "height": "160",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:501068156/canvas/A._Mathematics__hou02614c00153__seq45",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image presents 9 elements.\n\n**words:**\n1.\t`{\"point\": [208, 145]}` -\n2.\t`{\"point\": [214, 300]}` is\n3.\t`{\"point\": [214, 467]}` a\n4.\t`{\"point\": [208, 752]}` king\n5.\t`{\"point\": [692, 256]}` -\n6.\t`{\"point\": [692, 442]}` is\n7.\t`{\"point\": [692, 545]}` a\n8.\t`{\"point\": [692, 709]}` man\n\n**shapes:**\n1.\t`{\"point\": [514, 514]}` oval",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:06:43.766286"
+}

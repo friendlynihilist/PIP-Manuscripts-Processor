@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq108.jpg",
+  "segment_index": "6",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq108/B._Pragmatism__hou02614c00304__seq108_cls0_6.jpg",
+  "x": "799",
+  "y": "1082",
+  "width": "300",
+  "height": "245",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq108",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**Shapes:**\n*   **2 Oval/Elliptical Shapes:** There are two main, roughly oval-shaped regions positioned vertically—one at the top and one at the bottom. These appear to be the primary \"nodes\" or bodies of the sketch.\n\n**Lines and Arcs:**\n*   **1 Solid Arc:** A thick, solid curved line connects the right side of the top oval to the right side of the bottom oval.\n*   **1 Dashed Arc:** A broken or dashed curved line (composed of about 3 distinct dashes) connects the left side of the top oval to the left side of the bottom oval.\n*   **~8-10 Horizontal Hatching Lines:** Inside both the top and bottom ovals, there are several thin, horizontal lines sketched across the width, likely intended as shading or texture.\n\n**Abstract/Symbolic Elements:**\n*   **2 \"Squiggly\" Lines:** Running horizontally through the center of each oval is a darker, more complex line. These look like spirals, loops, or illegible cursive writing, but they do not form recognizable words.\n\n**Background:**\n*   **Grid Lines:** The entire sketch is drawn on graph paper, indicated by the faint vertical and horizontal grid lines in the background.\n\n**Words:**\n*   **0 Words:** There are no legible words or text in the image.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:07:16.041343"
+}

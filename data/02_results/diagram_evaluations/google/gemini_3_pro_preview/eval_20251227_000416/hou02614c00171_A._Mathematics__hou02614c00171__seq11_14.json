@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq11.jpg",
+  "segment_index": "14",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq11/A._Mathematics__hou02614c00171__seq11_cls0_14.jpg",
+  "x": "1138",
+  "y": "1312",
+  "width": "290",
+  "height": "234",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq11",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image presents eighteen elements.\n\n**lines**:\n-   **[179, 248]**\n-   **[564, 309]**\n-   **[614, 475]**\n-   **[639, 309]**\n-   **[633, 605]**\n-   **[739, 816]**\n-   **[814, 750]**\n-   **[858, 875]**\n\n**nodes**:\n-   **[185, 150]**\n-   **[185, 337]**\n-   **[179, 572]**\n-   **[166, 745]**\n-   **[564, 148]**\n-   **[547, 470]**\n-   **[528, 733]**\n-   **[685, 475]**\n-   **[814, 837]**\n\n**arcs**:\n-   **[282, 453]**",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:15:31.575110"
+}

@@ -1,0 +1,52 @@
+{
+  "model": "gemma-3-27b-it",
+  "prompt": "OUTPUT FORMAT: JSON only, no explanation.\n\nCount visual elements in this diagram:\n1. Cuts (closed curves): How many?\n2. Lines (heavy lines): How many? Do any branch?\n3. Spots (text labels): How many? What text?\n\nJSON:\n{\"cuts\":{\"count\":N,\"nested\":true/false},\"lines\":{\"count\":N,\"branching\":true/false},\"spots\":{\"count\":N,\"labels\":[\"...\"]}}",
+  "total_diagrams": 6,
+  "successful": 0,
+  "failed": 6,
+  "timestamp": "20251231_142025",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': 'eedd5a48c5cb6372bc1f8a524658a911'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T14:20:26.616193"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '9988526f3810e81af1d95e436094b90f'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T14:20:29.785799"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '1f0e1f59d4253a04a0db4365e54eab2b'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T14:20:32.953006"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': 'af7da95be281ab62f338be3cf91cc670'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T14:20:36.120293"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': 'd14e7a2085a09f1b6f7089679ce1a339'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T14:20:39.261256"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '8f43634aeeb339491a14ad34dce5fd16'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T14:20:42.492743"
+    }
+  ]
+}

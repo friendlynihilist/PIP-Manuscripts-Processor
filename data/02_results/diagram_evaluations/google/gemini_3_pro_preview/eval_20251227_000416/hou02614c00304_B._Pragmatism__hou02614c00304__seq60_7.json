@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq60.jpg",
+  "segment_index": "7",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq60/B._Pragmatism__hou02614c00304__seq60_cls0_7.jpg",
+  "x": "532",
+  "y": "1271",
+  "width": "302",
+  "height": "93",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image presents nine elements.\n\n1.  **letter**: {\"point\": [188, 168], \"label\": \"letter\"}\n2.  **dash**: {\"point\": [135, 268], \"label\": \"dash\"}\n3.  **letter**: {\"point\": [166, 397], \"label\": \"letter\"}\n4.  **dash**: {\"point\": [150, 502], \"label\": \"dash\"}\n5.  **letter**: {\"point\": [216, 609], \"label\": \"letter\"}\n6.  **dash**: {\"point\": [200, 715], \"label\": \"dash\"}\n7.  **letter**: {\"point\": [216, 817], \"label\": \"letter\"}\n8.  **curved line**: {\"point\": [594, 40], \"label\": \"curved line\"}\n9.  **letter**: {\"point\": [34, 628], \"label\": \"letter\"}",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:16:41.492864"
+}

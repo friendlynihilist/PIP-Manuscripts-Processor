@@ -1,0 +1,52 @@
+{
+  "model": "qwen2.5-vl-72b-instruct",
+  "prompt": "OUTPUT FORMAT: JSON only, no explanation.\n\nCount visual elements in this diagram:\n1. Cuts (closed curves): How many?\n2. Lines (heavy lines): How many? Do any branch?\n3. Spots (text labels): How many? What text?\n\nJSON:\n{\"cuts\":{\"count\":N,\"nested\":true/false},\"lines\":{\"count\":N,\"branching\":true/false},\"spots\":{\"count\":N,\"labels\":[\"...\"]}}",
+  "total_diagrams": 6,
+  "successful": 0,
+  "failed": 6,
+  "timestamp": "20251231_142025",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '26973e3db2da60528bfa6e301f3bb826'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T14:20:26.616192"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '04be9a3428f292398910314222ed9c6a'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T14:20:29.786453"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '29795b320eb3dc1abcaa0937f80ec46f'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T14:20:32.951188"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '3f5d3607d3deaf601c8ca030abeeb87c'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T14:20:36.120301"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '53ebce74a6071452f4da95659f62ef3f'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T14:20:39.261250"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': 'b386200048d68f2b47d9e35c31582a16'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T14:20:42.492743"
+    }
+  ]
+}

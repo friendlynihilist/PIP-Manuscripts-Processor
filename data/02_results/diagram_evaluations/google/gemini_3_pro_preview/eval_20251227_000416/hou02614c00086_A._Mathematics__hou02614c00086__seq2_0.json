@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00086",
+  "page_filename": "A._Mathematics__hou02614c00086__seq2.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00086__seq2/A._Mathematics__hou02614c00086__seq2_cls0_0.jpg",
+  "x": "92",
+  "y": "640",
+  "width": "147",
+  "height": "151",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936037/canvas/A._Mathematics__hou02614c00086__seq2",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n*   **1 Shape:** The most prominent element is a hand-drawn geometric shape, specifically an **irregular quadrilateral** (a four-sided polygon) that resembles a trapezoid.\n*   **6 Lines:**\n    *   There are **4 dark, distinct lines** that form the perimeter of the main quadrilateral shape.\n    *   There are **2 fainter, sketchy lines** extending to the left from the top and bottom corners, suggesting an attempt to draw a 3D perspective (like the side of a cube) or a shadow. One of these lines is wavy/curved.\n*   **1 Smudge/Mark:** There is a small, brownish spot or smudge located just above the top-left corner of the drawing.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:04:39.367928"
+}

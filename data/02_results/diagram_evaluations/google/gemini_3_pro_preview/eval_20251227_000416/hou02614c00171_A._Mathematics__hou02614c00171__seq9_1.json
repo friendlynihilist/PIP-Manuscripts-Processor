@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq9.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq9/A._Mathematics__hou02614c00171__seq9_cls0_1.jpg",
+  "x": "661",
+  "y": "142",
+  "width": "1395",
+  "height": "1489",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq9",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "I can see thirty-six lines in the provided image.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:37:35.160868"
+}

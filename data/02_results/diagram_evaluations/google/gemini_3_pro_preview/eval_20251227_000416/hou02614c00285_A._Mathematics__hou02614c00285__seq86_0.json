@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq86.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq86/A._Mathematics__hou02614c00285__seq86_cls0_0.jpg",
+  "x": "567",
+  "y": "835",
+  "width": "321",
+  "height": "202",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq86",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, there are **9 distinct elements** that make up a handwritten mathematical expression. They can be categorized as follows:\n\n**1. Mathematical Symbols (5 elements):**\n*   **1 Square Root Symbol (Radical):** A long line with a \"check mark\" start that extends over the entire expression.\n*   **1 Minus Sign:** A short horizontal line.\n*   **2 Parentheses:** One opening `(` and one closing `)` arc.\n*   **1 Fraction Bar:** A horizontal line separating the numerator and denominator.\n\n**2. Numbers (2 elements):**\n*   **The number \"1\":** A vertical line.\n*   **The number \"2\":** Written as a superscript (exponent).\n\n**3. Letters / Variables (2 elements):**\n*   **The letter \"X\":** Located in the numerator.\n*   **The letter \"a\":** Located in the denominator (though handwritten, it resembles a lowercase 'a').\n\n**Total Count:** 9 distinct handwritten symbols.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:42:58.729030"
+}

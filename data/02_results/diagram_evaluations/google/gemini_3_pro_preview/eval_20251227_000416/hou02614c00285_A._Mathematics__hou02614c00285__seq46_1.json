@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq46.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq46/A._Mathematics__hou02614c00285__seq46_cls0_1.jpg",
+  "x": "533",
+  "y": "1908",
+  "width": "128",
+  "height": "171",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq46",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n*   **0 Words:** There is no text or writing in the image.\n*   **Numerous Lines:** The image is composed entirely of sketch lines. There are dozens of individual pencil or charcoal strokes. These vary in character:\n    *   **Faint, vertical lines:** Suggesting hair or the side of the face.\n    *   **Dark, emphatic strokes:** Defining the brow, the bridge of the nose, and the jawline.\n    *   **Jagged lines:** Used for shading or roughing out the form.\n*   **Several Arcs/Curves:** The lines combine to form organic curves that outline a human profile. Distinct arcs can be seen at the forehead, the tip of the nose, and the top of the head/headwear.\n*   **1 Complex Figure/Shape:** The collection of lines and arcs comes together to form a single subject: a loose, gestural sketch of a person's profile facing to the right.\n*   **0 Geometric Nodes or Shapes:** There are no standard geometric shapes (squares, circles) or diagrammatic nodes. The forms are organic and artistic.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:13:46.535050"
+}

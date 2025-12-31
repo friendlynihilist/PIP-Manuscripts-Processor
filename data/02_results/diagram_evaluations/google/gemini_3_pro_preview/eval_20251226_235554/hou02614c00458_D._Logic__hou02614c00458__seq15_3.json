@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq15.jpg",
+  "segment_index": "3",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq15/D._Logic__hou02614c00458__seq15_cls0_3.jpg",
+  "x": "855",
+  "y": "1107",
+  "width": "613",
+  "height": "198",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-26T23:57:05.856214"
+}

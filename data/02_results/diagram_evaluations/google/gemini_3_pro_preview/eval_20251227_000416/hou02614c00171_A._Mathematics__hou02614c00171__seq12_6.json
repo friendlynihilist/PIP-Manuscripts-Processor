@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq12.jpg",
+  "segment_index": "6",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq12/A._Mathematics__hou02614c00171__seq12_cls0_6.jpg",
+  "x": "370",
+  "y": "123",
+  "width": "124",
+  "height": "130",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq12",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "I can see 10 elements in the provided image.\n\n- **1** outer circle: A roughly drawn circular or oval outline.\n- **8** spokes: Lines radiating from the center to the outer edge.\n- **1** center hub: A darker central point where the lines converge.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:17:58.274080"
+}

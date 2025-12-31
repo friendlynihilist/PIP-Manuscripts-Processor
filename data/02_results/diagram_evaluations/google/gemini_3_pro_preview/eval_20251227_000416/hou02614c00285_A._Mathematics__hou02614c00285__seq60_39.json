@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq60.jpg",
+  "segment_index": "39",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq60/A._Mathematics__hou02614c00285__seq60_cls0_39.jpg",
+  "x": "1365",
+  "y": "1278",
+  "width": "67",
+  "height": "56",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **2 shapes** present.\n\nHere is a breakdown of the elements:\n*   **1 complete shape:** Located in the center, it is a hand-drawn, irregular closed loop (roughly oval or hexagonal in appearance) created with sketchy pencil lines.\n*   **1 partial shape:** Visible at the very bottom edge of the image, appearing as the top curve of a similar sketched object.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:26:18.468523"
+}

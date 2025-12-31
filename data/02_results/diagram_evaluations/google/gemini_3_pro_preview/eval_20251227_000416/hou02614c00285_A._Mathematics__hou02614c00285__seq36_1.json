@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq36.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq36/A._Mathematics__hou02614c00285__seq36_cls0_1.jpg",
+  "x": "1005",
+  "y": "1169",
+  "width": "340",
+  "height": "359",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq36",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "I can see 18 elements in the provided image.\n\n- **9** numbers:\n\t- `4`\n\t- `3`\n\t- `20`\n\t- `15`\n\t- `8`\n\t- `6`\n\t- `5`\n\t- `2`\n\t- `8`\n- **4** shapes:\n\t- `rectangle`\n\t- `rectangle`\n\t- `rectangle`\n\t- `rectangle`\n- **5** lines:\n\t- `scribble`\n\t- `scribble`\n\t- `scribble`\n\t- `scribble`\n\t- `scribble`",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:07:23.257699"
+}

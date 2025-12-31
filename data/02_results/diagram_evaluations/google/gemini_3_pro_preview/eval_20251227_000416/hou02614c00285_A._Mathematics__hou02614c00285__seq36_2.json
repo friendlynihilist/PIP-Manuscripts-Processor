@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq36.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq36/A._Mathematics__hou02614c00285__seq36_cls0_2.jpg",
+  "x": "1065",
+  "y": "162",
+  "width": "378",
+  "height": "348",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq36",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image presents eight elements.\n\n1.  **lines**: `{\"point\": [38, 500]}` - A hand-drawn horizontal line forming the top edge of a square.\n2.  **lines**: `{\"point\": [400, 136]}` - A hand-drawn vertical line forming the left edge of the square.\n3.  **lines**: `{\"point\": [844, 377]}` - A hand-drawn horizontal line forming the bottom edge of the square.\n4.  **lines**: `{\"point\": [488, 868]}` - A hand-drawn vertical line forming the right edge of the square.\n5.  **lines**: `{\"point\": [488, 667]}` - A vertical line drawn inside the square, dividing it into a larger left section and a narrower right column.\n6.  **lines**: `{\"point\": [616, 488]}` - A horizontal line drawn inside the square, crossing the vertical divider and creating a bottom row.\n7.  **lines**: `{\"point\": [286, 437]}` - A series of faint, diagonal scratch marks or shading lines filling the upper-left quadrant.\n8.  **lines**: `{\"point\": [488, 268]}` - A squiggly or zig-zag line located in the lower-left part of the upper-left quadrant.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:07:37.896332"
+}

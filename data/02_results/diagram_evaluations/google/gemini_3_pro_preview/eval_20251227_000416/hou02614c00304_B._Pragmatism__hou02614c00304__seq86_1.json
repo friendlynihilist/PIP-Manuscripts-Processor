@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq86.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq86/B._Pragmatism__hou02614c00304__seq86_cls0_1.jpg",
+  "x": "1463",
+  "y": "880",
+  "width": "542",
+  "height": "453",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq86",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, here is a breakdown of the elements present:\n\n**1. Nodes (Dots)**\n*   **Count:** There are **9** distinct, heavy black dots acting as nodes or vertices.\n*   **Kind:** These are hand-drawn filled circles. Eight of them are connected by lines, forming the structure of the graph, while one is an isolated \"floating\" dot located inside the large loop on the left.\n\n**2. Lines (Arcs/Edges)**\n*   **Count:** There are approximately **13** distinct line segments.\n*   **Kind:** These are thick, hand-drawn curved lines.\n    *   **10** of these lines connect the various nodes to form the network.\n    *   **3** of these are \"tails\" or loose ends extending outwards from the top-left, top-right, and bottom-right nodes.\n\n**3. Shapes (Enclosed Regions)**\n*   **Count:** There are **3** main enclosed regions formed by the connected lines.\n*   **Kind:** Irregular, organic shapes.\n    *   One large, roughly pear-shaped loop on the left.\n    *   Two smaller, roughly quadrilateral loops stacked on the right side.\n\n**4. Background**\n*   **Kind:** A faint grid pattern, indicating the drawing is on graph paper.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:18:58.011204"
+}

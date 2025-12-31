@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq105.jpg",
+  "segment_index": "8",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq105/B._Pragmatism__hou02614c00304__seq105_cls0_8.jpg",
+  "x": "1306",
+  "y": "1158",
+  "width": "232",
+  "height": "166",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq105",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n*   **2 Handwritten Words:** There are two distinct lines of text written in dark cursive ink. The text appears to be upside down. If rotated 180 degrees, the words likely read \"Name\" and \"Sample\".\n*   **2 Dashes:** There is a short horizontal dash (hyphen) at the end of each handwritten word.\n*   **1 Small Mark:** There is a small dot or stray ink mark located centrally between the two lines of text.\n*   **Grid Lines:** The background consists of a grid pattern formed by intersecting vertical and horizontal lines, characteristic of graph paper.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:03:44.791429"
+}

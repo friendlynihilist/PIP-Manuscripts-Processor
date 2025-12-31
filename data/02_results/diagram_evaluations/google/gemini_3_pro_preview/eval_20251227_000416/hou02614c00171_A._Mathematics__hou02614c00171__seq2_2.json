@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq2.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq2/A._Mathematics__hou02614c00171__seq2_cls0_2.jpg",
+  "x": "116",
+  "y": "598",
+  "width": "307",
+  "height": "304",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq2",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** element present.\n\n**Type of element:**\n*   It is a **continuous curved line** that forms a single **closed shape**. The shape resembles a twisted loop or a simple knot projection, featuring one point where the line crosses over itself.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:21:26.787156"
+}

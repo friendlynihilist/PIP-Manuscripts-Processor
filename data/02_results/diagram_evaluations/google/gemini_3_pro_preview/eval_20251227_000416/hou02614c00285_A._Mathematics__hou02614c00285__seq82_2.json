@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq82.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq82/A._Mathematics__hou02614c00285__seq82_cls0_2.jpg",
+  "x": "842",
+  "y": "776",
+  "width": "276",
+  "height": "179",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq82",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **5** distinct handwritten elements arranged in a horizontal line. They can be categorized as follows:\n\n*   **2 Letters:**\n    *   The uppercase letter **\"D\"**.\n    *   The uppercase letter **\"B\"**.\n\n*   **3 Symbols:**\n    *   An opening parenthesis **\"(\"**.\n    *   A horizontal dash or minus sign **\"-\"**.\n    *   A closing square bracket **\"]\"**.\n\nTogether, these elements form the mathematical or logical expression **(D - B]**.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:42:12.215691"
+}

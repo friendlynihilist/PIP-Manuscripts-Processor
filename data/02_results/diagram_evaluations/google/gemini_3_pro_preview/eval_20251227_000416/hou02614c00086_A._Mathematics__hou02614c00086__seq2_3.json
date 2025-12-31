@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00086",
+  "page_filename": "A._Mathematics__hou02614c00086__seq2.jpg",
+  "segment_index": "3",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00086__seq2/A._Mathematics__hou02614c00086__seq2_cls0_3.jpg",
+  "x": "853",
+  "y": "1199",
+  "width": "264",
+  "height": "247",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936037/canvas/A._Mathematics__hou02614c00086__seq2",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image presents 19 elements.\n\n**letters:**\n1. a at {\"point\": [125, 755]}\n2. b at {\"point\": [600, 880]}\n3. c at {\"point\": [945, 475]}\n4. d at {\"point\": [600, 40]}\n5. e at {\"point\": [125, 175]}\n6. d at {\"point\": [25, 125]}\n7. b at {\"point\": [975, 220]}\n\n**lines:**\n8. {\"point\": [140, 475]}\n9. {\"point\": [385, 795]}\n10. {\"point\": [745, 680]}\n11. {\"point\": [775, 305]}\n12. {\"point\": [385, 145]}\n13. {\"point\": [385, 535]}\n14. {\"point\": [535, 595]}\n\n**shapes:**\n15. {\"point\": [490, 455]}\n16. {\"point\": [385, 710]}\n17. {\"point\": [490, 355]}\n18. {\"point\": [265, 535]}\n19. {\"point\": [635, 655]}",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:05:24.052851"
+}

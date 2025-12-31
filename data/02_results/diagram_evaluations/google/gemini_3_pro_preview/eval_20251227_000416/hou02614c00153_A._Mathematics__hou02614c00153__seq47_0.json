@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00153",
+  "page_filename": "A._Mathematics__hou02614c00153__seq47.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00153__seq47/A._Mathematics__hou02614c00153__seq47_cls0_0.jpg",
+  "x": "308",
+  "y": "113",
+  "width": "360",
+  "height": "133",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:501068156/canvas/A._Mathematics__hou02614c00153__seq47",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **8 distinct elements** that can be categorized as follows:\n\n1.  **Words (6 elements)**: There are two lines of handwritten text, each containing three words.\n    *   **Top line**: \"is\", \"a\", \"man\"\n    *   **Bottom line**: \"is\", \"a\", \"man\"\n\n2.  **Shapes/Symbols (1 complex element)**:\n    *   To the left of the text, there is a large, handwritten **symbol** that acts as a bracket grouping the two lines. It consists of a thick, dark **C-shaped curve** with a thinner **horizontal oval loop** intersecting its center.\n\n3.  **Lines (1 element)**:\n    *   There is a faint, horizontal blue **line** (part of the lined paper) running through the background, separating the two lines of text.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:08:43.582453"
+}

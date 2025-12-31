@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq4.jpg",
+  "segment_index": "4",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq4/A._Mathematics__hou02614c00171__seq4_cls0_4.jpg",
+  "x": "1238",
+  "y": "1104",
+  "width": "330",
+  "height": "197",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq4",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**Quantity:**\n*   There is **1** primary element in the image.\n\n**Kind of Elements:**\n*   **Type:** It is a **hand-drawn sketch** or **scribble**.\n*   **Components:** The drawing is composed of a single, continuous dark **line** that curves and loops.\n*   **Shape:** The line forms an **abstract shape** that loosely resembles a distorted heart, a knot, or a fragment of a cursive signature.\n*   **Features:**\n    *   **Arcs/Curves:** There are two main sweeping curves that form the upper lobes of the shape.\n    *   **Loops:** There is a distinct, small loop in the center-right area and the overall structure forms a larger, open loop.\n    *   **Intersections:** The line crosses over itself at approximately three points, creating \"X\" shaped intersections.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:26:37.735191"
+}

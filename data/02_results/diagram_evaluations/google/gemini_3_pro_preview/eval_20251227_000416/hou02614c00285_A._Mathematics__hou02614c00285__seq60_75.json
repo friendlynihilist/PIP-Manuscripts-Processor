@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq60.jpg",
+  "segment_index": "75",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq60/A._Mathematics__hou02614c00285__seq60_cls0_75.jpg",
+  "x": "1079",
+  "y": "1178",
+  "width": "59",
+  "height": "41",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** element present.\n\n**Kind of element:**\n*   **Shape:** It is a single, irregular, sketch-like shape that resembles a rough loop, ring, or the outline of a crater. It is formed by dark, curved strokes that create a nearly closed oval form.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:36:16.137154"
+}

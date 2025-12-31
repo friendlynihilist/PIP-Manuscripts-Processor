@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c02469",
+  "page_filename": "A._Mathematics__hou02614c02469__seq1.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c02469__seq1/A._Mathematics__hou02614c02469__seq1_cls0_0.jpg",
+  "x": "330",
+  "y": "469",
+  "width": "514",
+  "height": "291",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/ids:52135393/canvas/A._Mathematics__hou02614c02469__seq1",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **4 distinct elements** visible, categorized as follows:\n\n1.  **Words:** There are **2** instances of handwritten text.\n    *   The word **\"dream\"** is written in the upper-right center.\n    *   The phrase **\"field of\"** (or similar handwriting) is visible in the bottom left corner.\n2.  **Lines:** There is **1** horizontal line or dash located to the immediate left of the word \"dream\".\n3.  **Scribbles/Shapes:** There is **1** area of faint, zigzag pencil shading or scribbling that forms a rough background behind the word \"dream\".",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:48:36.527046"
+}

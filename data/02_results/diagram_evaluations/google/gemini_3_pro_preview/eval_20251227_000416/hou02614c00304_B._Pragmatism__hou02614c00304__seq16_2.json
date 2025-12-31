@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq16.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq16/B._Pragmatism__hou02614c00304__seq16_cls0_2.jpg",
+  "x": "207",
+  "y": "680",
+  "width": "684",
+  "height": "357",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq16",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, here is a breakdown of the elements present:\n\n**1. Words (5 items)**\nThere are five handwritten words arranged in a hierarchical structure:\n*   **\"millionaire\"** (top line)\n*   **\"gives\"** (middle section)\n*   **\"cat\"** (middle section, next to \"gives\")\n*   **\"zoologist\"** (inside the smallest box)\n*   **\"lady\"** (bottom line)\n\n**2. Shapes (3 items)**\nThere are three nested, roughly rectangular shapes with rounded corners that act as containers:\n*   **Outer Shape:** A large boundary enclosing the entire diagram.\n*   **Middle Shape:** A box enclosing \"gives - cat\", the \"zoologist\" box, and \"lady\".\n*   **Inner Shape:** A small, heavily shaded box enclosing just the word \"zoologist\".\n\n**3. Structural Lines/Brackets (3 items)**\nThere are thick, dark lines used to connect the words, resembling a sentence diagram or parse tree:\n*   **Outer Bracket:** A large, bracket-like line on the far left connecting the top line (\"millionaire\") to the block below it.\n*   **Inner Bracket:** A vertical line with horizontal branches connecting \"gives,\" the \"zoologist\" box, and \"lady.\"\n*   **Dash:** A short horizontal line connecting \"gives\" and \"cat.\"\n\n**4. Decorative/Shading Lines (Many)**\n*   **Hatching:** There are numerous thin, horizontal lines used as shading or filler texture. These appear in the space between the outer and middle shapes, and inside the \"zoologist\" box.\n\n**5. Background**\n*   **Grid:** The entire drawing is on graph paper, characterized by a grid of faint blue lines.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:14:20.456417"
+}

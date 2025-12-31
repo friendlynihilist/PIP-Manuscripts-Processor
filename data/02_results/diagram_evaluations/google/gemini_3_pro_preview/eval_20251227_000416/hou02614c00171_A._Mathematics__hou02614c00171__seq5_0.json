@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq5.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq5/A._Mathematics__hou02614c00171__seq5_cls0_0.jpg",
+  "x": "275",
+  "y": "728",
+  "width": "240",
+  "height": "241",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq5",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** main element present.\n\nHere is a breakdown of its characteristics:\n*   **Type:** It is a **hand-drawn shape** or doodle.\n*   **Composition:** It is formed by a **single continuous curved line**.\n*   **Structure:** The line creates a closed loop that resembles a cloud or a flower. It consists of **4 large arcs** (lobes) connected by **4 small loops**.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:29:24.579135"
+}

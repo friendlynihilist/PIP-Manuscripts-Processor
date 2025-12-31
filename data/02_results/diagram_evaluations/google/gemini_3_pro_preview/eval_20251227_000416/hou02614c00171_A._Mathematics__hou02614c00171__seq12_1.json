@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq12.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq12/A._Mathematics__hou02614c00171__seq12_cls0_1.jpg",
+  "x": "119",
+  "y": "716",
+  "width": "150",
+  "height": "154",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq12",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **3** distinct elements:\n\n1.  **Outer Shape:** One large, roughly circular hand-drawn loop.\n2.  **Inner Shape:** One smaller, roughly circular hand-drawn loop contained within the outer one.\n3.  **Connecting Line:** One short, vertical line segment connecting the top of the inner circle to the top of the outer circle.\n\nIn summary, the image consists of **2 circular shapes** and **1 line**.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:17:12.320845"
+}

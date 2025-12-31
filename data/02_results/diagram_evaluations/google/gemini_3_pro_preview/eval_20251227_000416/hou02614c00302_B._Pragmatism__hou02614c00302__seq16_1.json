@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00302",
+  "page_filename": "B._Pragmatism__hou02614c00302__seq16.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00302__seq16/B._Pragmatism__hou02614c00302__seq16_cls0_1.jpg",
+  "x": "1325",
+  "y": "25",
+  "width": "310",
+  "height": "215",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936607/canvas/B._Pragmatism__hou02614c00302__seq16",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**1. Lines (4 total)**\n*   **1 Vertical Line:** A long, solid vertical line runs down the center.\n*   **3 Horizontal Lines:**\n    *   One long horizontal line crosses the vertical line near the top.\n    *   Two shorter horizontal lines are located on the right side, separating the rows of text.\n\n**2. Arcs (2 total)**\n*   **1 Dashed Curve:** A dotted or dashed curved line is on the left side of the vertical line.\n*   **1 Parenthesis:** A solid closing parenthesis `)` is on the far right side.\n\n**3. Words/Characters (5 groups)**\n*   **Left Side:** A character that resembles the number **\"4\"** (or possibly a letter like \"h\" or \"u\").\n*   **Right Side (Top):** Characters that look like **\"bx\"**.\n*   **Right Side (Middle):** Characters that look like **\"2x\"** (or \"zx\").\n*   **Right Side (Lower Middle):** A character that looks like **\"x\"**.\n*   **Right Side (Bottom):** A character that looks like **\"a\"** (or \"d\").",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:54:06.406566"
+}

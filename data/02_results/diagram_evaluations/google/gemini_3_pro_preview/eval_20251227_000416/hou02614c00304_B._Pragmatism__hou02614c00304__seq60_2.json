@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq60.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq60/B._Pragmatism__hou02614c00304__seq60_cls0_2.jpg",
+  "x": "85",
+  "y": "584",
+  "width": "481",
+  "height": "176",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **8 distinct foreground elements** consisting of words and symbols, arranged in two lines on a background grid.\n\nHere is the breakdown:\n\n**4 Words:**\n*   \"beats\" (appears twice)\n*   \"laughs\"\n*   \"fabulist\"\n\n**4 Symbols/Shapes:**\n*   2 Bullet points (small filled circles at the start of each line)\n*   2 Hyphens (connecting the words in each line)\n\n**Structure:**\n*   **Line 1:** Bullet point + \"beats\" + hyphen + \"laughs\"\n*   **Line 2:** Bullet point + \"beats\" + hyphen + \"fabulist\"\n\nAdditionally, there is a **background element** of blue grid lines (graph paper) and a tiny partial trace of a third line of text visible at the very bottom edge.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:15:52.550611"
+}

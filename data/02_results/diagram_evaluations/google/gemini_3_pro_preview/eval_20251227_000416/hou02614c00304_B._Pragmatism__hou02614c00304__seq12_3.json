@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq12.jpg",
+  "segment_index": "3",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq12/B._Pragmatism__hou02614c00304__seq12_cls0_3.jpg",
+  "x": "189",
+  "y": "793",
+  "width": "277",
+  "height": "201",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq12",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here are the elements present:\n\n1.  **Words (2):**\n    *   Top: Handwritten text that appears to read **\"A-cob\"** (or possibly \"A-col\").\n    *   Bottom: Handwritten text reading **\"A-precious\"**.\n\n2.  **Shape (1):**\n    *   An **oval** drawn around the bottom word (\"A-precious\").\n\n3.  **Lines (Multiple):**\n    *   **Strikethrough:** A single horizontal line crossing out the word \"A-precious\".\n    *   **Hatching/Shading:** Numerous horizontal lines filling the inside of the oval shape behind the text.\n    *   **Grid:** Faint vertical and horizontal lines in the background, indicating the surface is graph paper.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:09:06.236403"
+}

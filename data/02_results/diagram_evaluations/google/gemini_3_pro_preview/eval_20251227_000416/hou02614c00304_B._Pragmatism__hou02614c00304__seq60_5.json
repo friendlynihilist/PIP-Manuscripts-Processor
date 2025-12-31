@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq60.jpg",
+  "segment_index": "5",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq60/B._Pragmatism__hou02614c00304__seq60_cls0_5.jpg",
+  "x": "66",
+  "y": "300",
+  "width": "504",
+  "height": "165",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, there are **7 distinct foreground elements** present on the graph paper background.\n\nHere is the breakdown by type:\n\n**Words (3):**\n1.  **\"beats\"** (on the left)\n2.  **\"laughs\"** (top right)\n3.  **\"fabulist\"** (bottom right)\n\n**Lines, Arcs, and Shapes (4):**\n4.  **A dot/bullet point:** Located immediately to the left of the word \"beats.\"\n5.  **A horizontal dash/line:** Connects the word \"beats\" to the bracket.\n6.  **A curved bracket (arc):** A \"C\" shaped brace that branches out to group the words \"laughs\" and \"fabulist.\"\n7.  **A wavy line:** Located at the very top edge of the image, likely separating this note from previous content.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:16:27.048961"
+}

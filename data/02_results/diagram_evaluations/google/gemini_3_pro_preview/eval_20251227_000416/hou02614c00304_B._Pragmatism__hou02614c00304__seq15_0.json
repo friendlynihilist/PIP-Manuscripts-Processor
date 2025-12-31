@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq15.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq15/B._Pragmatism__hou02614c00304__seq15_cls0_0.jpg",
+  "x": "180",
+  "y": "49",
+  "width": "513",
+  "height": "356",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, here is a breakdown of the elements present:\n\n**1. Words (6 elements)**\nThere are five words forming a diagram and one figure label:\n*   **\"millionaire\"** (top)\n*   **\"gives\"** (middle left)\n*   **\"cat\"** (middle right)\n*   **\"zoölogist\"** (inside the inner bubble)\n*   **\"lady\"** (bottom)\n*   **\"Fig 20\"** (bottom left corner)\n\n**2. Shapes (2 elements)**\n*   **Large Outer Oval:** A large, roughly rectangular shape with rounded corners that encloses the words \"gives\" and \"cat,\" as well as the inner shape. It is filled with horizontal hatching lines.\n*   **Inner Oval:** A smaller, clear bubble shape inside the larger one that encloses the word \"zoölogist.\"\n\n**3. Lines and Connectors (3 distinct structures)**\n*   **Curved Hook:** A thick line on the left connecting \"millionaire\" down to \"gives.\"\n*   **Thick Dash:** A heavy horizontal line connecting \"gives\" to \"cat.\"\n*   **Branching Bracket:** A complex vertical line structure below \"gives.\" It connects \"lady\" at the bottom up to \"gives,\" with a horizontal branch pointing to the \"zoölogist\" bubble.\n\n**4. Texture Elements**\n*   **Hatching:** Numerous thin, horizontal hand-drawn lines fill the background of the large outer oval shape to create a shaded effect.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:12:52.738655"
+}

@@ -1,0 +1,96 @@
+diagram_id,page,segment,model,cuts_count,cuts_nested,lines_count,lines_branching,spots_count,spots_labels
+D._Logic__hou02614c00458__seq13.jpg_0,D._Logic__hou02614c00458__seq13.jpg,0,Claude Sonnet 4.5,1,False,1,False,2,many|man wounded
+D._Logic__hou02614c00458__seq13.jpg_0,D._Logic__hou02614c00458__seq13.jpg,0,Gemini 3 Pro,1,False,1,False,3,man|man|wounded
+D._Logic__hou02614c00458__seq13.jpg_0,D._Logic__hou02614c00458__seq13.jpg,0,Gemma 3 27B,1,False,2,True,2,many|wounded man
+D._Logic__hou02614c00458__seq13.jpg_1,D._Logic__hou02614c00458__seq13.jpg,1,Claude Sonnet 4.5,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq13.jpg_1,D._Logic__hou02614c00458__seq13.jpg,1,Gemini 3 Pro,1,False,1,True,3,man|man|wounded
+D._Logic__hou02614c00458__seq13.jpg_1,D._Logic__hou02614c00458__seq13.jpg,1,Gemma 3 27B,1,False,2,True,2,man|wounded
+D._Logic__hou02614c00458__seq13.jpg_1,D._Logic__hou02614c00458__seq13.jpg,1,Qwen 2.5 VL 72B,1,False,1,False,3,man-|man|wounded
+D._Logic__hou02614c00458__seq15.jpg_0,D._Logic__hou02614c00458__seq15.jpg,0,Claude Sonnet 4.5,2,True,1,True,3,man|disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_0,D._Logic__hou02614c00458__seq15.jpg,0,Gemini 3 Pro,2,True,1,True,3,man|man disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_0,D._Logic__hou02614c00458__seq15.jpg,0,Gemma 3 27B,2,True,3,True,3,man|manglisgrace|wounded
+D._Logic__hou02614c00458__seq15.jpg_0,D._Logic__hou02614c00458__seq15.jpg,0,Qwen 2.5 VL 72B,2,True,2,True,3,man|disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_1,D._Logic__hou02614c00458__seq15.jpg,1,Claude Sonnet 4.5,2,True,1,False,3,man|disgraces|wounds
+D._Logic__hou02614c00458__seq15.jpg_1,D._Logic__hou02614c00458__seq15.jpg,1,Gemini 3 Pro,2,True,1,True,3,man|disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_1,D._Logic__hou02614c00458__seq15.jpg,1,Gemma 3 27B,2,True,3,True,3,man|disgrace|wounded
+D._Logic__hou02614c00458__seq15.jpg_12,D._Logic__hou02614c00458__seq15.jpg,12,Claude Sonnet 4.5,1,False,1,False,2,mass|hounded
+D._Logic__hou02614c00458__seq15.jpg_12,D._Logic__hou02614c00458__seq15.jpg,12,Gemini 3 Pro,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq15.jpg_12,D._Logic__hou02614c00458__seq15.jpg,12,Gemma 3 27B,2,True,2,True,2,man|wounded
+D._Logic__hou02614c00458__seq15.jpg_12,D._Logic__hou02614c00458__seq15.jpg,12,Qwen 2.5 VL 72B,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq15.jpg_14,D._Logic__hou02614c00458__seq15.jpg,14,Claude Sonnet 4.5,3,True,2,False,4,wounded|disgraced|wounded|wounded
+D._Logic__hou02614c00458__seq15.jpg_14,D._Logic__hou02614c00458__seq15.jpg,14,Gemini 3 Pro,4,True,2,True,6,man|wounded|man|man|disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_14,D._Logic__hou02614c00458__seq15.jpg,14,Gemma 3 27B,3,True,4,True,6,man|wounded|mant|disgracer|mant|wormded
+D._Logic__hou02614c00458__seq15.jpg_14,D._Logic__hou02614c00458__seq15.jpg,14,Qwen 2.5 VL 72B,4,True,3,False,5,man|wounded|man|disgraces|wounded
+D._Logic__hou02614c00458__seq15.jpg_3,D._Logic__hou02614c00458__seq15.jpg,3,Claude Sonnet 4.5,2,True,1,False,2,man - disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_3,D._Logic__hou02614c00458__seq15.jpg,3,Gemini 3 Pro,2,True,1,True,3,man|disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_3,D._Logic__hou02614c00458__seq15.jpg,3,Gemma 3 27B,1,False,2,True,3,man|disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_3,D._Logic__hou02614c00458__seq15.jpg,3,Qwen 2.5 VL 72B,1,False,1,True,3,man|disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_8,D._Logic__hou02614c00458__seq15.jpg,8,Claude Sonnet 4.5,3,True,1,True,3,mantle disc space|mantle|mounded
+D._Logic__hou02614c00458__seq15.jpg_8,D._Logic__hou02614c00458__seq15.jpg,8,Gemini 3 Pro,2,True,2,True,4,man|man|disgraced|wounded
+D._Logic__hou02614c00458__seq15.jpg_8,D._Logic__hou02614c00458__seq15.jpg,8,Gemma 3 27B,2,True,3,True,3,mont disgraceer|man|mounded
+D._Logic__hou02614c00458__seq15.jpg_8,D._Logic__hou02614c00458__seq15.jpg,8,Qwen 2.5 VL 72B,2,True,1,False,4,many|disgraces|many|wounded
+D._Logic__hou02614c00458__seq617.jpg_0,D._Logic__hou02614c00458__seq617.jpg,0,Claude Sonnet 4.5,2,True,1,False,2,man|american
+D._Logic__hou02614c00458__seq617.jpg_0,D._Logic__hou02614c00458__seq617.jpg,0,Gemini 3 Pro,2,True,1,True,3,man|respects|American
+D._Logic__hou02614c00458__seq617.jpg_0,D._Logic__hou02614c00458__seq617.jpg,0,Gemma 3 27B,2,True,3,True,3,respects|man|American
+D._Logic__hou02614c00458__seq617.jpg_1,D._Logic__hou02614c00458__seq617.jpg,1,Claude Sonnet 4.5,2,True,1,False,3,man|respects|American
+D._Logic__hou02614c00458__seq617.jpg_1,D._Logic__hou02614c00458__seq617.jpg,1,Gemini 3 Pro,2,True,2,False,3,man|respects|American
+D._Logic__hou02614c00458__seq617.jpg_1,D._Logic__hou02614c00458__seq617.jpg,1,Gemma 3 27B,2,True,3,True,3,man|respects|American
+D._Logic__hou02614c00458__seq617.jpg_1,D._Logic__hou02614c00458__seq617.jpg,1,Qwen 2.5 VL 72B,3,True,2,False,3,man|respects|American
+D._Logic__hou02614c00458__seq617.jpg_2,D._Logic__hou02614c00458__seq617.jpg,2,Claude Sonnet 4.5,1,False,1,False,2,man|Grounded
+D._Logic__hou02614c00458__seq617.jpg_2,D._Logic__hou02614c00458__seq617.jpg,2,Gemini 3 Pro,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq617.jpg_2,D._Logic__hou02614c00458__seq617.jpg,2,Qwen 2.5 VL 72B,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq617.jpg_4,D._Logic__hou02614c00458__seq617.jpg,4,Claude Sonnet 4.5,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq617.jpg_4,D._Logic__hou02614c00458__seq617.jpg,4,Gemini 3 Pro,1,False,2,False,2,man|wounded
+D._Logic__hou02614c00458__seq617.jpg_4,D._Logic__hou02614c00458__seq617.jpg,4,Gemma 3 27B,1,False,4,True,2,man|wounded
+D._Logic__hou02614c00458__seq617.jpg_4,D._Logic__hou02614c00458__seq617.jpg,4,Qwen 2.5 VL 72B,1,False,2,False,2,man|wounded
+D._Logic__hou02614c00458__seq621.jpg_0,D._Logic__hou02614c00458__seq621.jpg,0,Claude Sonnet 4.5,1,False,1,False,1,man-wounded
+D._Logic__hou02614c00458__seq621.jpg_0,D._Logic__hou02614c00458__seq621.jpg,0,Gemini 3 Pro,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq621.jpg_0,D._Logic__hou02614c00458__seq621.jpg,0,Gemma 3 27B,1,False,2,False,1,man wounded
+D._Logic__hou02614c00458__seq621.jpg_0,D._Logic__hou02614c00458__seq621.jpg,0,Qwen 2.5 VL 72B,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq621.jpg_1,D._Logic__hou02614c00458__seq621.jpg,1,Claude Sonnet 4.5,3,True,1,False,2,catholic|woman
+D._Logic__hou02614c00458__seq621.jpg_1,D._Logic__hou02614c00458__seq621.jpg,1,Gemini 3 Pro,2,True,1,True,4,catholic|adores|woman|woman
+D._Logic__hou02614c00458__seq621.jpg_1,D._Logic__hou02614c00458__seq621.jpg,1,Gemma 3 27B,3,True,3,True,3,Catholic|adores|woman
+D._Logic__hou02614c00458__seq621.jpg_2,D._Logic__hou02614c00458__seq621.jpg,2,Claude Sonnet 4.5,1,False,1,True,1,catholic-adores-woman
+D._Logic__hou02614c00458__seq621.jpg_2,D._Logic__hou02614c00458__seq621.jpg,2,Gemini 3 Pro,2,True,3,False,3,catholic|adores|woman
+D._Logic__hou02614c00458__seq621.jpg_2,D._Logic__hou02614c00458__seq621.jpg,2,Qwen 2.5 VL 72B,2,True,1,False,3,catholic|adore|woman
+D._Logic__hou02614c00458__seq621.jpg_3,D._Logic__hou02614c00458__seq621.jpg,3,Claude Sonnet 4.5,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq621.jpg_3,D._Logic__hou02614c00458__seq621.jpg,3,Gemini 3 Pro,1,False,1,True,3,man|wounded|man
+D._Logic__hou02614c00458__seq621.jpg_3,D._Logic__hou02614c00458__seq621.jpg,3,Gemma 3 27B,2,False,1,True,2,man|wounded man
+D._Logic__hou02614c00458__seq621.jpg_3,D._Logic__hou02614c00458__seq621.jpg,3,Qwen 2.5 VL 72B,1,False,1,True,2,man|wounded
+D._Logic__hou02614c00458__seq621.jpg_4,D._Logic__hou02614c00458__seq621.jpg,4,Claude Sonnet 4.5,1,False,1,False,2,man|wounded
+D._Logic__hou02614c00458__seq621.jpg_4,D._Logic__hou02614c00458__seq621.jpg,4,Gemma 3 27B,1,True,2,True,3,man|wounded|man wounded
+D._Logic__hou02614c00458__seq621.jpg_4,D._Logic__hou02614c00458__seq621.jpg,4,Qwen 2.5 VL 72B,1,False,2,False,3,man|man|wounded
+D._Logic__hou02614c00458__seq621.jpg_5,D._Logic__hou02614c00458__seq621.jpg,5,Claude Sonnet 4.5,2,True,1,False,1,Catholic-adored-woman
+D._Logic__hou02614c00458__seq621.jpg_5,D._Logic__hou02614c00458__seq621.jpg,5,Gemini 3 Pro,2,True,2,False,3,Catholic|adores|woman
+D._Logic__hou02614c00458__seq621.jpg_5,D._Logic__hou02614c00458__seq621.jpg,5,Qwen 2.5 VL 72B,1,False,2,False,3,Catholic|adore|woman
+D._Logic__hou02614c00458__seq625.jpg_0,D._Logic__hou02614c00458__seq625.jpg,0,Claude Sonnet 4.5,2,False,2,False,4,man|animal|man|rational
+D._Logic__hou02614c00458__seq625.jpg_0,D._Logic__hou02614c00458__seq625.jpg,0,Gemini 3 Pro,4,True,2,False,4,man|animal|man|rational
+D._Logic__hou02614c00458__seq625.jpg_0,D._Logic__hou02614c00458__seq625.jpg,0,Gemma 3 27B,2,True,2,True,4,man|animal|man|rational
+D._Logic__hou02614c00458__seq625.jpg_1,D._Logic__hou02614c00458__seq625.jpg,1,Claude Sonnet 4.5,4,True,1,True,5,man|fears|hates|snake|snake
+D._Logic__hou02614c00458__seq625.jpg_1,D._Logic__hou02614c00458__seq625.jpg,1,Gemini 3 Pro,4,True,3,True,7,man|fears|hates|snake|fears|hates|snake
+D._Logic__hou02614c00458__seq625.jpg_1,D._Logic__hou02614c00458__seq625.jpg,1,Gemma 3 27B,3,True,4,True,5,man|fears|hates|bears|snake
+D._Logic__hou02614c00458__seq625.jpg_1,D._Logic__hou02614c00458__seq625.jpg,1,Qwen 2.5 VL 72B,4,True,3,False,6,fears|hates|snake|fears|hates|snake
+D._Logic__hou02614c00458__seq625.jpg_2,D._Logic__hou02614c00458__seq625.jpg,2,Claude Sonnet 4.5,4,True,1,True,3,man|fears|hates|snake
+D._Logic__hou02614c00458__seq625.jpg_2,D._Logic__hou02614c00458__seq625.jpg,2,Gemini 3 Pro,4,True,3,True,5,man|fears|snake|hates|snake
+D._Logic__hou02614c00458__seq625.jpg_2,D._Logic__hou02614c00458__seq625.jpg,2,Gemma 3 27B,3,True,4,True,4,man|fears|snake|hates
+D._Logic__hou02614c00458__seq625.jpg_2,D._Logic__hou02614c00458__seq625.jpg,2,Qwen 2.5 VL 72B,2,False,3,True,4,fears|snake|hates|man
+D._Logic__hou02614c00458__seq625.jpg_3,D._Logic__hou02614c00458__seq625.jpg,3,Claude Sonnet 4.5,2,True,1,False,2,man|rational animal
+D._Logic__hou02614c00458__seq625.jpg_3,D._Logic__hou02614c00458__seq625.jpg,3,Gemini 3 Pro,2,True,1,True,3,man|rational|animal
+D._Logic__hou02614c00458__seq625.jpg_3,D._Logic__hou02614c00458__seq625.jpg,3,Gemma 3 27B,2,True,2,True,2,man|rational animal
+D._Logic__hou02614c00458__seq625.jpg_3,D._Logic__hou02614c00458__seq625.jpg,3,Qwen 2.5 VL 72B,2,True,1,False,2,man|rational animal
+D._Logic__hou02614c00458__seq625.jpg_4,D._Logic__hou02614c00458__seq625.jpg,4,Claude Sonnet 4.5,3,True,1,False,4,man|fears|hates|snake
+D._Logic__hou02614c00458__seq625.jpg_4,D._Logic__hou02614c00458__seq625.jpg,4,Gemma 3 27B,1,False,3,True,3,man|fears|Snake|hates
+D._Logic__hou02614c00458__seq625.jpg_4,D._Logic__hou02614c00458__seq625.jpg,4,Qwen 2.5 VL 72B,1,True,2,False,4,man|tears|hates|snake
+D._Logic__hou02614c00458__seq625.jpg_5,D._Logic__hou02614c00458__seq625.jpg,5,Claude Sonnet 4.5,2,True,1,False,2,man|rational animal
+D._Logic__hou02614c00458__seq625.jpg_5,D._Logic__hou02614c00458__seq625.jpg,5,Gemini 3 Pro,2,True,1,True,3,man|rational|animal
+D._Logic__hou02614c00458__seq625.jpg_5,D._Logic__hou02614c00458__seq625.jpg,5,Gemma 3 27B,1,False,2,True,2,man|rational animal
+D._Logic__hou02614c00458__seq625.jpg_6,D._Logic__hou02614c00458__seq625.jpg,6,Claude Sonnet 4.5,2,True,1,True,3,man|natural|animal
+D._Logic__hou02614c00458__seq625.jpg_6,D._Logic__hou02614c00458__seq625.jpg,6,Gemini 3 Pro,2,True,1,True,3,man|rational|animal
+D._Logic__hou02614c00458__seq625.jpg_6,D._Logic__hou02614c00458__seq625.jpg,6,Gemma 3 27B,1,False,2,True,2,man|rotational animal
+D._Logic__hou02614c00458__seq625.jpg_6,D._Logic__hou02614c00458__seq625.jpg,6,Qwen 2.5 VL 72B,2,True,1,False,2,man|rational animal
+D._Logic__hou02614c00458__seq625.jpg_7,D._Logic__hou02614c00458__seq625.jpg,7,Claude Sonnet 4.5,1,False,1,False,1,grounded
+D._Logic__hou02614c00458__seq625.jpg_7,D._Logic__hou02614c00458__seq625.jpg,7,Gemma 3 27B,1,False,1,False,1,werunder
+D._Logic__hou02614c00458__seq625.jpg_7,D._Logic__hou02614c00458__seq625.jpg,7,Qwen 2.5 VL 72B,1,False,1,False,1,werunder
+D._Logic__hou02614c00458__seq625.jpg_9,D._Logic__hou02614c00458__seq625.jpg,9,Claude Sonnet 4.5,1,False,1,False,1,impoundee
+D._Logic__hou02614c00458__seq625.jpg_9,D._Logic__hou02614c00458__seq625.jpg,9,Gemma 3 27B,1,False,1,False,1,is rounded
+D._Logic__hou02614c00458__seq625.jpg_9,D._Logic__hou02614c00458__seq625.jpg,9,Qwen 2.5 VL 72B,1,False,2,False,1,wounded

@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq105.jpg",
+  "segment_index": "11",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq105/B._Pragmatism__hou02614c00304__seq105_cls0_11.jpg",
+  "x": "1604",
+  "y": "379",
+  "width": "341",
+  "height": "197",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq105",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**Shapes (3 total):**\n*   **1 Large Outer Oval:** This forms the main boundary of the diagram.\n*   **2 Smaller Inner Ovals:** These are stacked vertically inside the larger oval and act as containers for the text.\n\n**Words (2 total):**\n*   **2 Handwritten Labels:** There is cursive text inside each of the smaller inner ovals.\n    *   *Note:* The text appears to be written upside down relative to the viewer. If rotated 180 degrees, the top word reads **\"series\"** and the bottom word reads **\"shunt\"**. This suggests the diagram represents electrical windings (likely for a DC motor or generator).\n\n**Lines and Arcs (1 distinct arc + numerous shading lines):**\n*   **1 Thick Curved Arc:** There is a bold, dark line on the right side that loops out from the top inner oval and connects to the bottom inner oval.\n*   **Numerous Hatching Lines:** The space between the inner ovals and the outer oval boundary is filled with diagonal sketched lines (hatching) to create a shading effect.\n\n**Background Elements:**\n*   **Grid Lines:** The drawing is on graph paper, so there is a grid of light blue vertical and horizontal lines in the background.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:05:14.394106"
+}

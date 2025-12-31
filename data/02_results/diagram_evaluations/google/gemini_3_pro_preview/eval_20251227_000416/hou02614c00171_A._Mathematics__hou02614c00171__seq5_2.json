@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq5.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq5/A._Mathematics__hou02614c00171__seq5_cls0_2.jpg",
+  "x": "1451",
+  "y": "535",
+  "width": "190",
+  "height": "185",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq5",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** distinct element.\n\n**Type of Element:**\nIt is a **hand-drawn shape** or sketch.\n\n**Description:**\n*   The shape is formed by a continuous or near-continuous **curved line**.\n*   It resembles a **kidney bean**, an **ear**, or an embryo.\n*   The outline is an open curve that curls inward at the center, creating a lobed appearance.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:30:37.199089"
+}

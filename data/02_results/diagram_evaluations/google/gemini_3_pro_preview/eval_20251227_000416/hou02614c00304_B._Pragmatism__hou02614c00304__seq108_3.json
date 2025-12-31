@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq108.jpg",
+  "segment_index": "3",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq108/B._Pragmatism__hou02614c00304__seq108_cls0_3.jpg",
+  "x": "1224",
+  "y": "780",
+  "width": "340",
+  "height": "234",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq108",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n*   **1 Shape:** There is one large, irregular, hand-drawn **oval** or circular outline that encloses the other elements.\n*   **~18 Lines:** Inside the oval, there are approximately 18 thin, horizontal **lines** that create a hatching or shading effect across the background.\n*   **2 Words:** There are two distinct lines of handwritten **text** in cursive script. One word is positioned in the upper half and the other in the lower half. They appear to be written upside down or mirrored relative to the viewer.\n*   **1 Symbol:** On the right edge of the oval, there is a thicker, dark **symbol** or mark. It resembles a curved vertical line (like a parenthesis) intersected by a short horizontal stroke that extends outside the oval's border.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:06:32.369731"
+}

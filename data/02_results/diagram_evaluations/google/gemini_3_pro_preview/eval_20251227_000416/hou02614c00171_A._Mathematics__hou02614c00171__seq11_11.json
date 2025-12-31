@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq11.jpg",
+  "segment_index": "11",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq11/A._Mathematics__hou02614c00171__seq11_cls0_11.jpg",
+  "x": "1146",
+  "y": "1417",
+  "width": "282",
+  "height": "125",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq11",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "I can see 15 elements in the provided image.\n\n**Lines:**\n1.  **Horizontal line segment (top-left)**: {\"point\": [188, 285], \"label\": \"line\"}\n2.  **Horizontal line segment (top-right)**: {\"point\": [163, 585], \"label\": \"line\"}\n3.  **Vertical line segment (center)**: {\"point\": [288, 462], \"label\": \"line\"}\n4.  **Radial line segment (bottom shape, top-left)**: {\"point\": [533, 790], \"label\": \"line\"}\n5.  **Radial line segment (bottom shape, bottom-left)**: {\"point\": [684, 765], \"label\": \"line\"}\n6.  **Radial line segment (bottom shape, right)**: {\"point\": [739, 872], \"label\": \"line\"}\n\n**Arcs:**\n7.  **Curved line segment (top structure, bottom-left)**: {\"point\": [351, 300], \"label\": \"arc\"}\n8.  **Curved line segment (top structure, bottom-right)**: {\"point\": [351, 585], \"label\": \"arc\"}\n9.  **Perimeter arc (bottom shape, top-left)**: {\"point\": [436, 732], \"label\": \"arc\"}\n10. **Perimeter arc (bottom shape, bottom-left)**: {\"point\": [799, 707], \"label\": \"arc\"}\n11. **Perimeter arc (bottom shape, right)**: {\"point\": [533, 937], \"label\": \"arc\"}\n\n**Nodes:**\n12. **Node (top structure, far left)**: {\"point\": [200, 125], \"label\": \"node\"}\n13. **Node (top structure, top center)**: {\"point\": [151, 457], \"label\": \"node\"}\n14. **Node (top structure, bottom center)**: {\"point\": [436, 462], \"label\": \"node\"}\n15. **Node (top structure, far right)**: {\"point\": [102, 732], \"label\": \"node\"}",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:14:33.369712"
+}

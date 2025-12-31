@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq96.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq96/B._Pragmatism__hou02614c00304__seq96_cls0_0.jpg",
+  "x": "295",
+  "y": "453",
+  "width": "505",
+  "height": "468",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq96",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **5 distinct elements** in total. Here is the breakdown by type:\n\n**Shapes (3 elements):**\n*   **1 large outer circle/oval:** This forms the boundary of the diagram.\n*   **2 smaller inner ovals:** These are contained within the large circle, arranged vertically (one on top of the other).\n\n**Letters/Characters (2 elements):**\n*   **The letter \"a\":** Written inside the top inner oval.\n*   **The letter \"b\":** Written inside the bottom inner oval.\n\n**Summary:**\nThe image consists of **3 hand-drawn shapes** (closed curves) and **2 handwritten letters**.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:25:25.230686"
+}

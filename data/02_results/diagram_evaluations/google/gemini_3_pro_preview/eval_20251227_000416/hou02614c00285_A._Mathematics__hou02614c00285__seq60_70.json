@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq60.jpg",
+  "segment_index": "70",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq60/A._Mathematics__hou02614c00285__seq60_cls0_70.jpg",
+  "x": "465",
+  "y": "1948",
+  "width": "121",
+  "height": "52",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image presents 2 shapes.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:34:57.523586"
+}

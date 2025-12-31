@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq142.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq142/A._Mathematics__hou02614c00285__seq142_cls0_1.jpg",
+  "x": "1174",
+  "y": "2017",
+  "width": "253",
+  "height": "202",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq142",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are approximately **13 distinct mathematical elements** arranged to form a fraction. Here is a breakdown of the kinds of elements present:\n\n**1. Lines:**\n*   **1 Horizontal Fraction Bar:** A long, roughly straight line separating the top and bottom of the equation.\n*   **2 Extended Overlines:** The horizontal parts of the square root symbols that extend over the variables.\n*   **4 Short Intersecting Lines:** These make up the two plus ($+$) signs.\n\n**2. Shapes & Symbols:**\n*   **2 Radical Signs (Square Roots):** These are complex shapes consisting of a \"hook\" or check-mark shape on the left connected to the horizontal line mentioned above.\n*   **4 Greek Letter-like Shapes:**\n    *   Two symbols resembling the letter **Alpha ($\\alpha$)**.\n    *   Two symbols resembling the letter **Beta ($\\beta$)**.\n*   **4 Numerical Shapes:** The number **\"2\"** appears four times as a superscript (exponent).\n\n**3. Arcs & Curves:**\n*   The handwritten letters ($\\alpha$, $\\beta$) and numbers ($2$) are primarily composed of **arcs and loops**.\n*   The left side of the radical signs contains a curved hook.\n\n**4. Miscellaneous:**\n*   **Partial Markings:** There are faint, illegible pencil marks at the very bottom edge of the image, likely the top of another line of text.\n\n**Summary of the Expression:**\nThe image depicts a handwritten mathematical formula that looks like:\n$$ \\frac{\\sqrt{\\alpha^2 + \\beta^2}}{\\sqrt{\\alpha^2 + \\beta^2}} $$\n*(Note: The handwriting is sketchy, so the variables could be interpreted as $a$ and $b$, or $x$ and $y$, but they most closely resemble $\\alpha$ and $\\beta$.)*",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:55:12.413751"
+}

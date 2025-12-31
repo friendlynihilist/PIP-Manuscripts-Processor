@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00153",
+  "page_filename": "A._Mathematics__hou02614c00153__seq47.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00153__seq47/A._Mathematics__hou02614c00153__seq47_cls0_1.jpg",
+  "x": "1170",
+  "y": "67",
+  "width": "272",
+  "height": "208",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:501068156/canvas/A._Mathematics__hou02614c00153__seq47",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, there are **4 distinct hand-drawn elements** that make up the sketch, along with background elements from the paper itself.\n\nHere is the breakdown:\n\n**Drawn Elements (4 total):**\n1.  **Outer Shape:** One large, roughly circular or oval outline enclosing the entire drawing.\n2.  **Inner Shape:** One smaller, roughly circular or oval outline nested inside the outer shape.\n3.  **Central Figure:** One thick, dark, inverted \"Y-shaped\" line or branching structure in the center.\n4.  **Small Loop:** One small oval or ring shape that intersects/encircles the right leg of the central \"Y\" figure.\n\n**Background Elements:**\n*   **Lines:** There are faint horizontal blue lines visible, indicating the drawing is on lined notebook paper. One line passes directly through the center of the sketch.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:09:05.133778"
+}

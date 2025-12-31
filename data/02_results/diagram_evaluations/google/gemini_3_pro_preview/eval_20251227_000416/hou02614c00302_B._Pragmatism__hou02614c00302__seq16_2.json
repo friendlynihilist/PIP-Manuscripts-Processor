@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00302",
+  "page_filename": "B._Pragmatism__hou02614c00302__seq16.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00302__seq16/B._Pragmatism__hou02614c00302__seq16_cls0_2.jpg",
+  "x": "1731",
+  "y": "21",
+  "width": "234",
+  "height": "210",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936607/canvas/B._Pragmatism__hou02614c00302__seq16",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, there are two main types of elements present: **lines** and **handwritten symbols**.\n\nHere is the breakdown:\n\n1.  **Lines (4 elements):**\n    *   There is **1** vertical line running down the center.\n    *   There are **3** horizontal lines intersecting or touching the vertical line, creating a grid-like table structure.\n\n2.  **Handwritten Symbols (Approximately 10 elements in 5 groups):**\n    *   **Top Left:** A group resembling \"4 2\" or \"$u_2$\".\n    *   **Top Right:** A group resembling \"x 2\" or \"$x_2$\".\n    *   **Middle Right:** A group resembling \" ' x \" or \"$x'$\".\n    *   **Bottom Right:** A single symbol resembling \"0\", \"a\", or \"$\\sigma$\".\n    *   **Bottom Left:** A group resembling \"4 1\" or \"$u_1$\".\n    *   *(There is also a small partial mark at the very top edge).*\n\nIn total, the image consists of a simple hand-drawn table composed of **4 lines** populated by roughly **10 alphanumeric characters**.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:54:46.054433"
+}

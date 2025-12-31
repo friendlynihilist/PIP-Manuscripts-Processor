@@ -1,0 +1,5 @@
+metric,value,percentage
+Total diagrams compared,27,100.0
+Cuts count agreement,12,44.44
+Lines count agreement,4,14.81
+Spots count agreement,9,33.33

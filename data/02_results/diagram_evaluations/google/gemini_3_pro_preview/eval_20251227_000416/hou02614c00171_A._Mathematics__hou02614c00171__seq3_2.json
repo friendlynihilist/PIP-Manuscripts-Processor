@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq3.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq3/A._Mathematics__hou02614c00171__seq3_cls0_2.jpg",
+  "x": "1241",
+  "y": "106",
+  "width": "221",
+  "height": "246",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq3",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** distinct element.\n\nIt can be described as a **shape**, specifically a hand-drawn **oval** or imperfect circle. It is formed by a single continuous curved line. There is also a very small, likely stray, mark in the bottom right corner, but the primary subject is the single oval shape.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:24:06.519664"
+}

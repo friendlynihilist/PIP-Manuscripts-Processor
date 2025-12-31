@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00290",
+  "page_filename": "B._Pragmatism__hou02614c00290__seq68.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00290__seq68/B._Pragmatism__hou02614c00290__seq68_cls0_1.jpg",
+  "x": "942",
+  "y": "188",
+  "width": "371",
+  "height": "266",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936251/canvas/B._Pragmatism__hou02614c00290__seq68",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **5 distinct hand-drawn elements** present on the graph paper. They can be categorized as follows:\n\n1.  **Shapes (2 elements):**\n    *   **Outer Oval:** A large, roughly circular hand-drawn loop that encloses the other content.\n    *   **Inner Oval:** A smaller, roughly oval shape drawn inside the upper portion of the large outer oval.\n\n2.  **Words/Text (2 elements):**\n    *   **Upper Text:** Handwritten cursive text inside the smaller inner oval. It appears to be written upside down relative to the viewer. (It looks somewhat like \"is hampe\" or \"is sample\").\n    *   **Lower Text:** The handwritten word **\"skills\"** (written as \"-skills\") located in the lower part of the large oval. This text is also upside down.\n\n3.  **Lines/Arrows (1 element):**\n    *   **Arrow:** A straight line with an arrowhead pointing from the right side of the image inwards, directing attention to the text inside the inner oval.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:50:18.526960"
+}

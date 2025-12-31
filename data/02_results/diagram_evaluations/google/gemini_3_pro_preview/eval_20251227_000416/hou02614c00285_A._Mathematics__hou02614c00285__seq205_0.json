@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq205.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq205/A._Mathematics__hou02614c00285__seq205_cls0_0.jpg",
+  "x": "768",
+  "y": "151",
+  "width": "409",
+  "height": "153",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq205",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are approximately **9 distinct mathematical elements** forming a handwritten expression.\n\nHere is the breakdown of the kinds of elements present:\n\n**1. Mathematical Symbols (3 elements):**\n*   **Plus sign (+):** Located on the far left.\n*   **Square root / Radical symbol ($\\sqrt{}$):** A large symbol covering the second half of the expression.\n*   **Minus sign (-):** Located inside the square root.\n\n**2. Letters / Variables (3 elements):**\n*   **Letter \"C\":** Following the plus sign.\n*   **Letter \"A\":** Inside the square root.\n*   **Letter \"B\" (or possibly \"p\" or \"x\"):** The second variable inside the square root. It is somewhat ambiguous due to the handwriting but serves as a variable.\n\n**3. Numbers (3 elements):**\n*   **Number \"2\":** Appears three separate times, functioning as an exponent (superscript) for each of the three letters ($C^2$, $A^2$, and the third variable squared).\n\nAdditionally, there are some **faint, illegible pencil marks** or partial words in the top right corner that are cut off and not part of the main formula.\n\n**Summary:** The image contains a mathematical formula that appears to be:  \n**$+ C^2 \\sqrt{A^2 - B^2}$** (or similar variables).",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:00:49.498030"
+}

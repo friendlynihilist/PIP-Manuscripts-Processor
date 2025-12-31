@@ -1,0 +1,58 @@
+{
+  "model": "google/gemini-3-pro-preview",
+  "prompt": "OUTPUT FORMAT: JSON only, no explanation.\n\nCount visual elements in this diagram:\n1. Cuts (closed curves): How many?\n2. Lines (heavy lines): How many? Do any branch?\n3. Spots (text labels): How many? What text?\n\nJSON:\n{\"cuts\":{\"count\":N,\"nested\":true/false},\"lines\":{\"count\":N,\"branching\":true/false},\"spots\":{\"count\":N,\"labels\":[\"...\"]}}",
+  "total_diagrams": 6,
+  "successful": 6,
+  "failed": 0,
+  "timestamp": "20251231_142255",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "success": true,
+      "response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 3,\n    \"labels\": [\n      \"man\",\n      \"man disgraced\",\n      \"wounded\"\n    ]\n  }\n}\n```",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2025-12-31T14:23:23.253898"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2025-12-31T14:23:45.303515"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":1,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2025-12-31T14:24:14.905496"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "success": true,
+      "response": "```json\n{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\n      \"man\",\n      \"man\",\n      \"disgraced\",\n      \"wounded\"\n    ]\n  }\n}\n```",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2025-12-31T14:25:29.975866"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":2,\"labels\":[\"man\",\"wounded\"]}}\n```",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2025-12-31T14:25:52.467480"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":4,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":6,\"labels\":[\"man\",\"wounded\",\"man\",\"man\",\"disgraced\",\"wounded\"]}}\n```",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2025-12-31T14:26:39.902386"
+    }
+  ]
+}

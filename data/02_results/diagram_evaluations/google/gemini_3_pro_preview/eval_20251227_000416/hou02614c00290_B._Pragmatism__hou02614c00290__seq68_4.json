@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00290",
+  "page_filename": "B._Pragmatism__hou02614c00290__seq68.jpg",
+  "segment_index": "4",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00290__seq68/B._Pragmatism__hou02614c00290__seq68_cls0_4.jpg",
+  "x": "1370",
+  "y": "450",
+  "width": "325",
+  "height": "216",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936251/canvas/B._Pragmatism__hou02614c00290__seq68",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **5 distinct hand-drawn elements** on a graph paper background.\n\nHere is the breakdown by type:\n\n*   **2 Shapes:**\n    *   One large, irregular **outer circle** (or closed loop).\n    *   One smaller, irregular **inner oval** located within the bottom half of the large circle.\n*   **2 Words:**\n    *   One handwritten text string in the upper part of the large circle (appears to be upside-down cursive, possibly reading \"-kill-\").\n    *   One handwritten text string inside the smaller inner oval (appears to be upside-down cursive, reading \"change\").\n*   **1 Line:**\n    *   A single straight horizontal line extending from the inner text to the right, crossing the boundary of the outer circle.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:52:23.142091"
+}

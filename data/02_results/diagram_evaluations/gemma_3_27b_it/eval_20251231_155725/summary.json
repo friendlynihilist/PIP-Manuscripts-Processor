@@ -1,0 +1,73 @@
+{
+  "model": "gemma-3-27b-it",
+  "prompt": "OUTPUT FORMAT: JSON only, no explanation.\n\nCount visual elements in this diagram:\n1. Cuts (closed curves): How many?\n2. Lines (heavy lines): How many? Do any branch?\n3. Spots (text labels): How many? What text?\n\nJSON:\n{\"cuts\":{\"count\":N,\"nested\":true/false},\"lines\":{\"count\":N,\"branching\":true/false},\"spots\":{\"count\":N,\"labels\":[\"...\"]}}",
+  "total_diagrams": 9,
+  "successful": 9,
+  "failed": 0,
+  "timestamp": "20251231_155725",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":4,\"labels\":[\"man\",\"animal\",\"man\",\"rational\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:57:28.608011"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":3,\"nested\":true},\"lines\":{\"count\":4,\"branching\":true},\"spots\":{\"count\":5,\"labels\":[\"man\",\"fears\",\"hates\",\"bears\",\"snake\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:57:32.984489"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":3,\"nested\":true},\"lines\":{\"count\":4,\"branching\":true},\"spots\":{\"count\":4,\"labels\":[\"man\",\"fears\",\"snake\",\"hates\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:58:01.525174"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":2,\"nested\":true},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"rational animal\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:58:05.862505"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":3,\"branching\":true},\"spots\":{\"count\":3,\"labels\":[\"man\",\"fears\",\"Snake\",\"hates\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:58:10.226003"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"rational animal\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:59:01.633143"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":2,\"branching\":true},\"spots\":{\"count\":2,\"labels\":[\"man\",\"rotational animal\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:59:05.880378"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"werunder\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:59:10.003280"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "success": true,
+      "response": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"is rounded\"]}}\n```",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2025-12-31T15:59:14.107316"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq15.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq15/B._Pragmatism__hou02614c00304__seq15_cls0_2.jpg",
+  "x": "783",
+  "y": "54",
+  "width": "611",
+  "height": "441",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**1. Words (Text)**\nThere are **7** distinct text elements (some repeated):\n*   **\"millionaire\"** (top)\n*   **\"gives\"** (inside the large shape)\n*   **\"cat\"** (or possibly \"eat\", inside the large shape next to \"gives\")\n*   **\"zoologist\"** (inside the inner oval)\n*   **\"lady\"** (middle, below the shapes)\n*   **\"lady\"** (bottom, written with thicker ink)\n*   **\"Fig. 2\"** (label on the bottom right)\n\n**2. Shapes**\nThere are **2** main drawn shapes:\n*   **Large Rounded Rectangle:** An outer shape with irregular edges containing the words \"gives,\" \"cat,\" and the inner oval. It is filled with horizontal hatching lines.\n*   **Inner Oval:** A smaller, clear oval shape enclosing the word \"zoologist.\"\n\n**3. Lines and Connectors**\nThere are **3** primary connecting lines:\n*   **Top Bracket:** A curved line connecting \"millionaire\" to the word \"gives.\"\n*   **Middle Bracket:** A curved line connecting the \"zoologist\" oval to the first \"lady.\"\n*   **Long Curved Line:** A line connecting \"gives\" down to the second, bolded \"lady.\"\n\n**4. Other Graphical Elements**\n*   **Hatching:** Numerous horizontal lines filling the background of the large outer shape.\n*   **Dash:** A thick horizontal dash separating \"gives\" and \"cat.\"\n*   **Grid:** The entire drawing is on graph paper with a light blue grid background.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:13:24.478022"
+}

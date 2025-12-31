@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq86.jpg",
+  "segment_index": "5",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq86/B._Pragmatism__hou02614c00304__seq86_cls0_5.jpg",
+  "x": "410",
+  "y": "917",
+  "width": "255",
+  "height": "325",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq86",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image holds 11 elements (words, lines, arcs, nodes, shapes, etc.).",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:20:28.141953"
+}

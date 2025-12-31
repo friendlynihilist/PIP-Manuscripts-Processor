@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq155.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq155/A._Mathematics__hou02614c00285__seq155_cls0_1.jpg",
+  "x": "1323",
+  "y": "1357",
+  "width": "123",
+  "height": "143",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq155",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**1. Kind of Elements:**\n*   **Lines/Arcs:** The image is primarily composed of hand-drawn pencil **lines** and **arcs**. These are sketched strokes that vary in thickness and darkness.\n*   **Shape:** The lines connect to form a single, organic **shape** representing a caricature or cartoon-style profile of a human head.\n\n**2. Quantity of Elements:**\n*   **1 Main Figure:** The collection of lines forms one cohesive drawing of a face.\n*   **~3-4 Distinct Strokes:** If we break down the drawing into its individual pencil strokes, there appear to be:\n    *   **One** darker, relatively straight line at the top (resembling an eyebrow or a strand of hair).\n    *   **One** curved arc forming the bulbous nose.\n    *   **One** long, sweeping curved line that defines the chin, jaw, and back of the head.\n    *   **One** faint, small mark near the mouth area.\n\nThere are **no words, text, geometric nodes, or complex polygons** present in the image. It is a simple sketch consisting solely of curved lines forming a profile shape.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:59:39.176241"
+}

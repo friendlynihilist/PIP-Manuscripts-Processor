@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq12.jpg",
+  "segment_index": "9",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq12/A._Mathematics__hou02614c00171__seq12_cls0_9.jpg",
+  "x": "1727",
+  "y": "205",
+  "width": "134",
+  "height": "111",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq12",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the visual content of the image, there are **2** distinct elements present:\n\n1.  **One Shape:** A hand-drawn **circle**.\n2.  **One Line:** A straight **horizontal line** segment that runs across the diameter of the circle, bisecting it.\n\nThere are no words, text, nodes, or other complex shapes in the image. It is a simple geometric sketch consisting of a circle and a line.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:18:49.549364"
+}

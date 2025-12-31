@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq96.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq96/B._Pragmatism__hou02614c00304__seq96_cls0_1.jpg",
+  "x": "936",
+  "y": "432",
+  "width": "552",
+  "height": "475",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq96",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **8 distinct elements** in total, categorized as follows:\n\n**Shapes (4 elements):**\n1.  **One large outer irregular circle/oval** that encloses the entire diagram.\n2.  **One medium oval** located in the upper half of the large circle.\n3.  **One medium oval** located in the lower half of the large circle.\n4.  **One small circle** located inside the lower medium oval.\n\n**Letters (4 elements):**\n1.  The letter **\"c\"** located on the left side, inside the large outer circle but outside the inner ovals.\n2.  The letter **\"a\"** located inside the top medium oval.\n3.  The letter **\"b\"** located inside the bottom medium oval.\n4.  Another letter **\"a\"** located inside the small circle within the bottom oval.\n\nThe diagram appears to be a hand-drawn representation of sets or a Venn diagram on graph paper.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:25:48.064050"
+}

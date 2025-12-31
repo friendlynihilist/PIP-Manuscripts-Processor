@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq12.jpg",
+  "segment_index": "16",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq12/A._Mathematics__hou02614c00171__seq12_cls0_16.jpg",
+  "x": "278",
+  "y": "441",
+  "width": "133",
+  "height": "170",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq12",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, there are **9 distinct elements** composed of shapes and lines:\n\n1.  **Shapes (2 elements):**\n    *   **1 large irregular circle/oval:** This forms the outer boundary of the sketch.\n    *   **1 small irregular circle/oval:** This is located near the center, resembling a nucleus or hub.\n\n2.  **Lines (7 elements):**\n    *   **6 radiating lines:** There are approximately six short, straight lines radiating outwards from the central small circle towards the bottom and left sides of the outer circle.\n    *   **1 short dash:** There is a faint, short horizontal line located just above the top of the large outer circle.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:19:58.636922"
+}

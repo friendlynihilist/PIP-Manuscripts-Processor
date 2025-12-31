@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00302",
+  "page_filename": "B._Pragmatism__hou02614c00302__seq42.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00302__seq42/B._Pragmatism__hou02614c00302__seq42_cls0_0.jpg",
+  "x": "106",
+  "y": "114",
+  "width": "1866",
+  "height": "1050",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936607/canvas/B._Pragmatism__hou02614c00302__seq42",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "I can see 46 elements in the provided image.\n\n| | | |\n|:---|:---|:---|\n| **line** | 26 | <li>[333, 89]</li><li>[333, 166]</li><li>[452, 216]</li><li>[407, 45]</li><li>[508, 45]</li><li>[644, 55]</li><li>[564, 131]</li><li>[452, 148]</li><li>[184, 322]</li><li>[201, 353]</li><li>[193, 377]</li><li>[218, 285]</li><li>[268, 285]</li><li>[317, 290]</li><li>[184, 835]</li><li>[193, 890]</li><li>[258, 780]</li><li>[353, 775]</li><li>[298, 865]</li><li>[504, 462]</li><li>[504, 498]</li><li>[640, 430]</li><li>[560, 490]</li><li>[581, 490]</li><li>[602, 490]</li><li>[708, 615]</li> |\n| **number** | 17 | <li>[392, 75]</li><li>[392, 206]</li><li>[410, 285]</li><li>[498, 288]</li><li>[624, 273]</li><li>[704, 81]</li><li>[699, 165]</li><li>[699, 214]</li><li>[201, 447]</li><li>[255, 450]</li><li>[307, 450]</li><li>[126, 835]</li><li>[136, 890]</li><li>[252, 958]</li><li>[347, 955]</li><li>[489, 965]</li><li>[400, 825]</li><li>[442, 861]</li><li>[400, 508]</li><li>[436, 537]</li><li>[507, 557]</li><li>[552, 583]</li><li>[584, 584]</li> |\n| **arrow** | 1 | <li>[402, 585]</li> |\n| **word** | 2 | <li>[800, 785]</li><li>[802, 600]</li> |",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:58:35.719948"
+}

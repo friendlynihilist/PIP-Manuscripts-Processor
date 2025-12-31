@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq142.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq142/A._Mathematics__hou02614c00285__seq142_cls0_2.jpg",
+  "x": "514",
+  "y": "2126",
+  "width": "289",
+  "height": "166",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq142",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are approximately **12 distinct handwritten elements** that make up a mathematical equation. Here is a breakdown of the kinds of elements present:\n\n**1. Mathematical Symbols (Shapes & Lines):**\n*   **2 Square Root Symbols (Radicals):** These are the curved, hook-like lines enclosing variables on the top left and bottom right.\n*   **2 Fraction Bars:** These are the horizontal lines separating the numerator from the denominator on both sides of the equation.\n*   **1 Equals Sign:** This consists of two short, parallel horizontal lines in the center.\n\n**2. Alphanumeric Characters (Letters & Numbers):**\n*   **2 Letter \"r\"s:** Located in the denominator on the left and the numerator on the right.\n*   **2 Cursive Letters (likely \"e\" or \"C\"):** Located inside the square root symbols.\n*   **2 Superscripts (likely the number \"2\"):** Small, scribbled shapes located to the top-right of the \"r\" characters, indicating an exponent (squared).\n\n**3. Miscellaneous Marks:**\n*   **1 Small Mark:** There appears to be a small vertical dash or prime symbol ($'$) inside the first square root next to the cursive letter.\n\n**Summary of the Equation:**\nThe elements combine to form an equation that looks like:\n$$ \\frac{\\sqrt{e'}}{r^2} = \\frac{r^2}{\\sqrt{e}} $$",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:55:43.095776"
+}

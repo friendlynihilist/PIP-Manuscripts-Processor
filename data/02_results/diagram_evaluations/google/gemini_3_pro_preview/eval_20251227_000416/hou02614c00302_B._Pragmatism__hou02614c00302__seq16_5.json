@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00302",
+  "page_filename": "B._Pragmatism__hou02614c00302__seq16.jpg",
+  "segment_index": "5",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00302__seq16/B._Pragmatism__hou02614c00302__seq16_cls0_5.jpg",
+  "x": "1557",
+  "y": "284",
+  "width": "224",
+  "height": "367",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936607/canvas/B._Pragmatism__hou02614c00302__seq16",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the visual evidence, the image contains a hand-drawn sketch on lined paper consisting of the following elements:\n\n**1. Lines and Strokes:**\n*   **One central spine:** A long, vertical, slightly curved line that acts as the axis for the drawing.\n*   **One large arc:** A curved line on the left side that connects to the spine, creating a leaf-like or feather-like shape.\n*   **Hatching lines:** Inside the left \"leaf\" shape, there are approximately **5 to 6 short, diagonal strokes**.\n*   **Connecting lines:** On the right side, there are **2 distinct horizontal-ish lines** branching off the central spine.\n*   **One isolated mark:** To the far left of the main drawing, there is **1 small, squiggly vertical line** or hook shape.\n\n**2. Shapes and Symbols:**\n*   **Glyph-like markings:** On the right side of the spine, there are **3 distinct clusters** of markings that resemble symbols, characters, or shorthand:\n    *   **Top:** A loop-like shape that resembles a cursive letter or symbol.\n    *   **Middle:** A chaotic cluster of **intersecting lines** (a cross-hatch or scribble pattern).\n    *   **Bottom:** A curved shape resembling a letter \"D\" or a hook.\n\n**3. Background Elements:**\n*   **Horizontal lines:** Faint blue lines running across the background, indicating the surface is lined notebook paper.\n\n**Summary:**\nIn total, the image features a single complex figure composed of roughly **15-20 individual ink strokes** arranged to form a central organic shape (resembling a leaf or feather) with accompanying abstract symbols or annotations on the right side.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:55:38.828570"
+}

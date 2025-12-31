@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq16.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq16/B._Pragmatism__hou02614c00304__seq16_cls0_0.jpg",
+  "x": "1007",
+  "y": "678",
+  "width": "708",
+  "height": "410",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq16",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**Words (6 items)**\nThere are six handwritten words acting as nodes in the diagram:\n1.  **\"millionaire\"** (top)\n2.  **\"gives\"** (middle left)\n3.  **\"cat\"** (middle right)\n4.  **\"zoologist\"** (inside the smaller inner box)\n5.  **\"lady\"** (bottom left)\n6.  **\"lady\"** (bottom right)\n\n**Shapes (2 items)**\nThere are two main container shapes:\n1.  **Outer Box:** A large, rounded rectangular border that encloses the entire diagram. It is filled with horizontal hatching lines.\n2.  **Inner Box:** A smaller, rounded rectangular shape surrounding the word \"zoologist.\" It is also filled with horizontal hatching lines.\n\n**Connecting Lines/Arcs (4 items)**\nThere are four distinct lines connecting the words:\n1.  A curved bracket-like line connecting **\"millionaire\"** down to **\"gives\"**.\n2.  A straight horizontal dash connecting **\"gives\"** to **\"cat\"**.\n3.  A curved line connecting **\"gives\"** down to the first **\"lady\"**.\n4.  A curved line connecting the **\"zoologist\"** box down to the second **\"lady\"**.\n\n**Texture Elements**\n*   **Hatching Lines:** Numerous horizontal sketch lines are used to shade the background of the outer border and the inner \"zoologist\" box.\n*   **Grid:** The entire drawing is on graph paper, indicated by the faint blue grid lines in the background.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:13:49.161392"
+}

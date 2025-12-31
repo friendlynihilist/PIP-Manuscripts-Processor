@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq86.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq86/A._Mathematics__hou02614c00285__seq86_cls0_2.jpg",
+  "x": "577",
+  "y": "409",
+  "width": "573",
+  "height": "168",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq86",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **three main hand-drawn elements** visible:\n\n1.  **One Circle**: A roughly drawn circular or oval shape located on the left side.\n2.  **Two Arcs**: A pair of connected, upward-curving lines (resembling hills or the letter \"m\") extending to the right of the circle.\n3.  **One Horizontal Line**: A rough, straight line segment that runs beneath the arcs, connecting their bases.\n\nThere are no words, distinct nodes, or complex shapes present; the image consists entirely of a simple pencil sketch composed of these basic geometric lines and curves.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:43:49.265250"
+}

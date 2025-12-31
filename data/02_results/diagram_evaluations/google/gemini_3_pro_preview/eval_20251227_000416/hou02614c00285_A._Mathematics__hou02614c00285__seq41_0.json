@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq41.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq41/A._Mathematics__hou02614c00285__seq41_cls0_0.jpg",
+  "x": "296",
+  "y": "124",
+  "width": "324",
+  "height": "293",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq41",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "I can see 14 elements in the provided image.\n\n**letters:**\n1. A {\"point\": [316, 322]}\n2. B {\"point\": [342, 655]}\n3. C {\"point\": [675, 392]}\n4. D {\"point\": [645, 655]}\n\n**lines:**\n5. diagonal line {\"point\": [437, 565]}\n6. vertical line {\"point\": [462, 499]}\n7. horizontal line {\"point\": [552, 428]}\n8. top border line {\"point\": [100, 453]}\n9. right border line {\"point\": [332, 765]}\n10. bottom border line {\"point\": [875, 382]}\n11. left border line {\"point\": [452, 149]}\n12. curved line {\"point\": [632, 293]}\n\n**shapes:**\n13. square {\"point\": [452, 453]}\n14. quadrants {\"point\": [452, 392]}",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:12:31.172712"
+}

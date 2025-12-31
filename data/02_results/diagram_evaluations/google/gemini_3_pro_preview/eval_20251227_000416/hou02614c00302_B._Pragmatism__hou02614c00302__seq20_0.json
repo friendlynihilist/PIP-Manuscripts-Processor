@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00302",
+  "page_filename": "B._Pragmatism__hou02614c00302__seq20.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00302__seq20/B._Pragmatism__hou02614c00302__seq20_cls0_0.jpg",
+  "x": "753",
+  "y": "26",
+  "width": "91",
+  "height": "44",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936607/canvas/B._Pragmatism__hou02614c00302__seq20",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **2 distinct hand-drawn elements** visible on the textured background:\n\n1.  **A short horizontal line:** Located on the left, resembling a dash or a minus sign.\n2.  **A circular shape:** Located on the right, resembling a hand-drawn circle, the letter \"O\", or a zero.\n\nAdditionally, there is a dark, rough **border or edge** visible along the very top of the image.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:55:56.076741"
+}

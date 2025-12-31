@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00302",
+  "page_filename": "B._Pragmatism__hou02614c00302__seq37.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00302__seq37/B._Pragmatism__hou02614c00302__seq37_cls0_0.jpg",
+  "x": "1564",
+  "y": "1131",
+  "width": "201",
+  "height": "142",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936607/canvas/B._Pragmatism__hou02614c00302__seq37",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image presents 12 elements.\n\n**letters:**\n1. A {\"point\": [885, 268]}\n2. A {\"point\": [557, 273]}\n3. A {\"point\": [201, 273]}\n4. R {\"point\": [542, 523]}\n5. o {\"point\": [153, 518]}\n6. R {\"point\": [198, 760]}\n\n**shapes:**\n1. circle {\"point\": [734, 308]}\n2. circle {\"point\": [413, 273]}\n3. circle {\"point\": [377, 273]}\n4. circle {\"point\": [382, 518]}\n5. circle {\"point\": [322, 718]}\n\n**lines:**\n1. line {\"point\": [295, 528]}",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:57:28.314053"
+}

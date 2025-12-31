@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq4.jpg",
+  "segment_index": "6",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq4/A._Mathematics__hou02614c00171__seq4_cls0_6.jpg",
+  "x": "1658",
+  "y": "1108",
+  "width": "206",
+  "height": "209",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq4",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is the breakdown of the elements:\n\n*   **Quantity:** There is **1** main element.\n*   **Kind:** The element is a **spiral shape** (or coil).\n*   **Composition:** It is formed by a single, continuous **curved line** that winds outward from a central point.\n*   **Details:** There is one **intersection** point on the left side where the line crosses over itself. There is also a fragment of a second line visible at the very top right edge.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:27:24.754333"
+}

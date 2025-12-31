@@ -1,0 +1,73 @@
+{
+  "model": "qwen2.5-vl-72b-instruct",
+  "prompt": "OUTPUT FORMAT: JSON only, no explanation.\n\nCount visual elements in this diagram:\n1. Cuts (closed curves): How many?\n2. Lines (heavy lines): How many? Do any branch?\n3. Spots (text labels): How many? What text?\n\nJSON:\n{\"cuts\":{\"count\":N,\"nested\":true/false},\"lines\":{\"count\":N,\"branching\":true/false},\"spots\":{\"count\":N,\"labels\":[\"...\"]}}",
+  "total_diagrams": 9,
+  "successful": 7,
+  "failed": 2,
+  "timestamp": "20251231_155726",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "success": false,
+      "error": "Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '3f86ef2fb9c491609aada36be272531f'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:57:28.873856"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "success": true,
+      "response": "{\n  \"cuts\": {\n    \"count\": 4,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 3,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 6,\n    \"labels\": [\"fears\", \"hates\", \"snake\", \"fears\", \"hates\", \"snake\"]\n  }\n}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:57:33.993424"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "success": true,
+      "response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 3,\n    \"branching\": true\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"fears\", \"snake\", \"hates\", \"man\"]\n  }\n}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:58:02.056263"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "success": true,
+      "response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"rational animal\"]\n  }\n}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:58:07.747104"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "success": true,
+      "response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 4,\n    \"labels\": [\"man\", \"tears\", \"hates\", \"snake\"]\n  }\n}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:58:12.481037"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "success": false,
+      "error": "Error code: 429 - {'message': 'API rate limit exceeded', 'request_id': '6cb7be031af8ec3097a4d403314c4013'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:59:01.855518"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "success": true,
+      "response": "{\n  \"cuts\": {\n    \"count\": 2,\n    \"nested\": true\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 2,\n    \"labels\": [\"man\", \"rational animal\"]\n  }\n}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:59:06.522376"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "success": true,
+      "response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 1,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"werunder\"]\n  }\n}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:59:12.164937"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "success": true,
+      "response": "{\n  \"cuts\": {\n    \"count\": 1,\n    \"nested\": false\n  },\n  \"lines\": {\n    \"count\": 2,\n    \"branching\": false\n  },\n  \"spots\": {\n    \"count\": 1,\n    \"labels\": [\"wounded\"]\n  }\n}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2025-12-31T15:59:16.739984"
+    }
+  ]
+}

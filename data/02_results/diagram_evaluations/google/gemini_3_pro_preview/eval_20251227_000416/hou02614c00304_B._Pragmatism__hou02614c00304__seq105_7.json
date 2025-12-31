@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq105.jpg",
+  "segment_index": "7",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq105/B._Pragmatism__hou02614c00304__seq105_cls0_7.jpg",
+  "x": "1199",
+  "y": "186",
+  "width": "323",
+  "height": "170",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq105",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**1. Shapes (3 total)**\n*   **1 Large Outer Oval:** A rough, hand-drawn elliptical shape that encompasses the rest of the drawing.\n*   **2 Inner Ovals:** Two smaller, roughly oblong shapes stacked vertically inside the larger oval.\n\n**2. Words/Text (2 items)**\n*   **2 Handwritten Strings:** There is a handwritten word inside each of the two inner ovals. The text appears to be written upside down or mirrored relative to the viewer.\n    *   The top word is accompanied by a small, thick dash.\n    *   The bottom word has a tail or stroke extending outward from it.\n\n**3. Lines (Approx. 30-40)**\n*   **Hatching Lines:** The space between the outer oval and the two inner ovals is filled with a series of short, diagonal lines (hatching) to create a shading or texture effect.\n*   **Connector/Tail:** There is one thick, dark line extending from the text in the bottom oval, crossing through the hatched area and extending outside the main shape.\n\n**4. Background**\n*   **Grid:** The drawing is on graph paper, so there is a background grid of faint vertical and horizontal lines.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:03:14.423512"
+}

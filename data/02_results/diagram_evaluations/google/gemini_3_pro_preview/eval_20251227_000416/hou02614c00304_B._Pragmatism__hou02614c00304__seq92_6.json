@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq92.jpg",
+  "segment_index": "6",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq92/B._Pragmatism__hou02614c00304__seq92_cls0_6.jpg",
+  "x": "966",
+  "y": "981",
+  "width": "398",
+  "height": "121",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq92",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "I can see 23 elements in the provided image.\n\n**Nodes:**\n1.  {\"point\": [645, 96], \"label\": \"node\"}\n2.  {\"point\": [547, 136], \"label\": \"node\"}\n3.  {\"point\": [625, 201], \"label\": \"node\"}\n4.  {\"point\": [146, 253], \"label\": \"node\"}\n5.  {\"point\": [634, 322], \"label\": \"node\"}\n6.  {\"point\": [86, 453], \"label\": \"node\"}\n7.  {\"point\": [655, 447], \"label\": \"node\"}\n8.  {\"point\": [146, 655], \"label\": \"node\"}\n9.  {\"point\": [634, 596], \"label\": \"node\"}\n10. {\"point\": [196, 814], \"label\": \"node\"}\n11. {\"point\": [625, 726], \"label\": \"node\"}\n12. {\"point\": [607, 910], \"label\": \"node\"}\n\n**Lines:**\n13. {\"point\": [586, 100], \"label\": \"line\"}\n14. {\"point\": [562, 188], \"label\": \"line\"}\n15. {\"point\": [292, 136], \"label\": \"line\"}\n16. {\"point\": [352, 309], \"label\": \"line\"}\n17. {\"point\": [104, 337], \"label\": \"line\"}\n18. {\"point\": [352, 453], \"label\": \"line\"}\n19. {\"point\": [89, 552], \"label\": \"line\"}\n20. {\"point\": [367, 631], \"label\": \"line\"}\n21. {\"point\": [80, 750], \"label\": \"line\"}\n22. {\"point\": [469, 755], \"label\": \"line\"}\n23. {\"point\": [439, 890], \"label\": \"line\"}",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:25:06.186028"
+}

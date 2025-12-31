@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq15.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq15/D._Logic__hou02614c00458__seq15_cls0_1.jpg",
+  "x": "825",
+  "y": "594",
+  "width": "668",
+  "height": "210",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, there are **7 distinct elements** categorized as follows:\n\n*   **3 Words:**\n    *   \"man\" (on the left)\n    *   \"disgraced\" (top right)\n    *   \"wounded\" (bottom right)\n\n*   **1 Line:**\n    *   A horizontal dash connecting the word \"man\" to the grouping on the right.\n\n*   **1 Curve/Brace:**\n    *   A thick, dark, C-shaped curve (or brace) that branches out to the two words on the right.\n\n*   **2 Shapes (Loops):**\n    *   A smaller hand-drawn loop encircling the word \"disgraced\".\n    *   A larger hand-drawn loop encircling the entire right-hand group (the brace, \"disgraced\", and \"wounded\").",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-26T23:56:38.575921"
+}

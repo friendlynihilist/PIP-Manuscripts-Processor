@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq12.jpg",
+  "segment_index": "15",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq12/A._Mathematics__hou02614c00171__seq12_cls0_15.jpg",
+  "x": "1835",
+  "y": "437",
+  "width": "200",
+  "height": "195",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq12",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **5 distinct elements** visible:\n\n1.  **Outer Shape**: One large, hand-drawn, irregular closed loop that resembles a rounded square or a distorted circle.\n2.  **Inner Shape**: One smaller, darker, and thicker oval or circle positioned roughly in the center of the outer shape.\n3.  **Curved Line (Arc)**: One curved line segment along the left side of the outer shape, running parallel to the edge, which creates a double-line or \"thickness\" effect on that side.\n4.  **Straight Line**: One short, horizontal line segment extending outward from the left side of the outer shape, resembling a pointer or leader line.\n5.  **Text Fragments**: Traces of handwritten words are visible at the very top edge of the image, though they are cut off and illegible.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:19:35.576565"
+}

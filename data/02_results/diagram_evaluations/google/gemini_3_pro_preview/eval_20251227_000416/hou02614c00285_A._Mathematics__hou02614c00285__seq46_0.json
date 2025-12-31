@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq46.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq46/A._Mathematics__hou02614c00285__seq46_cls0_0.jpg",
+  "x": "1156",
+  "y": "1750",
+  "width": "340",
+  "height": "249",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq46",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the visual evidence in the image, there are **3 distinct groupings** of elements present, composed entirely of sketch marks.\n\nHere is the breakdown by type and count:\n\n**1. Shapes / Figures (2 items)**\n*   **Profile Sketch (Left):** The largest element is a rough pencil sketch of a human head in profile, facing right. It appears to be an older figure with a prominent nose and a cap or head covering.\n*   **Abstract Symbol (Right):** There is a smaller, abstract doodle or glyph. It resembles a stick figure, a monogram, or a symbol with a vertical line crossed by a horizontal one and a looped top.\n\n**2. Lines and Arcs (Multiple)**\nThe figures are constructed from roughly **15-20 individual pencil strokes**.\n*   **Arcs (Curved Lines):** These are the dominant element type. They are used to form the forehead, the bulbous nose, the chin, and the volume of the head covering on the main figure. The top of the symbol on the right is also a small arc/loop.\n*   **Straight/Diagonal Lines:** There is a distinct diagonal line indicating the neck/collar of the figure. The symbol on the right contains intersecting straight lines.\n*   **Stray Line:** There is **1** isolated diagonal line in the bottom left corner, separate from the main drawings.\n\n**3. Nodes / Points (1 item)**\n*   There is a small, dark mark representing the **eye** of the profile figure, which acts as a focal point or node within the sketch.\n\n**Summary Count:**\n*   **Words:** 0\n*   **Main Figures:** 2\n*   **Stray Marks:** 1\n*   **Total Component Strokes:** Approximately 20 mixed lines and arcs.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:13:21.268438"
+}

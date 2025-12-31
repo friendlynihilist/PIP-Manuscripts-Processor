@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq15.jpg",
+  "segment_index": "12",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq15/D._Logic__hou02614c00458__seq15_cls0_12.jpg",
+  "x": "857",
+  "y": "1473",
+  "width": "623",
+  "height": "105",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Is there a relationship between the elements present in the image? Which elements are connected to each other?",
+  "evaluation": "The image contains handwritten text that appears to say \"man wounded.\" The elements \"man\" and \"wounded\" are connected as they form a phrase or sentence together, indicating that a man has been injured. The connection is grammatical and contextual, suggesting a narrative or descriptive statement about an individual's condition.",
+  "model": "qwen2.5-vl-72b-instruct",
+  "timestamp": "2025-12-26T21:03:58.267618"
+}

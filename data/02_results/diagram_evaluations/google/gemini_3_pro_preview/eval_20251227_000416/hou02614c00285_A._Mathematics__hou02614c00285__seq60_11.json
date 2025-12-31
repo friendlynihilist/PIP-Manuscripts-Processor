@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq60.jpg",
+  "segment_index": "11",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq60/A._Mathematics__hou02614c00285__seq60_cls0_11.jpg",
+  "x": "629",
+  "y": "1944",
+  "width": "56",
+  "height": "53",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1 main element** present.\n\n**Description of the element:**\n*   **Type:** It is an **irregular, hand-drawn circular or oval shape**.\n*   **Characteristics:** The shape appears to be a rough sketch, possibly of a loop, ring, or a cross-section of an organic object. It features a thick, dark, and textured perimeter created by multiple overlapping sketch lines, giving it a \"rim-like\" appearance.\n*   **Internal Detail:** Inside the open center of the shape, there is a faint, thin horizontal line or mark connecting the left and right sides.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:18:22.308267"
+}

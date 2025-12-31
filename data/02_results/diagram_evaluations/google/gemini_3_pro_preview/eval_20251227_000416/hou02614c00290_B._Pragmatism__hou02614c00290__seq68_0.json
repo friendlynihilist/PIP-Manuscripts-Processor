@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00290",
+  "page_filename": "B._Pragmatism__hou02614c00290__seq68.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00290__seq68/B._Pragmatism__hou02614c00290__seq68_cls0_0.jpg",
+  "x": "1376",
+  "y": "167",
+  "width": "345",
+  "height": "257",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936251/canvas/B._Pragmatism__hou02614c00290__seq68",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **5 distinct elements** drawn on the graph paper. They can be categorized as follows:\n\n1.  **Shapes (2 elements):**\n    *   **Outer Shape:** A large, roughly circular hand-drawn loop that encloses the entire diagram.\n    *   **Inner Shape:** A smaller, elongated oval drawn inside the upper portion of the outer circle.\n\n2.  **Text (2 elements):**\n    *   **Inner Text:** A handwritten phrase inside the smaller oval. It appears to be written upside down and looks like \"what is known\" or \"what is happy\".\n    *   **Lower Text:** A handwritten word (or short phrase) located below the inner oval. It is also upside down and appears to read \"kills\" or \"hills\", followed by a dash.\n\n3.  **Lines/Arcs (1 element):**\n    *   **Connector:** A curved line or arc that connects the right side of the inner oval to the text below it.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:49:47.422575"
+}

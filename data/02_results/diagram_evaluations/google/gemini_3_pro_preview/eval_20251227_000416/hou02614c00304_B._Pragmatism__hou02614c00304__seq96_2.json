@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq96.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq96/B._Pragmatism__hou02614c00304__seq96_cls0_2.jpg",
+  "x": "865",
+  "y": "927",
+  "width": "504",
+  "height": "425",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq96",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**1. Words (4 items)**\nThere are four handwritten words in cursive script arranged in two lines:\n*   **\"gives\"** (top line)\n*   **\"to\"** (top line)\n*   **\"steals\"** (bottom line)\n*   **\"from\"** (bottom line)\n\n**2. Shapes / Lines (1 main complex element)**\n*   **1 Large Stylized Curve:** There is a single, large, sweeping ink stroke that forms a shape resembling a capital letter \"**G**\" or a stylized ear. This curvilinear shape acts as a container, wrapping around the top and bottom of the text phrases. It consists of several connected arcs and loops.\n\n**3. Background (1 pattern)**\n*   **1 Grid Pattern:** The entire sketch is drawn on a sheet of graph paper, characterized by a grid of intersecting light blue vertical and horizontal lines.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:26:15.690848"
+}

@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq10.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq10/A._Mathematics__hou02614c00285__seq10_cls0_1.jpg",
+  "x": "496",
+  "y": "38",
+  "width": "81",
+  "height": "83",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq10",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **3 distinct drawn elements** visible:\n\n1.  **1 Shape**: The most prominent element is a rough, irregular **circular or oval loop**. It appears hand-drawn with a sketchy quality.\n2.  **1 Line/Mark**: Inside the loop, there is a **squiggly curved line**. It is abstract but somewhat resembles a number \"5,\" a letter \"S,\" or a simple doodle.\n3.  **1 Arc**: At the very bottom edge of the image, there is a partial **curved line or arc**, which looks like the top portion of another shape that has been cut off.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:38:16.614579"
+}

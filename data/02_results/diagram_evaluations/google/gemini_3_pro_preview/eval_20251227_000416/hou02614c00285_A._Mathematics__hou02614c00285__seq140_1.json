@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq140.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq140/A._Mathematics__hou02614c00285__seq140_cls0_1.jpg",
+  "x": "774",
+  "y": "723",
+  "width": "548",
+  "height": "555",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq140",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, here is a breakdown of the elements present:\n\n**Shapes**\n*   **1 Large Circle:** The dominant element is a roughly drawn circle or oval shape in the center.\n*   **1 Partial Arc:** To the left of the main circle, there is a curved line that appears to be the edge of a second, adjacent circle.\n\n**Lines**\n*   **3 Main Internal Lines:** Inside the main circle, there are three distinct pencil lines:\n    *   A vertical line extending downwards from the center.\n    *   A diagonal line extending from the center towards the upper-left.\n    *   A horizontal line cutting across the lower half of the circle.\n*   **Various Sketch Lines:** There are several fainter, scratchy lines overlapping the main shapes, typical of a hand-drawn sketch.\n\n**Nodes**\n*   **1 Central Point:** There is a darkened dot or node in the center of the circle where the vertical and diagonal lines originate.\n\n**Text & Symbols**\n*   **Approximately 6-8 Annotations:** There are various handwritten symbols and scribbles scattered around and inside the shape, likely mathematical or geometric labels:\n    *   **Top:** Some scribbles and what looks like \"c1\" or a similar notation.\n    *   **Right:** A symbol resembling the Greek letter alpha ($\\alpha$) or 'x'.\n    *   **Bottom Right:** A letter \"x\".\n    *   **Inside Left:** Another symbol resembling an alpha ($\\alpha$).\n    *   **Far Left:** Partial symbols and numbers (possibly \"0\" or \"2\").\n    *   **Top Left Corner:** A cluster of scribbles or crossed-out calculations.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:53:34.939777"
+}

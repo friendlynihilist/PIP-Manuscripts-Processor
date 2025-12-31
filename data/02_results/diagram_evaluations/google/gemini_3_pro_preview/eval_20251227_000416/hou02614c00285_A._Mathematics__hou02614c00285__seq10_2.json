@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq10.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq10/A._Mathematics__hou02614c00285__seq10_cls0_2.jpg",
+  "x": "1103",
+  "y": "264",
+  "width": "394",
+  "height": "219",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq10",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **5 distinct elements** categorized as follows:\n\n**1. Words (2 elements):**\n*   The word **\"leisurely\"** written in cursive with grey pencil in the center.\n*   The word **\"nest\"** written in cursive with grey pencil at the bottom.\n\n**2. Lines & Markings (3 elements):**\n*   **One straight horizontal line** drawn in grey pencil at the very top.\n*   **One wavy (zigzag) line** drawn in orange pencil/crayon just below the top straight line.\n*   **One dashed line** consisting of five short horizontal strokes drawn in orange pencil/crayon underneath the word \"leisurely\".",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:38:35.184571"
+}

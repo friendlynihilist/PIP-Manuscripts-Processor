@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq14.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq14/B._Pragmatism__hou02614c00304__seq14_cls0_0.jpg",
+  "x": "60",
+  "y": "511",
+  "width": "634",
+  "height": "322",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq14",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, here is a breakdown of the elements present:\n\n**Words (5)**\nThere are five handwritten words in cursive script:\n1.  **\"millionaire\"** (top left)\n2.  **\"cat\"** (top right)\n3.  **\"gives\"** (middle left, partially obscured by lines)\n4.  **\"precious\"** (inside the inner oval)\n5.  **\"zoologist\"** (inside the inner oval, written as \"zoölogist\")\n\n**Shapes (2)**\nThere are two primary closed shapes forming a diagram:\n1.  **Outer Oval:** A large, rough oval shape that encompasses the word \"gives\" and the inner oval.\n2.  **Inner Oval:** A smaller oval nested inside the right side of the larger one, enclosing the words \"precious\" and \"zoologist.\"\n\n**Lines (3 distinct groups)**\nThere are several thick, dark lines acting as connectors:\n1.  A curved line with a hook/arrow shape connecting \"millionaire\" down into the main diagram.\n2.  A diagonal line connecting \"cat\" down into the main diagram.\n3.  A thick, bracket-like structure (vertical and horizontal segments) connecting the word \"gives\" to the inner oval.\n\n**Texture/Pattern**\n*   **Hatching:** The space inside the outer oval but outside the inner oval is filled with horizontal scribbled lines (hatching), likely to distinguish the two regions.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:12:27.121334"
+}

@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq96.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq96/A._Mathematics__hou02614c00285__seq96_cls0_2.jpg",
+  "x": "1251",
+  "y": "2124",
+  "width": "105",
+  "height": "213",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq96",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, which appears to be a hand-drawn sketch, the following elements are present:\n\n*   **Arrows:** There are **2** vertical arrows pointing downwards. They are located inside a U-shaped curve in the lower right section.\n*   **Shapes:** There is **1** small circle (which could also be the letter \"O\") located in the center of the image.\n*   **Lines/Curves:** There are several line segments, including:\n    *   A large **curved line** arching across the top.\n    *   A **U-shaped curve** at the bottom right that contains the arrows.\n    *   A **squiggly line** fragment on the left edge.\n    *   A **straight vertical line** at the bottom left.\n    *   A short **vertical dash** intersecting the top arch.\n*   **Letters:** There is **1** partial letter visible in the top left corner, which looks like the letter **\"P\"**.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:47:21.583182"
+}

@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq108.jpg",
+  "segment_index": "5",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq108/B._Pragmatism__hou02614c00304__seq108_cls0_5.jpg",
+  "x": "1211",
+  "y": "285",
+  "width": "326",
+  "height": "231",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq108",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**1. Shapes**\n*   **1 irregular circular outline:** The main element is a roughly drawn circle or oval shape that acts as a container for the other elements.\n\n**2. Lines**\n*   **~18-20 horizontal hatching lines:** The interior of the circle is filled with thin, hand-drawn horizontal lines creating a texture.\n*   **2 thick pointer lines:** On the right edge of the circle, there are two short, bold horizontal lines that extend slightly outward, appearing to mark the position of the text inside.\n*   **Grid lines (Background):** The entire sketch is drawn on graph paper, characterized by a grid of faint vertical and horizontal lines.\n\n**3. Words / Text**\n*   **2 lines of text/scribbles:** Inside the circle, overlaid on the hatching lines, there are two distinct rows of darker, thicker ink markings. They resemble cursive handwriting or symbols, though they are difficult to read clearly (the top one looks somewhat like \"corn\" or loops, and the bottom one is a longer string of characters).",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:06:53.763883"
+}

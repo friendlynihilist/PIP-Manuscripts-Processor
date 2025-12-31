@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq117.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq117/A._Mathematics__hou02614c00285__seq117_cls0_0.jpg",
+  "x": "110",
+  "y": "1855",
+  "width": "177",
+  "height": "398",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq117",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the visual analysis of the image, which contains a handwritten mathematical equation oriented vertically, here are the elements present:\n\n**Total Count:** There are approximately **19 to 20 distinct elements** (symbols and characters).\n\n**Kinds of Elements:**\n\nThe elements can be categorized into the following types:\n\n1.  **Variables / Letters (approx. 8):**\n    *   **'a'**: Located at the top right.\n    *   **'y'** (or possibly the Greek letter lambda $\\lambda$): Inside the square root at the top.\n    *   **'m'**: Appears multiple times (at least 4 instances) within the fractions.\n    *   **'d'** (or Greek letter alpha $\\alpha$) and **'n'**: Located in the bottom-most fraction.\n\n2.  **Numbers (2):**\n    *   **'3'**: An exponent attached to the 'y'.\n    *   **'2'**: An exponent attached to the parentheses.\n\n3.  **Mathematical Symbols & Operators (approx. 9):**\n    *   **Square Root ($\\sqrt{}$)**: A large symbol with a hook and a long vertical line enclosing the expression.\n    *   **Equals Sign ($=$)**: Two short parallel horizontal lines.\n    *   **Fraction Bars**: Three horizontal lines separating numerators from denominators.\n    *   **Parentheses ($($ and $)$)**: Enclosing the term $(m+m)$.\n    *   **Plus Sign ($+$)**: Inside the parentheses.\n    *   **Minus Sign ($-$)**: Separating the two main terms inside the square root.\n\n**Geometric Composition:**\n*   **Lines:** Straight strokes are used for the fraction bars, the equals sign, the minus sign, the plus sign, and the long stem of the square root.\n*   **Arcs/Curves:** Curved strokes are used to form the letters, numbers, parentheses, and the hook of the square root.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:46:43.059097"
+}

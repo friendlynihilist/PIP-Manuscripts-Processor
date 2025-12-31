@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq139.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq139/A._Mathematics__hou02614c00285__seq139_cls0_0.jpg",
+  "x": "316",
+  "y": "516",
+  "width": "208",
+  "height": "104",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq139",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "The image presents six elements.\n\n1.  **line**: {\"point\": [39, 453]}\n2.  **word**: {\"point\": [500, 60]}\n3.  **word**: {\"point\": [488, 231]}\n4.  **word**: {\"point\": [488, 485]}\n5.  **word**: {\"point\": [476, 715]}\n6.  **word**: {\"point\": [452, 890]}",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:52:23.617559"
+}

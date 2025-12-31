@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq2.jpg",
+  "segment_index": "4",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq2/A._Mathematics__hou02614c00171__seq2_cls0_4.jpg",
+  "x": "125",
+  "y": "1223",
+  "width": "240",
+  "height": "216",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq2",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** distinct element.\n\nIt can be described as a **continuous curved line** that forms an abstract, hand-drawn **shape**. This shape resembles a spiral or a loop-the-loop, featuring a large outer circular path that curves inward to form a smaller loop in the center, crossing over itself in the process.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:21:47.714517"
+}

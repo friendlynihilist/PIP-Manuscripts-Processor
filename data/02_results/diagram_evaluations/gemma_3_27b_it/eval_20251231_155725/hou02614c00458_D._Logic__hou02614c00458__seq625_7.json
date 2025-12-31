@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq625.jpg",
+  "segment_index": "7",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq625/D._Logic__hou02614c00458__seq625_cls0_7.jpg",
+  "x": "941",
+  "y": "312",
+  "width": "468",
+  "height": "99",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq625",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "OUTPUT FORMAT: JSON only, no explanation.\n\nCount visual elements in this diagram:\n1. Cuts (closed curves): How many?\n2. Lines (heavy lines): How many? Do any branch?\n3. Spots (text labels): How many? What text?\n\nJSON:\n{\"cuts\":{\"count\":N,\"nested\":true/false},\"lines\":{\"count\":N,\"branching\":true/false},\"spots\":{\"count\":N,\"labels\":[\"...\"]}}",
+  "evaluation": "```json\n{\"cuts\":{\"count\":1,\"nested\":false},\"lines\":{\"count\":1,\"branching\":false},\"spots\":{\"count\":1,\"labels\":[\"werunder\"]}}\n```",
+  "model": "gemma-3-27b-it",
+  "timestamp": "2025-12-31T15:59:10.003280"
+}

@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq60.jpg",
+  "segment_index": "55",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq60/A._Mathematics__hou02614c00285__seq60_cls0_55.jpg",
+  "x": "1459",
+  "y": "1049",
+  "width": "60",
+  "height": "40",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq60",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there is **1** element present.\n\n**Kind of element:**\n*   It is a **shape** or a **sketch**.\n*   Specifically, it appears to be a hand-drawn outline resembling a small mound, hill, or a triangle with a curved, textured base. It looks like a symbol one might find on an old map to represent terrain.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:30:51.060929"
+}

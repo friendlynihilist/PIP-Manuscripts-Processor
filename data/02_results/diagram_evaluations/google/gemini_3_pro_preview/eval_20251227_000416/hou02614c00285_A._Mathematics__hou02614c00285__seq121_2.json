@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00285",
+  "page_filename": "A._Mathematics__hou02614c00285__seq121.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00285__seq121/A._Mathematics__hou02614c00285__seq121_cls0_2.jpg",
+  "x": "1369",
+  "y": "1929",
+  "width": "117",
+  "height": "372",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936043/canvas/A._Mathematics__hou02614c00285__seq121",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the visual evidence in the image, there are primarily **2 distinct elements**:\n\n1.  **1 Word**: There is a single, vertically oriented string of handwritten text in cursive script. It appears to be a name, possibly reading \"Turngren\" or a similar proper noun, written in pencil.\n2.  **1 Line**: There is one long, straight diagonal line (stroke) drawn parallel to the text, acting as an underline or emphasis mark.\n\nAdditionally, there is a very small, faint **fragment or mark** visible in the bottom left corner, likely part of another letter or a smudge.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:49:57.701350"
+}

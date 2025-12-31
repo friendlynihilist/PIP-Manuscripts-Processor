@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq4.jpg",
+  "segment_index": "9",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq4/A._Mathematics__hou02614c00171__seq4_cls0_9.jpg",
+  "x": "1784",
+  "y": "847",
+  "width": "232",
+  "height": "309",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq4",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "I can see twenty-four elements in the provided image.\n\n**Lines:**\n1.  {\"point\": [104, 327], \"label\": \"line\"}\n2.  {\"point\": [582, 532], \"label\": \"line\"}\n3.  {\"point\": [312, 308], \"label\": \"line\"}\n4.  {\"point\": [115, 528], \"label\": \"line\"}\n5.  {\"point\": [166, 481], \"label\": \"line\"}\n6.  {\"point\": [557, 372], \"label\": \"line\"}\n7.  {\"point\": [739, 123], \"label\": \"line\"}\n8.  {\"point\": [954, 391], \"label\": \"line\"}\n9.  {\"point\": [944, 682], \"label\": \"line\"}\n10. {\"point\": [826, 807], \"label\": \"line\"}\n11. {\"point\": [698, 819], \"label\": \"line\"}\n12. {\"point\": [875, 114], \"label\": \"line\"}\n13. {\"point\": [979, 47], \"label\": \"line\"}\n\n**Shapes:**\n1.  {\"point\": [377, 481], \"label\": \"shape\"}\n\n**Words:**\n1.  {\"point\": [739, 268], \"label\": \"word\"}\n2.  {\"point\": [802, 294], \"label\": \"word\"}\n3.  {\"point\": [750, 500], \"label\": \"word\"}\n4.  {\"point\": [715, 590], \"label\": \"word\"}\n5.  {\"point\": [722, 701], \"label\": \"word\"}\n6.  {\"point\": [792, 739], \"label\": \"word\"}\n7.  {\"point\": [862, 637], \"label\": \"word\"}\n8.  {\"point\": [895, 706], \"label\": \"word\"}\n9.  {\"point\": [900, 397], \"label\": \"word\"}\n10. {\"point\": [932, 500], \"label\": \"word\"}",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:28:42.983834"
+}

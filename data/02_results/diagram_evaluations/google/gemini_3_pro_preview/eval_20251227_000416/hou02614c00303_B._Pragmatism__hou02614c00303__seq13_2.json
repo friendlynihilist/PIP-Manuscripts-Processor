@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00303",
+  "page_filename": "B._Pragmatism__hou02614c00303__seq13.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00303__seq13/B._Pragmatism__hou02614c00303__seq13_cls0_2.jpg",
+  "x": "320",
+  "y": "2100",
+  "width": "86",
+  "height": "138",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936752/canvas/B._Pragmatism__hou02614c00303__seq13",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, there are **4 distinct elements** visible:\n\n1.  **One large handwritten character:** A prominent, dark cursive letter (resembling a 'P', 'S', or possibly a 'f') that spans vertically across the image. It features a large upper curve and a smaller loop at the bottom.\n2.  **One partial handwritten character:** A small, dark loop or curve located at the bottom right, which appears to be the start of another letter (like an 'a' or 'o').\n3.  **Two horizontal lines:** There are two faint, dotted or dashed guidelines running horizontally across the background—one through the middle and one near the bottom—typical of handwriting practice paper.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:00:42.170158"
+}

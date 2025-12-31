@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00171",
+  "page_filename": "A._Mathematics__hou02614c00171__seq4.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/A._Mathematics__hou02614c00171__seq4/A._Mathematics__hou02614c00171__seq4_cls0_2.jpg",
+  "x": "212",
+  "y": "1031",
+  "width": "221",
+  "height": "206",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48431156/canvas/A._Mathematics__hou02614c00171__seq4",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "A. Mathematics",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, there are **7 distinct drawn elements** which can be categorized as follows:\n\n1.  **1 Continuous Curve/Shape:** The primary element is a single, continuous hand-drawn line that loops around to form a three-lobed shape, resembling a trefoil knot or a propeller.\n2.  **6 Short Lines/Ticks:** There are small, dark dashes intersecting the main curve. They are distributed in pairs on each of the three loops (2 on the top-left loop, 2 on the right loop, and 2 on the bottom loop).",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T00:25:51.330688"
+}

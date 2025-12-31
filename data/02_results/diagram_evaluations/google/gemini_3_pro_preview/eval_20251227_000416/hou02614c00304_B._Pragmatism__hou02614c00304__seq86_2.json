@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq86.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq86/B._Pragmatism__hou02614c00304__seq86_cls0_2.jpg",
+  "x": "936",
+  "y": "350",
+  "width": "464",
+  "height": "442",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq86",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, the following elements are present:\n\n**Shapes (Loops):**\n*   **3 connected loops** forming a central clover-like cluster.\n    *   One loop on the top left.\n    *   One loop on the top right.\n    *   One loop at the bottom.\n\n**Lines (Extensions):**\n*   **3 extending lines** radiating outward from the main cluster:\n    *   One line extending diagonally up and to the left from the left loop.\n    *   One line extending diagonally up and to the right from the right loop.\n    *   One short line extending vertically down from the bottom loop.\n\n**Nodes (Junctions):**\n*   There are approximately **7 distinct nodes** (thickened dots or intersection points) visible on the main structure where lines meet or change direction:\n    *   1 central node where the three loops converge.\n    *   3 nodes on the outer perimeter where the extending lines attach.\n    *   3 intermediate nodes where the individual loops touch each other.\n\n**Disconnected Element:**\n*   **1 V-shaped figure** located in the bottom left corner, separate from the main drawing. It consists of two short lines meeting at a point.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:19:19.308438"
+}

@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq13.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq13/B._Pragmatism__hou02614c00304__seq13_cls0_1.jpg",
+  "x": "341",
+  "y": "191",
+  "width": "588",
+  "height": "268",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq13",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**1. Words (4 items)**\nThere are four handwritten words in cursive script:\n*   **\"millionaire\"** (at the top)\n*   **\"gives\"** (inside the large oval, left side)\n*   **\"cat\"** (inside the large oval, right side)\n*   **\"precious\"** (inside the smaller oval)\n\n**2. Shapes (2 items)**\n*   **Large Oval:** A large, roughly drawn oval shape that encloses the words \"gives,\" \"cat,\" and the smaller oval below.\n*   **Small Oval:** A smaller oval shape specifically enclosing the word \"precious.\"\n\n**3. Lines (3 distinct structural lines + shading)**\n*   **Curved Connector:** A thick, curved line (resembling a hook) connects the word \"millionaire\" to the beginning of the word \"gives.\"\n*   **Vertical Line:** A thick vertical line extends downward from the word \"gives.\"\n*   **Bracket/Connector:** A right-angled line connects the word \"cat\" to the oval containing \"precious.\"\n*   **Hatching Lines:** There are numerous thin, horizontal lines used as shading or filler inside the large oval, surrounding the text.\n\n**4. Background**\n*   **Grid:** The entire drawing is on graph paper, characterized by a grid of light blue squares.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:10:27.976414"
+}

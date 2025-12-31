@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00302",
+  "page_filename": "B._Pragmatism__hou02614c00302__seq44.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00302__seq44/B._Pragmatism__hou02614c00302__seq44_cls0_0.jpg",
+  "x": "1241",
+  "y": "1116",
+  "width": "191",
+  "height": "214",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936607/canvas/B._Pragmatism__hou02614c00302__seq44",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the visual analysis of the image, here are the elements present:\n\n**1. Handwritten Digits (Numbers)**\nThere are a total of **8 digits** visible in the image.\n*   **Left Column (top to bottom):**\n    *   **0**\n    *   **7**\n    *   **8**\n    *   **2**\n    *(These digits likely form the number **2870** if the image is rotated 90 degrees clockwise)*\n*   **Right Column (top to bottom):**\n    *   **0**\n    *   **9**\n    *   **2**\n    *(These digits likely form the number **290** if the image is rotated 90 degrees clockwise)*\n*   **Bottom Center:**\n    *   **3**\n\n**2. Handwritten Lines**\nThere are **2 lines** drawn in ink.\n*   **Straight Line:** A long vertical line that separates the two columns of numbers. In a mathematical context, this likely serves as a fraction bar or division line.\n*   **Curved Line (Arc):** A curved line located near the bottom, separating the digit '3' from the vertical line. This resembles a closing parenthesis `)`.\n\n**3. Background Elements**\n*   **Grid:** The numbers and lines are written on **graph paper** with a light blue grid pattern.\n\n**Summary of Context:**\nThe image appears to be a handwritten math problem on graph paper. If you rotate the image 90 degrees clockwise, it reads as \"Problem 3\" followed by the fraction or division operation: **2870 / 290**.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T01:59:49.252771"
+}

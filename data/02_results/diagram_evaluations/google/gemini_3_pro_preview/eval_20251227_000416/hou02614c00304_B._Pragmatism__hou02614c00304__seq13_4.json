@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq13.jpg",
+  "segment_index": "4",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq13/B._Pragmatism__hou02614c00304__seq13_cls0_4.jpg",
+  "x": "114",
+  "y": "1061",
+  "width": "687",
+  "height": "316",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq13",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image provided, here is a breakdown of the elements present:\n\n**1. Words (5 items):**\n*   **\"millionnaire\"**: Located at the top left, outside the main shape.\n*   **\"cat\"**: Located at the top right, outside the main shape.\n*   **\"gives\"**: Located inside the larger outer shape, on the left side.\n*   **\"precious\"**: Located inside the smaller inner shape.\n*   **\"zoologist\"**: Located inside the smaller inner shape, below \"precious\".\n\n**2. Shapes (2 items):**\n*   **Outer Oval**: A large, irregular oval shape enclosing the main diagram.\n*   **Inner Oval**: A smaller oval shape nested inside the right side of the larger oval.\n\n**3. Lines/Arcs (3 items):**\n*   A thick curved line connecting the word **\"millionnaire\"** to the word **\"gives\"**.\n*   A curved line connecting the word **\"cat\"** to the shaded region between the two ovals.\n*   A curved line connecting the word **\"gives\"** to the word **\"zoologist\"**.\n\n**4. Other Elements:**\n*   **Hatching/Shading**: Horizontal scribbled lines fill the space between the outer oval and the inner oval.\n*   **Number**: The number **\"18\"** (or part of a number like \"218\") is visible in the bottom left corner.\n*   **Background**: The drawing is on graph paper with a visible grid.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:11:18.187412"
+}

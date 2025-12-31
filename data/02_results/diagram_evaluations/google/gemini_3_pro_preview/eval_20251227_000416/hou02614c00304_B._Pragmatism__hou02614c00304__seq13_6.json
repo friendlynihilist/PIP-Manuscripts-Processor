@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00304",
+  "page_filename": "B._Pragmatism__hou02614c00304__seq13.jpg",
+  "segment_index": "6",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/B._Pragmatism__hou02614c00304__seq13/B._Pragmatism__hou02614c00304__seq13_cls0_6.jpg",
+  "x": "30",
+  "y": "183",
+  "width": "261",
+  "height": "164",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:491936843/canvas/B._Pragmatism__hou02614c00304__seq13",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "B. Pragmatism",
+  "prompt": "How many and what kind of elements (e.g., words, lines, arcs, nodes, shapes, etc.) are present in the image?",
+  "evaluation": "Based on the image, the following elements are present:\n\n*   **2 Words:**\n    *   The text **\"-cat\"** is written at the top.\n    *   The word **\"precious\"** is written inside the oval shape below.\n*   **1 Shape:**\n    *   There is a large, hand-drawn **oval or pod-like shape** that encloses the word \"precious\". It has a small curved stem or hook on the left side.\n*   **Multiple Lines:**\n    *   Inside the oval shape, there are numerous **horizontal lines** used for shading or texture behind the text.\n    *   Faint **grid lines** are visible in the background, suggesting the drawing is on graph paper.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2025-12-27T02:11:59.176702"
+}
