@@ -1,0 +1,136 @@
+diagram_id,model,cuts_count,cuts_nested,lines_count,lines_branching,spots_count,spots_labels,accuracy
+hou02614c00458_D._Logic__hou02614c00458__seq13_0,Claude Sonnet 4.5,True,True,True,False,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq13_1,Claude Sonnet 4.5,True,True,False,False,False,True,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq15_0,Claude Sonnet 4.5,True,True,False,True,False,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq15_1,Claude Sonnet 4.5,True,True,True,False,True,False,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq15_12,Claude Sonnet 4.5,True,True,True,True,True,False,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq15_14,Claude Sonnet 4.5,False,True,False,False,False,False,0.16666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq15_3,Claude Sonnet 4.5,True,True,False,False,False,False,0.3333333333333333
+hou02614c00458_D._Logic__hou02614c00458__seq15_8,Claude Sonnet 4.5,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq617_0,Claude Sonnet 4.5,True,True,True,False,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq617_1,Claude Sonnet 4.5,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_2,Claude Sonnet 4.5,True,True,False,True,True,False,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq617_4,Claude Sonnet 4.5,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq621_0,Claude Sonnet 4.5,True,True,True,True,False,False,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_1,Claude Sonnet 4.5,False,True,False,False,False,False,0.16666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_2,Claude Sonnet 4.5,False,False,False,False,False,False,0.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_3,Claude Sonnet 4.5,True,True,True,False,False,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_4,Claude Sonnet 4.5,True,True,False,False,False,True,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq621_5,Claude Sonnet 4.5,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_0,Claude Sonnet 4.5,False,False,True,True,True,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq625_1,Claude Sonnet 4.5,True,True,False,True,False,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq625_2,Claude Sonnet 4.5,True,True,False,True,False,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq625_3,Claude Sonnet 4.5,True,True,True,False,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_4,Claude Sonnet 4.5,False,True,False,False,True,True,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_5,Claude Sonnet 4.5,True,True,True,False,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_6,Claude Sonnet 4.5,True,True,True,True,True,False,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_7,Claude Sonnet 4.5,True,True,True,True,True,False,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_9,Claude Sonnet 4.5,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq13_0,Gemini 3 Pro,True,True,True,False,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq13_1,Gemini 3 Pro,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq15_0,Gemini 3 Pro,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq15_1,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq15_12,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq15_14,Gemini 3 Pro,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq15_3,Gemini 3 Pro,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq15_8,Gemini 3 Pro,False,True,True,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_0,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq617_1,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq617_2,Gemini 3 Pro,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_4,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_0,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_1,Gemini 3 Pro,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq621_2,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_3,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_4,Gemini 3 Pro,True,True,False,False,True,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_5,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_0,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_1,Gemini 3 Pro,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_2,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_3,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_4,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_5,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_6,Gemini 3 Pro,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_7,Gemini 3 Pro,True,True,True,True,True,False,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_9,Gemini 3 Pro,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq13_0,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq13_1,Gemini 3 Flash,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq15_0,Gemini 3 Flash,True,True,False,True,False,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq15_1,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq15_12,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq15_14,Gemini 3 Flash,True,True,False,True,False,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq15_3,Gemini 3 Flash,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq15_8,Gemini 3 Flash,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_0,Gemini 3 Flash,True,True,True,False,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_1,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq617_2,Gemini 3 Flash,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_4,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_0,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_1,Gemini 3 Flash,True,True,False,False,True,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_2,Gemini 3 Flash,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq621_3,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_4,Gemini 3 Flash,True,True,True,False,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq621_5,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_0,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_1,Gemini 3 Flash,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_2,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_3,Gemini 3 Flash,True,True,True,False,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_4,Gemini 3 Flash,True,True,True,False,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_5,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_6,Gemini 3 Flash,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_7,Gemini 3 Flash,True,True,True,True,True,False,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_9,Gemini 3 Flash,True,True,True,True,False,False,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq13_0,Gemma 3 27B,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq13_1,Gemma 3 27B,True,True,True,True,False,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq15_0,Gemma 3 27B,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq15_1,Gemma 3 27B,True,True,False,True,True,False,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq15_12,Gemma 3 27B,False,False,False,False,True,True,0.3333333333333333
+hou02614c00458_D._Logic__hou02614c00458__seq15_14,Gemma 3 27B,False,True,False,True,True,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq15_3,Gemma 3 27B,False,False,True,True,True,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq15_8,Gemma 3 27B,False,True,False,True,False,False,0.3333333333333333
+hou02614c00458_D._Logic__hou02614c00458__seq617_0,Gemma 3 27B,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_1,Gemma 3 27B,True,True,False,False,True,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq617_2,Gemma 3 27B,False,True,True,False,True,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq617_4,Gemma 3 27B,True,True,False,False,True,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_0,Gemma 3 27B,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq621_1,Gemma 3 27B,False,True,True,True,False,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_2,Gemma 3 27B,False,False,False,False,False,False,0.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_3,Gemma 3 27B,False,True,True,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq621_4,Gemma 3 27B,True,False,True,True,True,False,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_5,Gemma 3 27B,True,True,False,False,False,False,0.3333333333333333
+hou02614c00458_D._Logic__hou02614c00458__seq625_0,Gemma 3 27B,False,True,True,False,True,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq625_1,Gemma 3 27B,False,True,True,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_2,Gemma 3 27B,False,True,False,True,False,True,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_3,Gemma 3 27B,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_4,Gemma 3 27B,False,False,False,True,False,True,0.3333333333333333
+hou02614c00458_D._Logic__hou02614c00458__seq625_5,Gemma 3 27B,False,False,False,True,False,False,0.16666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq625_6,Gemma 3 27B,False,False,False,True,False,False,0.16666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq625_7,Gemma 3 27B,True,True,True,True,True,False,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_9,Gemma 3 27B,True,True,False,True,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq13_0,Qwen 2.5 VL 72B,True,True,True,False,True,False,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq13_1,Qwen 2.5 VL 72B,True,True,False,False,True,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq15_0,Qwen 2.5 VL 72B,True,True,True,True,False,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq15_1,Qwen 2.5 VL 72B,False,True,True,False,True,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq15_12,Qwen 2.5 VL 72B,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq15_14,Qwen 2.5 VL 72B,True,True,True,False,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq15_3,Qwen 2.5 VL 72B,False,False,False,True,True,True,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq15_8,Qwen 2.5 VL 72B,False,True,False,False,True,False,0.3333333333333333
+hou02614c00458_D._Logic__hou02614c00458__seq617_0,Qwen 2.5 VL 72B,True,True,False,False,True,True,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq617_1,Qwen 2.5 VL 72B,False,True,True,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_2,Qwen 2.5 VL 72B,True,True,False,True,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq617_4,Qwen 2.5 VL 72B,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_0,Qwen 2.5 VL 72B,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq621_1,Qwen 2.5 VL 72B,True,False,False,False,False,False,0.16666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_2,Qwen 2.5 VL 72B,True,True,False,True,True,False,0.6666666666666666
+hou02614c00458_D._Logic__hou02614c00458__seq621_3,Qwen 2.5 VL 72B,True,True,True,True,False,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq621_4,Qwen 2.5 VL 72B,True,True,True,False,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq621_5,Qwen 2.5 VL 72B,False,False,True,True,True,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_0,Qwen 2.5 VL 72B,True,True,True,True,True,True,1.0
+hou02614c00458_D._Logic__hou02614c00458__seq625_1,Qwen 2.5 VL 72B,True,True,False,False,False,False,0.3333333333333333
+hou02614c00458_D._Logic__hou02614c00458__seq625_2,Qwen 2.5 VL 72B,False,False,True,True,False,True,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_3,Qwen 2.5 VL 72B,True,True,True,False,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_4,Qwen 2.5 VL 72B,False,True,True,False,True,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_5,Qwen 2.5 VL 72B,True,True,True,False,True,True,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_6,Qwen 2.5 VL 72B,True,True,True,False,False,False,0.5
+hou02614c00458_D._Logic__hou02614c00458__seq625_7,Qwen 2.5 VL 72B,True,True,True,True,True,False,0.8333333333333334
+hou02614c00458_D._Logic__hou02614c00458__seq625_9,Qwen 2.5 VL 72B,True,True,True,True,False,True,0.8333333333333334

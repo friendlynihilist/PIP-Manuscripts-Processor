@@ -1,14 +1,14 @@
 {
   "cuts": {
-    "count": null,
-    "nested": null
+    "count": 3,
+    "nested": true
   },
   "lines": {
-    "count": null,
-    "branching": null
+    "count": 2,
+    "branching": true
   },
   "spots": {
-    "count": null,
-    "labels": []
+    "count": 4,
+    "labels": ["man", "disgraced", "wounded", "man"]
   }
 }
