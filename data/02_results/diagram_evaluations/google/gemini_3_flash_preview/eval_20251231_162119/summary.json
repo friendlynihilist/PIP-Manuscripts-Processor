@@ -1,0 +1,73 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "OUTPUT FORMAT: JSON only, no explanation.\n\nCount visual elements in this diagram:\n1. Cuts (closed curves): How many?\n2. Lines (heavy lines): How many? Do any branch?\n3. Spots (text labels): How many? What text?\n\nJSON:\n{\"cuts\":{\"count\":N,\"nested\":true/false},\"lines\":{\"count\":N,\"branching\":true/false},\"spots\":{\"count\":N,\"labels\":[\"...\"]}}",
+  "total_diagrams": 9,
+  "successful": 0,
+  "failed": 9,
+  "timestamp": "20251231_162119",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:19.499015"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:22.632423"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:25.744086"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:28.839475"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:31.962540"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:35.082084"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:38.185571"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:41.295271"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2025-12-31T16:21:44.456895"
+    }
+  ]
+}

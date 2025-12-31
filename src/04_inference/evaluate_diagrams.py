@@ -39,6 +39,11 @@ MODELS = {
         "api": "openrouter",
         "max_tokens": 8192,  # Higher limit to accommodate reasoning tokens
     },
+    "gemini-flash": {
+        "model_id": "google/gemini-3-flash-preview",
+        "api": "openrouter",
+        "max_tokens": 8192,
+    },
     "gemma": {
         "model_id": "gemma-3-27b-it",
         "api": "academiccloud",
