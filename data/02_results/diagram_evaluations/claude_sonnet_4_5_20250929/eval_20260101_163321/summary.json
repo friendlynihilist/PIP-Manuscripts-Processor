@@ -1,0 +1,52 @@
+{
+  "model": "claude-sonnet-4-5-20250929",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 6,
+  "successful": 6,
+  "failed": 0,
+  "timestamp": "20260101_163321",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "success": true,
+      "response": "# Spatial Relationships in the Diagram\n\n## CONTAINMENT:\n- The text \"man — wounded\" is contained inside a rounded rectangular shape (speech bubble or banner-like form)\n- No text labels appear outside the closed curve\n\n## CONNECTIONS:\n- There is an arrow extending from the right end of the rounded rectangle, pointing to the right\n- The arrow appears to be part of or connected to the boundary of the shape itself\n- No separate lines connect different text labels\n- No branching lines are visible\n- The arrow/line does not connect to any other elements (it points outward into empty space)\n\n## BOUNDARY CROSSINGS:\n- The arrow crosses/extends through the right boundary of the rounded rectangle\n- The arrow is integrated into the shape's boundary rather than being a separate crossing element\n\n## NESTING:\n- No closed curves are nested inside others\n- Only one closed curve is present in the diagram",
+      "model": "claude-sonnet-4-5-20250929",
+      "timestamp": "2026-01-01T16:33:29.152210"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "success": true,
+      "response": "# Spatial Description of the Diagram\n\n## CONTAINMENT:\n- **Inside the main closed curve (elongated oval/capsule shape):** The text \"catholic\" and \"cadres\" appear on the left side, while \"woman\" appears on the right side\n- **Outside all closed curves:** The text \"woman\" appears to the right of the main shape\n\n## CONNECTIONS:\n- There is a line connecting \"catholic\" and \"cadres\" to \"woman\" (the one inside the curve)\n- A line extends from \"woman\" (inside) and crosses the boundary, continuing to \"woman\" (outside)\n- There appears to be a small curved or looped element at the top of the diagram\n- The connecting lines show: catholic/cadres → woman (inside) → woman (outside)\n\n## BOUNDARY CROSSINGS:\n- Yes, a line crosses from inside the main closed curve to outside\n- The line exits through the right side of the main oval shape\n- This line connects the internal \"woman\" label to the external \"woman\" label\n\n## NESTING:\n- There appears to be a smaller closed curve or loop at the top portion of the diagram\n- This smaller element sits above or overlaps with the main elongated oval shape\n- The main capsule/oval shape is the primary boundary, with this smaller curved element positioned at its upper edge",
+      "model": "claude-sonnet-4-5-20250929",
+      "timestamp": "2026-01-01T16:33:41.720645"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "success": true,
+      "response": "# Spatial Relationships in the Diagram\n\n## CONTAINMENT\n- The text \"catholic + adores woman\" is contained inside a closed oval/elliptical curve\n- All text appears to be within the boundary of this single closed shape\n\n## CONNECTIONS\n- There is a single line extending from the right side of the oval\n- This line branches into what appears to be a Y-shape or fork outside the oval\n- No text labels are directly connected by lines\n- The branching occurs entirely outside the closed curve\n\n## BOUNDARY CROSSINGS\n- One line crosses the boundary of the oval, exiting from the right side\n- This is the only boundary crossing visible in the diagram\n\n## NESTING\n- There is only one closed curve visible (the oval)\n- No nested curves are present\n- No closed curves exist inside other closed curves",
+      "model": "claude-sonnet-4-5-20250929",
+      "timestamp": "2026-01-01T16:33:51.444753"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "success": true,
+      "response": "# Spatial Relationships in the Diagram\n\n## CONTAINMENT:\n- \"wounded\" appears to be inside a closed curved boundary\n- \"man\" (left instance) appears to be outside any closed curves\n- \"man\" (bottom instance) appears to be outside any closed curves\n\n## CONNECTIONS:\n- A line connects the left \"man\" label to the closed curve containing \"wounded\"\n- A line extends from the bottom \"man\" label upward toward the closed curve\n- The lines appear to branch or meet at the closed curve boundary\n\n## BOUNDARY CROSSINGS:\n- Yes, at least one line crosses into the closed curve boundary (the line from the left \"man\" enters the curve)\n- The line from the bottom \"man\" appears to approach or touch the boundary of the closed curve\n\n## NESTING:\n- There appears to be only one main closed curve visible\n- No nested closed curves are evident in this diagram",
+      "model": "claude-sonnet-4-5-20250929",
+      "timestamp": "2026-01-01T16:34:00.932822"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "success": true,
+      "response": "# Spatial Relationships in the Diagram\n\n## CONTAINMENT:\n- The text \"man 1 wounded.\" is contained inside a rounded rectangle/oval shape\n- The text \"man\" (with a dash after it) appears outside and above the rounded rectangle\n\n## CONNECTIONS:\n- There is a vertical line extending upward from the rounded rectangle\n- This vertical line connects to or terminates near the word \"man\" (with dash) at the top\n- No branching is visible in the line structure\n\n## BOUNDARY CROSSINGS:\n- Yes, the vertical line crosses the top boundary of the rounded rectangle\n- The line appears to exit from approximately where the \"1\" character is located within the enclosed text\n\n## NESTING:\n- No nested closed curves are present\n- There is only one closed curve (the rounded rectangle) in the diagram",
+      "model": "claude-sonnet-4-5-20250929",
+      "timestamp": "2026-01-01T16:34:11.383433"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "success": true,
+      "response": "# Spatial Relationships in the Diagram\n\n## CONTAINMENT\n- The text \"Catholic-adored-woman\" is contained within a single closed curve (an irregular oval/rounded rectangle shape)\n- All three hyphenated words are inside the same boundary\n- No text appears outside the closed curve\n\n## CONNECTIONS\n- There are no separate connecting lines between distinct text labels\n- The text appears to be written as one continuous handwritten phrase with hyphens\n- No branching lines are visible\n- No unconnected lines extend from the text\n\n## BOUNDARY CROSSINGS\n- No lines cross the boundary of the closed curve\n- The boundary appears complete and uninterrupted\n- The text remains entirely within the enclosed space\n\n## NESTING\n- There is only one closed curve visible\n- No curves are nested inside other curves\n- The diagram consists of a single-level enclosure",
+      "model": "claude-sonnet-4-5-20250929",
+      "timestamp": "2026-01-01T16:34:21.657520"
+    }
+  ]
+}

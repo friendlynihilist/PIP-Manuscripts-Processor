@@ -81,7 +81,14 @@ Count visual elements in this diagram:
 
 JSON:
 {"cuts":{"count":N,"nested":true/false},"lines":{"count":N,"branching":true/false},"spots":{"count":N,"labels":["..."]}}""",
-    "indexical": "Is there a relationship between the elements present in the image? Which elements are connected to each other?",
+    "indexical": """Describe the spatial relationships in this diagram.
+
+CONTAINMENT: Which text labels are inside or outside each closed curve?
+CONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.
+BOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?
+NESTING: Are any closed curves nested inside others?
+
+Do not interpret meaning. Only describe what you see spatially.""",
     "symbolic": "In Peirce's diagrammatic logic, a closed curve called a cut represents logical negation. Elements inside the same region are interpreted conjunctively (i.e., asserted together). Elements placed directly on the background (the Sheet of Assertion) are considered true. A cut around propositions denies them. Nested cuts represent nested negation. Lines may indicate identity or existential quantification. Based on these principles, interpret the diagram and translate its meaning into a logical statement. If this is not possible, provide a clear explanation in natural language.",
     "description": "Describe this diagram in detail, including its structure, content, and any visible text or labels.",
     "classification": "What type of diagram is this? (e.g., graph, chart, geometric figure, logical diagram, tree diagram, etc.)",

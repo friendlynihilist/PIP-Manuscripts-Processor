@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq15.jpg",
+  "segment_index": "14",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq15/D._Logic__hou02614c00458__seq15_cls0_14.jpg",
+  "x": "843",
+  "y": "1468",
+  "width": "649",
+  "height": "262",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "# Spatial Relationships in the Diagram\n\n## CONTAINMENT:\n\n**Top oval (circled):**\n- Contains the text \"wounded\"\n\n**Middle rounded rectangle:**\n- Contains the text \"disgraced\"\n\n**Bottom rounded shape:**\n- Contains the text \"wounded\"\n\n**Outside all closed curves:**\n- The word \"man\" appears three times as separate labels outside the closed shapes\n\n## CONNECTIONS:\n\n- A horizontal line connects from \"man\" (left) to the top oval containing \"wounded\"\n- A horizontal line connects from \"man\" (left) to the middle shape containing \"disgraced\"\n- A curved/angled line connects from \"man\" (left) to the bottom shape containing \"wounded\"\n- All three \"man\" labels on the left appear to originate from approximately the same vertical area\n- No branching structures are evident; each line goes from a \"man\" label to one closed shape\n\n## BOUNDARY CROSSINGS:\n\n- The lines connecting \"man\" labels to the closed curves cross into/terminate at the boundaries of their respective shapes\n- No lines pass completely through a shape and exit the other side\n\n## NESTING:\n\n- No closed curves are nested inside other closed curves\n- All three closed shapes are separate and non-overlapping",
+  "model": "claude-sonnet-4-5-20250929",
+  "timestamp": "2026-01-01T16:32:42.403586"
+}
