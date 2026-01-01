@@ -1,0 +1,73 @@
+{
+  "model": "qwen2.5-vl-72b-instruct",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 9,
+  "successful": 9,
+  "failed": 0,
+  "timestamp": "20260101_164658",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "success": true,
+      "response": "### CONTAINMENT:\n- In the top closed curve, \"animal\" is inside the curve, and \"man\" is outside.\n- In the bottom closed curve, \"rational\" is inside the curve, and \"man\" is outside.\n\n### CONNECTIONS:\n- A line connects \"man\" to \"animal.\"\n- Another line connects \"man\" to \"rational.\"\n- There are no branching lines, and all lines connect directly from \"man\" to either \"animal\" or \"rational.\"\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" to \"animal\" crosses the boundary of the top closed curve.\n- The line connecting \"man\" to \"rational\" crosses the boundary of the bottom closed curve.\n\n### NESTING:\n- There are no closed curves nested inside others. Each closed curve is separate and does not contain another closed curve within it.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:47:04.007446"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The text labels \"fears\" and \"hates\" are inside both closed curves.\n- The text label \"snake\" is outside both closed curves.\n- The text label \"man\" is outside both closed curves.\n\n### CONNECTIONS:\n- A line connects the text label \"man\" to the left side of the top closed curve.\n- Another line connects the right side of the top closed curve to the text label \"snake.\"\n- A separate line connects the text label \"man\" to the left side of the bottom closed curve.\n- Another line connects the right side of the bottom closed curve to the text label \"snake.\"\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" to the top closed curve crosses the boundary of the top closed curve.\n- The line connecting the top closed curve to \"snake\" crosses the boundary of the top closed curve.\n- The line connecting \"man\" to the bottom closed curve crosses the boundary of the bottom closed curve.\n- The line connecting the bottom closed curve to \"snake\" crosses the boundary of the bottom closed curve.\n\n### NESTING:\n- There are no closed curves nested inside others. Both closed curves are separate and do not overlap.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:47:19.688434"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The text \"fears\" is inside the top closed curve.\n- The text \"hates\" is inside the bottom closed curve.\n- The text \"man,\" \"snake,\" and \"snake\" are outside the closed curves.\n\n### CONNECTIONS:\n- A line connects \"man\" to the top closed curve containing \"fears.\"\n- Another line connects the top closed curve containing \"fears\" to the word \"snake.\"\n- A line connects the bottom closed curve containing \"hates\" to the word \"snake.\"\n- There is no branching, and all lines are connected to at least one other element.\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" to the top closed curve crosses the boundary of the top closed curve.\n- The line connecting the top closed curve to \"snake\" does not cross any closed curve boundary.\n- The line connecting the bottom closed curve to \"snake\" does not cross any closed curve boundary.\n\n### NESTING:\n- There are no closed curves nested inside others. Both closed curves are separate and do not overlap.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:47:34.328867"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The label \"man\" is inside the left closed curve.\n- The labels \"rational\" and \"animal\" are inside the right closed curve.\n\n### CONNECTIONS:\n- A line connects the two closed curves. There is no branching, and there are no unconnected lines.\n\n### BOUNDARY CROSSINGS:\n- The connecting line crosses the boundary of both closed curves.\n\n### NESTING:\n- There are no closed curves nested inside others. Both closed curves are separate and do not contain other closed curves within them.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:47:46.145566"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The text labels \"tears\" and \"hates\" are inside the closed curve.\n- The text labels \"man\" and \"snake\" are outside the closed curve.\n\n### CONNECTIONS:\n- A line connects the text label \"man\" to the closed curve.\n- Another line connects the closed curve to the text label \"snake.\"\n- There are no branching lines, and all lines are connected to either the closed curve or the text labels.\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" to the closed curve crosses the boundary of the closed curve.\n- The line connecting the closed curve to \"snake\" does not cross the boundary of the closed curve but extends from it.\n\n### NESTING:\n- There are no closed curves nested inside other closed curves. The single closed curve is not contained within another.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:47:59.467165"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The text label \"man\" is inside the larger closed curve on the left side.\n- The text label \"rational animal\" is inside the smaller closed curve on the right side.\n\n### CONNECTIONS:\n- A line connects the text label \"man\" to the text label \"rational animal.\"\n- There are no branching lines, and there are no unconnected lines.\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" and \"rational animal\" crosses the boundary of the larger closed curve that contains \"man.\"\n\n### NESTING:\n- The smaller closed curve containing \"rational animal\" is nested inside the larger closed curve containing \"man.\"",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:48:11.774750"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The text \"man\" is outside the smaller closed curve but inside the larger closed curve.\n- The text \"rational animal\" is inside the smaller closed curve and also inside the larger closed curve.\n\n### CONNECTIONS:\n- A line connects the text \"man\" to the smaller closed curve, entering it at a point near the top left corner of the smaller curve.\n- There are no other lines connecting different text labels or curves.\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" crosses the boundary of the smaller closed curve as it enters it.\n\n### NESTING:\n- The smaller closed curve is nested inside the larger closed curve.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:48:24.239240"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The text label \"wonder\" is inside the closed oval curve.\n\n### CONNECTIONS:\n- A line extends from the left side of the oval, connecting to it at one point. There are no other connections visible, and no branching or unconnected lines are present.\n\n### BOUNDARY CROSSINGS:\n- The line crosses the boundary of the closed oval curve at one point where it connects to the oval.\n\n### NESTING:\n- There are no nested closed curves; only one closed curve (the oval) is present.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:48:35.791701"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "success": true,
+      "response": "This diagram consists of a single closed curve and some text labels, along with a line:\n\n- **CONTAINMENT**: The word \"wounded\" is inside the closed curve. There are no other text labels present in the diagram.\n\n- **CONNECTIONS**: A line extends from the left side of the closed curve and continues outside it. This line does not connect to any other elements within the diagram. There are no branching lines.\n\n- **BOUNDARY CROSSINGS**: The line crosses the boundary of the closed curve at one point on the left side.\n\n- **NESTING**: There are no nested closed curves in this diagram; only one closed curve is present.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:48:48.077698"
+    }
+  ]
+}

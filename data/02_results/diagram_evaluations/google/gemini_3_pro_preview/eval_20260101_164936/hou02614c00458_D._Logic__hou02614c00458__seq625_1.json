@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq625.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq625/D._Logic__hou02614c00458__seq625_cls0_1.jpg",
+  "x": "1345",
+  "y": "1104",
+  "width": "707",
+  "height": "306",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq625",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "Based on the provided image, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Outside all curves:** The text label \"man\" is located on the far left, outside of any closed curve.\n*   **Top Outer Curve:** A large, elongated closed curve contains a smaller closed curve and the text label \"snake\".\n*   **Top Inner Curve:** Inside the top outer curve, a smaller nested curve contains the stacked text labels \"fears\" and \"hates\".\n*   **Bottom Outer Curve:** A second large, elongated closed curve (positioned below the first) contains a smaller closed curve and the text label \"snake\".\n*   **Bottom Inner Curve:** Inside the bottom outer curve, a smaller nested curve contains the stacked text labels \"fears\" and \"hates\".\n\n**CONNECTIONS**\n*   **Branching:** A horizontal line extends from \"man\" to a vertical brace, which splits into two curved lines branching to the right (one upper, one lower).\n*   **Upper Branch:** The upper line connects to a heavy bracket on the left side of the words \"fears\" and \"hates\" inside the top inner curve. A corresponding line extends from a bracket on the right side of these words to connect to the top \"snake\".\n*   **Lower Branch:** The lower line connects to a heavy bracket on the left side of the words \"fears\" and \"hates\" inside the bottom inner curve. A corresponding line extends from a bracket on the right side of these words to connect to the bottom \"snake\".\n\n**BOUNDARY CROSSINGS**\n*   The two branching lines originating from \"man\" cross the left boundaries of the two large outer curves.\n*   These same lines appear to cross the boundaries of the smaller inner curves to connect to the internal brackets.\n*   The short horizontal lines connecting the inner groups to the word \"snake\" cross the right-side boundaries of the smaller inner curves.\n\n**NESTING**\n*   There are two instances of nesting. In the upper section of the diagram, a small closed curve is nested entirely inside a larger closed curve. In the lower section, an identical structure exists with a separate small closed curve nested inside a separate larger closed curve.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2026-01-01T16:50:26.357791"
+}

@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq625.jpg",
+  "segment_index": "7",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq625/D._Logic__hou02614c00458__seq625_cls0_7.jpg",
+  "x": "941",
+  "y": "312",
+  "width": "468",
+  "height": "99",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq625",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "**CONTAINMENT:**\n\n*   The text label \"werunder\" is entirely contained within a single closed, oval-like curve.\n*   A short line segment extending to the left of \"werunder\" is partially outside the curve.\n\n**CONNECTIONS:**\n\n*   The short line segment is connected to the leftmost part of the text label \"werunder\".\n*   There is a curved line extending from the right side of \"werunder\" that does not connect to any other label. It terminates without connection.\n\n**BOUNDARY CROSSINGS:**\n\n*   The curved line extending from the right side of \"werunder\" crosses the boundary of the oval-like curve.\n\n**NESTING:**\n\n*   There are no nested closed curves. There is only one closed curve in the diagram.",
+  "model": "gemma-3-27b-it",
+  "timestamp": "2026-01-01T16:48:33.702111"
+}

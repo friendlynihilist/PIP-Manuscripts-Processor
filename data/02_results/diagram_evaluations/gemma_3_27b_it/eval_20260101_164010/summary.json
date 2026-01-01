@@ -1,0 +1,24 @@
+{
+  "model": "gemma-3-27b-it",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 2,
+  "successful": 0,
+  "failed": 2,
+  "timestamp": "20260101_164010",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '7195936021ad0b3f813e9d0737e24156'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:40:10.759681"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '7a4d2c155f348561d37bae296ba8d459'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:40:18.953262"
+    }
+  ]
+}

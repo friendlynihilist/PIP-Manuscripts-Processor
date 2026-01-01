@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq625.jpg",
+  "segment_index": "4",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq625/D._Logic__hou02614c00458__seq625_cls0_4.jpg",
+  "x": "1404",
+  "y": "908",
+  "width": "684",
+  "height": "171",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq625",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "Based on the visual evidence in the diagram, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Inner Closed Curve:** Contains the text labels \"fears\" and \"hates\", which are stacked vertically. It also contains a large opening bracket (C-shape) on the left and a closing bracket on the right.\n*   **Outer Closed Curve:** Contains the entire inner closed curve (and its contents) as well as the text label \"snake\".\n*   **Outside:** The text label \"man\" is located outside of both closed curves.\n\n**CONNECTIONS**\n*   A horizontal line connects the word \"man\" to the back of the bold opening bracket inside the inner curve.\n*   A horizontal line connects the back of the bold closing bracket to the word \"snake\".\n*   There are no visible lines directly connecting \"fears\" or \"hates\" to the other elements; they are bracketed by the bold curved shapes.\n\n**BOUNDARY CROSSINGS**\n*   The line connecting \"man\" to the opening bracket crosses the boundary of the outer closed curve and the boundary of the inner closed curve.\n*   The line connecting the closing bracket to \"snake\" crosses the boundary of the inner closed curve.\n\n**NESTING**\n*   There is a smaller, roughly rectangular closed curve nested completely inside a larger, elongated closed curve.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2026-01-01T16:51:34.667714"
+}

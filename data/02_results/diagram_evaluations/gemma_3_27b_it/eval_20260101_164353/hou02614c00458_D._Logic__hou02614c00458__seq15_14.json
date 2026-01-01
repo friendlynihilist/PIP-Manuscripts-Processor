@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq15.jpg",
+  "segment_index": "14",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq15/D._Logic__hou02614c00458__seq15_cls0_14.jpg",
+  "x": "843",
+  "y": "1468",
+  "width": "649",
+  "height": "262",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "**CONTAINMENT:**\n\n*   **Top Curve:** The text \"wounded\" is inside the top closed curve. The text \"man\" is partially inside and partially outside the top curve.\n*   **Bottom Curve (Outer):** The text \"disgracer\" is inside the outer bottom closed curve. The text \"mort\" is partially inside and partially outside the outer bottom curve.\n*   **Bottom Curve (Inner):** The text \"mant\" is inside the inner bottom closed curve.\n*   **Lowest Text:** The text \"man\" and \"wormded\" are outside all closed curves.\n\n**CONNECTIONS:**\n\n*   \"man\" (top) is connected to \"wounded\" by a line.\n*   \"mant\" (bottom inner) is connected to \"disgracer\" by a line.\n*   \"mort\" (bottom outer) is connected to \"wormded\" (lowest) by a line.\n*   There is a branching line originating from \"man\" (top) that connects to \"mant\" (bottom inner).\n*   There is a branching line originating from \"mort\" (bottom outer) that connects to \"man\" (lowest).\n\n**BOUNDARY CROSSINGS:**\n\n*   A line crosses the boundary of the top closed curve, connecting \"man\" to \"wounded\".\n*   A line crosses the boundary of the outer bottom closed curve, connecting \"mort\" to \"wormded\".\n*   A line crosses the boundary of the inner bottom closed curve, connecting \"mant\" to \"disgracer\".\n\n**NESTING:**\n\n*   The inner bottom closed curve is nested inside the outer bottom closed curve.\n*   The top closed curve and the outer bottom closed curve overlap.",
+  "model": "gemma-3-27b-it",
+  "timestamp": "2026-01-01T16:45:06.817383"
+}

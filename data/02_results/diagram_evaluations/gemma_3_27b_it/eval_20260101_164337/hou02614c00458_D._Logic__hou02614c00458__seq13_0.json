@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq13.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq13/D._Logic__hou02614c00458__seq13_cls0_0.jpg",
+  "x": "754",
+  "y": "562",
+  "width": "590",
+  "height": "179",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq13",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "**CONTAINMENT:**\n\n*   The text labels \"many\" and \"wounded\" are inside the larger closed curve.\n*   The text label \"man\" is partially inside and partially outside the larger closed curve.\n\n**CONNECTIONS:**\n\n*   A line connects the text label \"many\" to the text label \"wounded\".\n*   A line connects the text label \"man\" to the line connecting \"many\" and \"wounded\". This creates a branching point.\n\n**BOUNDARY CROSSINGS:**\n\n*   The line connecting \"man\" to the other line crosses the boundary of the larger closed curve.\n\n**NESTING:**\n\n*   There are no nested closed curves. There is only one closed curve in the diagram.",
+  "model": "gemma-3-27b-it",
+  "timestamp": "2026-01-01T16:43:41.376126"
+}

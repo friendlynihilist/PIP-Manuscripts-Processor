@@ -1,0 +1,42 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 4,
+  "successful": 4,
+  "failed": 0,
+  "timestamp": "20260101_164431",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "success": true,
+      "response": "Based on the provided image, here is a description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Inner closed curve:** Contains the text label \"respects\".\n*   **Outer closed curve:** Contains the text labels \"man\" and \"American\", as well as the inner closed curve and all connecting lines.\n\n**CONNECTIONS**\n*   A horizontal line connects the text label \"man\" on the left to the text label \"American\" on the right.\n*   Two vertical lines branch upward from this horizontal line.\n*   The left vertical line connects the horizontal line to the left side of the text label \"respects\".\n*   The right vertical line connects the horizontal line to the right side of the text label \"respects\".\n\n**BOUNDARY CROSSINGS**\n*   The two vertical lines cross the boundary of the inner closed curve to reach the text label \"respects\".\n*   No lines cross the boundary of the outer closed curve.\n\n**NESTING**\n*   The inner closed curve (containing \"respects\") is entirely nested within the outer closed curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:44:35.711809"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "success": true,
+      "response": "Based on the provided image, here is the spatial description of the diagram:\n\n**CONTAINMENT**\n*   **Inner closed curve:** Contains the text label \"respects\".\n*   **Outer closed curve:** Contains the text labels \"man\", \"respects\", and \"American\".\n\n**CONNECTIONS**\n*   A horizontal line segment connects the label \"man\" to the label \"respects\".\n*   A horizontal line segment connects the label \"respects\" to the label \"American\".\n*   There are no branching lines.\n\n**BOUNDARY CROSSINGS**\n*   The line segment between \"man\" and \"respects\" crosses the left boundary of the inner closed curve.\n*   The line segment between \"respects\" and \"American\" crosses the right boundary of the inner closed curve.\n*   No lines cross the boundary of the outer closed curve.\n\n**NESTING**\n*   The inner closed curve (surrounding \"respects\") is nested entirely within the outer closed curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:44:43.813695"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "success": true,
+      "response": "Based on the provided image, here is a description of the spatial relationships:\n\n*   **CONTAINMENT:** The text label \"wounded\" is inside the single closed curve. The text label \"man\" is outside the closed curve.\n*   **CONNECTIONS:** A single horizontal line segment connects the text label \"man\" to the text label \"wounded.\" There are no branching or unconnected lines.\n*   **BOUNDARY CROSSINGS:** The horizontal line segment crosses the left boundary of the closed curve as it travels from \"man\" to \"wounded.\"\n*   **NESTING:** There is only one closed curve; therefore, there is no nesting.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:44:51.792105"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "success": true,
+      "response": "Based on the provided image, here is a spatial description of the diagram:\n\n**CONTAINMENT**\n*   **Inside:** The text label \"wounded\" is located inside the single closed curve (an oval).\n*   **Outside:** The text label \"man\" is located outside the closed curve, to its left.\n\n**CONNECTIONS**\n*   There are two short, horizontal line segments.\n*   One line segment is positioned to the right of the word \"man.\" It is not physically connected to any text or other lines.\n*   The second line segment is positioned to the left of the word \"wounded.\" It is not physically connected to any text or other lines.\n*   There are no branching lines.\n\n**BOUNDARY CROSSINGS**\n*   No lines cross the boundary of the closed curve. Both line segments and both text labels are entirely contained either inside or outside the curve.\n\n**NESTING**\n*   There is only one closed curve; therefore, there is no nesting.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:44:59.191156"
+    }
+  ]
+}

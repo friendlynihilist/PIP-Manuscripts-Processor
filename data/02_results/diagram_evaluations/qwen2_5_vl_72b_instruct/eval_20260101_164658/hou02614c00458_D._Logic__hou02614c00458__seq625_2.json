@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq625.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq625/D._Logic__hou02614c00458__seq625_cls0_2.jpg",
+  "x": "1372",
+  "y": "1472",
+  "width": "645",
+  "height": "297",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq625",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "### CONTAINMENT:\n- The text \"fears\" is inside the top closed curve.\n- The text \"hates\" is inside the bottom closed curve.\n- The text \"man,\" \"snake,\" and \"snake\" are outside the closed curves.\n\n### CONNECTIONS:\n- A line connects \"man\" to the top closed curve containing \"fears.\"\n- Another line connects the top closed curve containing \"fears\" to the word \"snake.\"\n- A line connects the bottom closed curve containing \"hates\" to the word \"snake.\"\n- There is no branching, and all lines are connected to at least one other element.\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" to the top closed curve crosses the boundary of the top closed curve.\n- The line connecting the top closed curve to \"snake\" does not cross any closed curve boundary.\n- The line connecting the bottom closed curve to \"snake\" does not cross any closed curve boundary.\n\n### NESTING:\n- There are no closed curves nested inside others. Both closed curves are separate and do not overlap.",
+  "model": "qwen2.5-vl-72b-instruct",
+  "timestamp": "2026-01-01T16:47:34.328867"
+}

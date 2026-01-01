@@ -1,0 +1,73 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 9,
+  "successful": 0,
+  "failed": 9,
+  "timestamp": "20260101_164124",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:41:24.905376"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:41:30.032383"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:41:35.134639"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:41:40.247666"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:41:45.362205"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:41:50.527097"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:41:55.652844"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:42:00.785088"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:42:05.892068"
+    }
+  ]
+}

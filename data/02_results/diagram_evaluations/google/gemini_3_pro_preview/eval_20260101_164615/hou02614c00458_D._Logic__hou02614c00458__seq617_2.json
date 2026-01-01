@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq617.jpg",
+  "segment_index": "2",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq617/D._Logic__hou02614c00458__seq617_cls0_2.jpg",
+  "x": "840",
+  "y": "114",
+  "width": "568",
+  "height": "121",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq617",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "Based on the provided image, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   The text label **\"wounded\"** is contained inside a single, roughly oval-shaped closed curve.\n*   The text label **\"man\"** is located outside of this closed curve, positioned to the left.\n\n**CONNECTIONS**\n*   A thick, horizontal dash or line connects the label **\"man\"** to the label **\"wounded\"**.\n*   There are no branching lines or unconnected lines; it is a single linear connection between the two words.\n\n**BOUNDARY CROSSINGS**\n*   Yes, the connecting line crosses the left boundary of the closed curve. It starts outside near \"man\" and terminates inside the curve next to \"wounded\".\n\n**NESTING**\n*   There are no nested closed curves. There is only one closed curve present in the diagram.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2026-01-01T16:47:13.444123"
+}

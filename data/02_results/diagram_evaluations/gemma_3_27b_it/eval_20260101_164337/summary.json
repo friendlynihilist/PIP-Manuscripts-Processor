@@ -1,0 +1,24 @@
+{
+  "model": "gemma-3-27b-it",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 2,
+  "successful": 2,
+  "failed": 0,
+  "timestamp": "20260101_164337",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "success": true,
+      "response": "**CONTAINMENT:**\n\n*   The text labels \"many\" and \"wounded\" are inside the larger closed curve.\n*   The text label \"man\" is partially inside and partially outside the larger closed curve.\n\n**CONNECTIONS:**\n\n*   A line connects the text label \"many\" to the text label \"wounded\".\n*   A line connects the text label \"man\" to the line connecting \"many\" and \"wounded\". This creates a branching point.\n\n**BOUNDARY CROSSINGS:**\n\n*   The line connecting \"man\" to the other line crosses the boundary of the larger closed curve.\n\n**NESTING:**\n\n*   There are no nested closed curves. There is only one closed curve in the diagram.",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:43:41.376126"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "success": true,
+      "response": "**CONTAINMENT:**\n\n*   **Inside the closed curve:** The text labels \"man\", a vertical line, and \"wounded\" are located within the closed curve.\n*   **Outside the closed curve:** The text label \"mant\" is located outside the closed curve.\n\n**CONNECTIONS:**\n\n*   The text label \"man\" is connected to the vertical line.\n*   The vertical line is connected to the text label \"wounded\".\n*   There is no branching.\n*   There are no unconnected lines.\n\n**BOUNDARY CROSSINGS:**\n\n*   The vertical line crosses the boundary of the closed curve.\n\n**NESTING:**\n\n*   There are no nested closed curves. There is only one closed curve.",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:43:53.030943"
+    }
+  ]
+}

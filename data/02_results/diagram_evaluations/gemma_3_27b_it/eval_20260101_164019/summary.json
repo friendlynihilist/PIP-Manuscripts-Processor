@@ -1,0 +1,52 @@
+{
+  "model": "gemma-3-27b-it",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 6,
+  "successful": 0,
+  "failed": 6,
+  "timestamp": "20260101_164019",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '1c7d8e0caa231356592f4f596a59c32b'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:40:19.560991"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '572bc218d6ee9c6f5f33bd79e8b62e4d'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:40:27.732409"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '472ddd5147f6e5515c79a779ac25b858'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:40:35.889497"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '18c0900f3a5b7a6a5bfbda37d963a02a'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:40:44.036345"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '9c34200134daeb07ffa3c9639efbcf34'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:40:52.212241"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '0a9a9a5323386d7c10a5aa1293cadb4a'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:41:00.470073"
+    }
+  ]
+}

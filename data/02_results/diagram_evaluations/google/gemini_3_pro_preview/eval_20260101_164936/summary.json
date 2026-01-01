@@ -1,0 +1,82 @@
+{
+  "model": "google/gemini-3-pro-preview",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 9,
+  "successful": 9,
+  "failed": 0,
+  "timestamp": "20260101_164936",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
+      "success": true,
+      "response": "Based on the provided image, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Top Diagram:** There is a large outer oval that contains the text \"man\" on the left and a smaller inner oval on the right. The text \"animal\" is contained entirely within this smaller inner oval. Therefore, \"man\" is inside the outer curve but outside the inner curve.\n*   **Bottom Diagram:** Similarly, there is a large outer oval containing the text \"man\" on the left and a smaller inner oval on the right. The text \"rational\" is contained entirely within this smaller inner oval. \"Man\" is inside the outer curve but outside the inner curve.\n\n**CONNECTIONS**\n*   **Top Diagram:** A thick, dark horizontal line connects the word \"man\" to the word \"animal\".\n*   **Bottom Diagram:** A thick, dark horizontal line connects the word \"man\" to the word \"rational\".\n*   There are no branching lines or unconnected lines visible.\n\n**BOUNDARY CROSSINGS**\n*   In both the top and bottom diagrams, the connecting line crosses the boundary of the inner, smaller oval. The line starts at \"man\" (outside the inner oval) and crosses into the inner oval to reach the second word (\"animal\" or \"rational\"). The lines do not cross the large outer boundaries.\n\n**NESTING**\n*   Both diagrams feature a nested structure where a smaller closed oval curve is positioned inside the right-hand side of a larger, elongated closed oval curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:49:51.773659"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
+      "success": true,
+      "response": "Based on the provided image, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Outside all curves:** The text label \"man\" is located on the far left, outside of any closed curve.\n*   **Top Outer Curve:** A large, elongated closed curve contains a smaller closed curve and the text label \"snake\".\n*   **Top Inner Curve:** Inside the top outer curve, a smaller nested curve contains the stacked text labels \"fears\" and \"hates\".\n*   **Bottom Outer Curve:** A second large, elongated closed curve (positioned below the first) contains a smaller closed curve and the text label \"snake\".\n*   **Bottom Inner Curve:** Inside the bottom outer curve, a smaller nested curve contains the stacked text labels \"fears\" and \"hates\".\n\n**CONNECTIONS**\n*   **Branching:** A horizontal line extends from \"man\" to a vertical brace, which splits into two curved lines branching to the right (one upper, one lower).\n*   **Upper Branch:** The upper line connects to a heavy bracket on the left side of the words \"fears\" and \"hates\" inside the top inner curve. A corresponding line extends from a bracket on the right side of these words to connect to the top \"snake\".\n*   **Lower Branch:** The lower line connects to a heavy bracket on the left side of the words \"fears\" and \"hates\" inside the bottom inner curve. A corresponding line extends from a bracket on the right side of these words to connect to the bottom \"snake\".\n\n**BOUNDARY CROSSINGS**\n*   The two branching lines originating from \"man\" cross the left boundaries of the two large outer curves.\n*   These same lines appear to cross the boundaries of the smaller inner curves to connect to the internal brackets.\n*   The short horizontal lines connecting the inner groups to the word \"snake\" cross the right-side boundaries of the smaller inner curves.\n\n**NESTING**\n*   There are two instances of nesting. In the upper section of the diagram, a small closed curve is nested entirely inside a larger closed curve. In the lower section, an identical structure exists with a separate small closed curve nested inside a separate larger closed curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:50:26.357791"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
+      "success": true,
+      "response": "Based on the provided image, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Top Section:** There is a large, elongated closed curve (oval). Inside this large curve, there is the text label \"snake\" and a smaller, nested closed curve. Inside that smaller nested curve is the text label \"fears\".\n*   **Bottom Section:** There is a second large, elongated closed curve. Inside this curve, there is the text label \"snake\" and a smaller, nested closed curve. Inside that smaller nested curve is the text label \"hates\".\n*   **Outside:** The text label \"man\" is located to the far left, outside of all closed curves.\n\n**CONNECTIONS**\n*   A curved, branching line originates from the label \"man\". It splits into two branches:\n    *   The upper branch connects \"man\" to the label \"fears\".\n    *   The lower branch connects \"man\" to the label \"hates\".\n*   Inside the top large curve, a thick, straight horizontal line connects the label \"fears\" to the top label \"snake\".\n*   Inside the bottom large curve, a thick, straight horizontal line connects the label \"hates\" to the bottom label \"snake\".\n\n**BOUNDARY CROSSINGS**\n*   The curved line connecting \"man\" to \"fears\" crosses two boundaries: the left side of the top large outer curve and the left side of the top small inner curve.\n*   The curved line connecting \"man\" to \"hates\" crosses two boundaries: the left side of the bottom large outer curve and the left side of the bottom small inner curve.\n*   The straight line connecting \"fears\" to the top \"snake\" crosses the right boundary of the small inner curve surrounding \"fears\".\n*   The straight line connecting \"hates\" to the bottom \"snake\" crosses the right boundary of the small inner curve surrounding \"hates\".\n\n**NESTING**\n*   In the top section, the small closed curve surrounding \"fears\" is nested entirely inside the larger closed curve.\n*   In the bottom section, the small closed curve surrounding \"hates\" is nested entirely inside the larger closed curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:50:50.448537"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
+      "success": true,
+      "response": "Based on the visual evidence in the diagram, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Outer Closed Curve:** The text labels \"man\", \"rational\", and \"animal\" are all contained within the larger, outer boundary line.\n*   **Inner Closed Curve:** The text labels \"rational\" and \"animal\" are contained inside the smaller, inner boundary line. The label \"man\" is outside this inner curve.\n\n**CONNECTIONS**\n*   A thick, horizontal dash connects the word \"man\" to a large, bold \"C\" shape (or bracket).\n*   This \"C\" shape is positioned vertically to encompass the stacked words \"rational\" and \"animal\" to its right.\n\n**BOUNDARY CROSSINGS**\n*   The horizontal connecting line between \"man\" and the \"C\" shape crosses the left boundary line of the inner closed curve.\n\n**NESTING**\n*   There is a smaller closed curve nested completely inside a larger closed curve. The smaller curve is positioned on the right side of the larger enclosure.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:51:12.465970"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
+      "success": true,
+      "response": "Based on the visual evidence in the diagram, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Inner Closed Curve:** Contains the text labels \"fears\" and \"hates\", which are stacked vertically. It also contains a large opening bracket (C-shape) on the left and a closing bracket on the right.\n*   **Outer Closed Curve:** Contains the entire inner closed curve (and its contents) as well as the text label \"snake\".\n*   **Outside:** The text label \"man\" is located outside of both closed curves.\n\n**CONNECTIONS**\n*   A horizontal line connects the word \"man\" to the back of the bold opening bracket inside the inner curve.\n*   A horizontal line connects the back of the bold closing bracket to the word \"snake\".\n*   There are no visible lines directly connecting \"fears\" or \"hates\" to the other elements; they are bracketed by the bold curved shapes.\n\n**BOUNDARY CROSSINGS**\n*   The line connecting \"man\" to the opening bracket crosses the boundary of the outer closed curve and the boundary of the inner closed curve.\n*   The line connecting the closing bracket to \"snake\" crosses the boundary of the inner closed curve.\n\n**NESTING**\n*   There is a smaller, roughly rectangular closed curve nested completely inside a larger, elongated closed curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:51:34.667714"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
+      "success": true,
+      "response": "Based on the visual evidence in the diagram, here are the spatial relationships:\n\n**CONTAINMENT**\n*   **Outer Curve:** The text label \"man\" is inside the larger, outer closed curve.\n*   **Inner Curve:** The text labels \"rational\" and \"animal\" are inside the smaller, inner closed curve.\n*   **Relative Position:** \"man\" is located within the outer curve but outside the inner curve. \"rational\" and \"animal\" are contained within both the inner and outer curves.\n\n**CONNECTIONS**\n*   There is a short horizontal line extending from the right side of the word \"man\".\n*   This line connects to the center of a vertical, C-shaped bracket (or brace).\n*   The bracket is positioned to the left of the words \"rational\" and \"animal\", effectively spanning the vertical space between them.\n\n**BOUNDARY CROSSINGS**\n*   The horizontal line connecting \"man\" to the bracket crosses the boundary line of the inner closed curve.\n\n**NESTING**\n*   There are two closed curves roughly shaped like ovals.\n*   The smaller oval is fully nested inside the right side of the larger oval.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:51:54.040379"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
+      "success": true,
+      "response": "Based on the visual evidence in the diagram, here are the spatial relationships:\n\n**CONTAINMENT**\n*   **Outer Curve:** Contains the text label \"man\" as well as the inner curve and its contents.\n*   **Inner Curve:** Contains the text labels \"rational\" and \"animal\".\n*   **Relative Position:** The label \"man\" is inside the outer curve but outside the inner curve.\n\n**CONNECTIONS**\n*   A thick horizontal line extends from the right side of the word \"man\".\n*   This line connects to a vertical bracket or brace shape (resembling a \"C\") located to the left of the words \"rational\" and \"animal\".\n*   The bracket branches vertically to encompass both \"rational\" (top) and \"animal\" (bottom).\n\n**BOUNDARY CROSSINGS**\n*   The horizontal line connecting \"man\" to the bracket crosses the boundary line of the inner closed curve.\n\n**NESTING**\n*   There are two closed curves, roughly oval in shape.\n*   The smaller curve (containing \"rational\" and \"animal\") is nested entirely inside the larger curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:52:14.175903"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
+      "success": true,
+      "response": "Based on the provided image, here is the description of the spatial relationships:\n\n**CONTAINMENT:**\nThe handwritten text label \"werunder\" is contained inside a single, horizontally oriented oval-shaped closed curve.\n\n**CONNECTIONS:**\nA thick, dark horizontal line connects to the beginning (left side) of the text label \"werunder\". This line appears to lead directly into the first letter of the word. There are no branching lines.\n\n**BOUNDARY CROSSINGS:**\nYes, the thick horizontal line on the left crosses the boundary of the closed curve. It originates outside the oval on the left side and passes through the boundary line to connect with the text inside.\n\n**NESTING:**\nThere are no closed curves nested inside others. There is only one closed curve visible in the diagram.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:52:33.771431"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
+      "success": true,
+      "response": "Based on the provided image, here is the description of the spatial relationships:\n\n**CONTAINMENT**\n*   The handwritten text label \"isounded\" is located entirely inside the single, elongated closed curve (oval).\n\n**CONNECTIONS**\n*   There are no connections between distinct text labels, as only one label is present.\n*   There is a horizontal line segment aligned with the text. It appears to the left of the word \"isounded\" but does not connect to any other object on the left side of the image.\n\n**BOUNDARY CROSSINGS**\n*   Yes, a thick horizontal line crosses the left-hand boundary of the closed curve. It extends from the space outside the curve into the interior space.\n\n**NESTING**\n*   There are no closed curves nested inside others; only one closed curve is visible.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:53:00.397219"
+    }
+  ]
+}

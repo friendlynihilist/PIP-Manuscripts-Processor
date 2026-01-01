@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq15.jpg",
+  "segment_index": "0",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq15/D._Logic__hou02614c00458__seq15_cls0_0.jpg",
+  "x": "750",
+  "y": "884",
+  "width": "670",
+  "height": "218",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "### CONTAINMENT:\n- The text \"man disgraced\" is inside the large closed curve.\n- The text \"man\" and \"wounded\" are outside the large closed curve.\n\n### CONNECTIONS:\n- The text \"man\" is connected to the large closed curve by a line that branches into two paths.\n- One branch of the line connects to the text \"man disgraced\" inside the large closed curve.\n- The other branch of the line connects to the text \"wounded\" outside the large closed curve.\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" to \"man disgraced\" crosses the boundary of the large closed curve.\n\n### NESTING:\n- There are no closed curves nested inside other closed curves. The large closed curve contains only the text \"man disgraced\" and does not enclose any other closed curves.",
+  "model": "qwen2.5-vl-72b-instruct",
+  "timestamp": "2026-01-01T16:44:00.722486"
+}

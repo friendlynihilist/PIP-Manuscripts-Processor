@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq621.jpg",
+  "segment_index": "5",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq621/D._Logic__hou02614c00458__seq621_cls0_5.jpg",
+  "x": "758",
+  "y": "1215",
+  "width": "749",
+  "height": "105",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq621",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "Based on the visual evidence in the diagram, here are the spatial relationships:\n\n**CONTAINMENT**\n*   **\"Catholic\"**: Located inside the larger, outer closed curve but outside the smaller, inner closed curve.\n*   **\"adores\"**: Located inside the smaller, inner closed curve (and therefore also inside the larger outer curve).\n*   **\"woman\"**: Located completely outside both closed curves, to the right.\n\n**CONNECTIONS**\n*   There is a short horizontal line connecting the word **\"Catholic\"** to the word **\"adores\"**.\n*   There is a short horizontal line connecting the word **\"adores\"** to the word **\"woman\"**.\n\n**BOUNDARY CROSSINGS**\n*   The connecting line between \"Catholic\" and \"adores\" crosses the left boundary of the inner curve.\n*   The connecting line between \"adores\" and \"woman\" crosses both the right boundary of the inner curve and the right boundary of the outer curve.\n\n**NESTING**\n*   There are two closed curves. The smaller curve is completely nested inside the larger curve. The smaller curve is positioned within the right half of the larger curve's interior.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2026-01-01T16:49:35.858075"
+}

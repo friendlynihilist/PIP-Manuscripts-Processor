@@ -1,0 +1,24 @@
+{
+  "model": "google/gemini-3-pro-preview",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 2,
+  "successful": 0,
+  "failed": 2,
+  "timestamp": "20260101_163118",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:31:18.756387"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
+      "success": false,
+      "error": "Error code: 401 - {'error': {'message': 'No cookie auth credentials found', 'code': 401}}",
+      "model": "google/gemini-3-pro-preview",
+      "timestamp": "2026-01-01T16:31:23.841122"
+    }
+  ]
+}

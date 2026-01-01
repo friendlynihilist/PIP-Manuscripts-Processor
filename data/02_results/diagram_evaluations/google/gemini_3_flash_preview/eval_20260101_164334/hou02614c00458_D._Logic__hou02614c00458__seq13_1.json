@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq13.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq13/D._Logic__hou02614c00458__seq13_cls0_1.jpg",
+  "x": "734",
+  "y": "784",
+  "width": "559",
+  "height": "147",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq13",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "Based on the provided image, here is a description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Inside the closed curve:** The text labels \"man\" (lower instance) and \"wounded\" are located inside the single closed curve.\n*   **Outside the closed curve:** The text label \"man\" (upper instance) is located outside and above the closed curve.\n\n**CONNECTIONS**\n*   There is a horizontal line segment located between the lower \"man\" and \"wounded.\"\n*   A vertical line segment meets the horizontal line segment at its center, forming a perpendicular \"T\" shape.\n*   The text labels themselves are not physically touched by these lines, though they are aligned horizontally with the horizontal segment.\n*   The upper \"man\" has a short horizontal stroke extending from its end, but it does not connect to any other element.\n\n**BOUNDARY CROSSINGS**\n*   No lines cross the boundary of the closed curve. The \"T\" shaped line structure is contained entirely within the curve.\n\n**NESTING**\n*   There is only one closed curve; therefore, there is no nesting of curves.",
+  "model": "google/gemini-3-flash-preview",
+  "timestamp": "2026-01-01T16:43:47.536787"
+}

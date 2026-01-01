@@ -1,0 +1,52 @@
+{
+  "model": "qwen2.5-vl-72b-instruct",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 6,
+  "successful": 6,
+  "failed": 0,
+  "timestamp": "20260101_164549",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "success": true,
+      "response": "This image contains handwritten text within a single, elongated, closed curve that resembles an oval or capsule shape. Here's the spatial description:\n\n**CONTAINMENT:**\n- The text \"man - wounded,\" is entirely inside the closed curve.\n\n**CONNECTIONS:**\n- There are no lines connecting any text labels or other elements in the diagram.\n\n**BOUNDARY CROSSINGS:**\n- No lines cross the boundary of the closed curve.\n\n**NESTING:**\n- There are no nested closed curves; only one closed curve is present.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:45:53.681224"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The label \"Catholic\" is inside the leftmost closed curve.\n- The label \"advice\" is inside the middle closed curve.\n- The label \"woman\" is partially inside and partially outside the rightmost closed curve, with the majority of the word inside.\n\n### CONNECTIONS:\n- A line connects the label \"Catholic\" to the label \"advice.\"\n- Another line connects the label \"advice\" to the label \"woman.\"\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"Catholic\" to \"advice\" crosses the boundary of the leftmost closed curve.\n- The line connecting \"advice\" to \"woman\" crosses the boundary of the middle closed curve.\n\n### NESTING:\n- There are no closed curves nested inside others. Each closed curve is separate from the others.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:46:06.983272"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The text \"catholic\" is inside the larger closed curve.\n- The text \"adored-woman\" is inside a smaller closed curve that is also within the larger closed curve.\n\n### CONNECTIONS:\n- There is a line connecting the word \"catholic\" to the smaller closed curve containing \"adored-woman.\"\n- No other connections are present, and there are no branching or unconnected lines.\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"catholic\" to the smaller closed curve crosses the boundary of the larger closed curve.\n\n### NESTING:\n- The smaller closed curve containing \"adored-woman\" is nested inside the larger closed curve.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:46:19.887321"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The word \"wounded\" is inside the closed curve.\n- The words \"man\" and \"man\" are outside the closed curve.\n\n### CONNECTIONS:\n- The word \"man\" on the left is connected to the word \"wounded\" by a line that forms part of the closed curve.\n- The word \"man\" on the right is connected to the word \"wounded\" by a line that also forms part of the closed curve.\n- There are no branching or unconnected lines.\n\n### BOUNDARY CROSSINGS:\n- No lines cross the boundaries of the closed curve; the lines form the boundary itself.\n\n### NESTING:\n- There are no closed curves nested inside others. The single closed curve contains only the word \"wounded.\"",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:46:32.768545"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The text label \"man\" is inside the closed curve.\n- The text label \"wounded\" is outside the closed curve.\n\n### CONNECTIONS:\n- The text label \"man\" is connected to the text label \"wounded\" by a line that extends from the word \"man\" and points towards \"wounded.\"\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"man\" to \"wounded\" crosses the boundary of the closed curve.\n\n### NESTING:\n- There are no closed curves nested inside others. The closed curve contains only the text label \"man.\"",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:46:44.779012"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "success": true,
+      "response": "### CONTAINMENT:\n- The word \"Catholic\" is partially inside and partially outside the closed curve.\n- The word \"adore\" is entirely inside the closed curve.\n- The word \"woman\" is entirely outside the closed curve.\n\n### CONNECTIONS:\n- There is a line connecting the end of \"Catholic\" to the beginning of \"adore.\"\n- Another line connects the end of \"adore\" to the beginning of \"woman.\"\n\n### BOUNDARY CROSSINGS:\n- The line connecting \"Catholic\" to \"adore\" crosses the boundary of the closed curve.\n- The line connecting \"adore\" to \"woman\" does not cross the boundary of the closed curve.\n\n### NESTING:\n- There is one closed curve, and it is not nested inside another closed curve.",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:46:58.049887"
+    }
+  ]
+}

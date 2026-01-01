@@ -1,0 +1,58 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 6,
+  "successful": 6,
+  "failed": 0,
+  "timestamp": "20260101_164459",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "success": true,
+      "response": "Based on the provided image, here is a description of the spatial relationships:\n\n*   **CONTAINMENT:** The text labels \"man\" and \"wounded\" are located inside a single, elongated closed curve. A comma symbol is located outside the curve to the right.\n*   **CONNECTIONS:** A short, horizontal line segment connects the text label \"man\" to the text label \"wounded.\" There are no branching lines.\n*   **BOUNDARY CROSSINGS:** No lines cross the boundary of the closed curve. The connecting line segment is contained entirely within the curve.\n*   **NESTING:** There is only one closed curve; therefore, there is no nesting.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:45:02.427403"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "success": true,
+      "response": "Based on the provided image, here is a spatial description of the diagram:\n\n**CONTAINMENT**\n*   **Inner closed curve:** Contains the text labels \"adores\" and \"woman\" (the version of \"woman\" with a large initial 'T' or 'L' shape).\n*   **Outer closed curve:** Contains the text label \"Catholic\" as well as everything inside the inner closed curve (\"adores\" and \"woman\").\n*   **Outside both curves:** A third instance of the word \"woman\" is located to the far right, outside both closed boundaries.\n\n**CONNECTIONS**\n*   A horizontal line connects the label \"Catholic\" to the label \"adores\".\n*   A second horizontal line connects the label \"adores\" to the label \"woman\" located inside the inner curve.\n*   A third horizontal line extends from the \"woman\" inside the inner curve to the \"woman\" outside the curves.\n*   There are no branching lines; the connections form a single linear path from left to right.\n\n**BOUNDARY CROSSINGS**\n*   The line connecting \"Catholic\" to \"adores\" crosses the boundary of the inner closed curve.\n*   The line connecting the inner \"woman\" to the outer \"woman\" crosses the boundaries of both the inner and outer closed curves.\n\n**NESTING**\n*   The inner closed curve is entirely nested within the outer closed curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:45:11.055071"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "success": true,
+      "response": "Based on the provided image, here is a description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Outer closed curve:** Contains the text labels \"catholic\", \"adores\", and \"woman\".\n*   **Inner closed curve:** Contains the text labels \"adores\" and \"woman\". The label \"catholic\" is outside this inner curve.\n\n**CONNECTIONS**\n*   A horizontal line connects the label \"catholic\" to the label \"adores\".\n*   A horizontal line connects the label \"adores\" to the label \"woman\".\n*   There is a thick, dark, angled line segment in the top right corner that is not connected to any text labels.\n\n**BOUNDARY CROSSINGS**\n*   The horizontal line connecting \"catholic\" and \"adores\" crosses the left boundary of the inner closed curve.\n*   The thick, dark line segment in the top right crosses the boundaries of both the inner and outer closed curves.\n\n**NESTING**\n*   The inner closed curve is nested entirely within the outer closed curve.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:45:19.377734"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "success": true,
+      "response": "Based on the spatial layout of the diagram:\n\n**CONTAINMENT**\n*   **Inside the closed curve:** The text label \"wounded\" and the lower instance of the text label \"man\" are contained within the boundary.\n*   **Outside the closed curve:** The upper instance of the text label \"man\" is located outside the boundary to the left.\n\n**CONNECTIONS**\n*   A horizontal line connects the upper \"man\" to the word \"wounded.\"\n*   A vertical line branches downward from the middle of that horizontal line and connects to the lower \"man.\"\n\n**BOUNDARY CROSSINGS**\n*   The horizontal line connecting the upper \"man\" to \"wounded\" crosses the boundary of the closed curve.\n*   The vertical line connecting to the lower \"man\" is entirely contained within the boundary of the closed curve.\n\n**NESTING**\n*   There is only one closed curve; therefore, there is no nesting of curves.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:45:28.683175"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "success": true,
+      "response": "Based on the provided image, here is a description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Inside the closed curve:** The text labels \"man\" (bottom instance) and \"wounded\" are located inside the elongated closed curve.\n*   **Outside the closed curve:** The text label \"man\" (top instance) is located outside and above the closed curve.\n\n**CONNECTIONS**\n*   **Horizontal Line 1:** A short horizontal line segment extends to the right of the top \"man\" label.\n*   **Horizontal Line 2:** A horizontal line segment is positioned between the bottom \"man\" and \"wounded\" labels.\n*   **Vertical Line:** A vertical line segment intersects the horizontal line between the bottom labels. It extends upward, terminating near the horizontal line segment attached to the top \"man\" label.\n*   **Branching:** The lines form a \"T\" shape where the vertical line meets the bottom horizontal line.\n\n**BOUNDARY CROSSINGS**\n*   The vertical line crosses the top boundary of the closed curve.\n\n**NESTING**\n*   There is only one closed curve; therefore, there is no nesting of curves.",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:45:36.538155"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "success": true,
+      "response": "Based on the provided image, here is a description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Inner closed curve:** Contains the text label \"adores\".\n*   **Outer closed curve:** Contains the text labels \"Catholic\" and \"adores\".\n*   **Outside all curves:** The text label \"woman\" is located outside both closed curves.\n\n**CONNECTIONS**\n*   A horizontal line connects \"Catholic\" to \"adores\".\n*   A horizontal line connects \"adores\" to \"woman\".\n*   There are no branching lines; the connections form a single linear path from left to right.\n\n**BOUNDARY CROSSINGS**\n*   The line connecting \"Catholic\" and \"adores\" crosses the boundary of the inner closed curve.\n*   The line connecting \"adores\" and \"woman\" crosses the boundaries of both the inner and outer closed curves.\n\n**NESTING**\n*   The inner closed curve (surrounding \"adores\") is nested entirely within the outer closed curve (surrounding \"Catholic\" and \"adores\").",
+      "finish_reason": "stop",
+      "model": "google/gemini-3-flash-preview",
+      "timestamp": "2026-01-01T16:45:45.031777"
+    }
+  ]
+}

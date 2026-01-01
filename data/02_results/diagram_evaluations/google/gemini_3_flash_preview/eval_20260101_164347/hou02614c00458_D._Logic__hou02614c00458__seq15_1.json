@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq15.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq15/D._Logic__hou02614c00458__seq15_cls0_1.jpg",
+  "x": "825",
+  "y": "594",
+  "width": "668",
+  "height": "210",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "Based on the provided image, here is a spatial description of the diagram:\n\n**CONTAINMENT**\n*   **Inside the inner closed curve:** The text label \"disgraced\" is contained within the smaller, inner oval.\n*   **Inside the outer closed curve:** Both text labels \"disgraced\" and \"wounded\" are contained within the larger, outer oval.\n*   **Outside all closed curves:** The text label \"man\" is located to the left of both closed curves.\n\n**CONNECTIONS**\n*   A horizontal line extends from the right side of the word \"man.\"\n*   This line branches into a large, bold, C-shaped bracket.\n*   The top end of this bracket points toward the word \"disgraced.\"\n*   The bottom end of this bracket points toward the word \"wounded.\"\n\n**BOUNDARY CROSSINGS**\n*   The horizontal line originating from \"man\" crosses the boundary of the outer closed curve.\n*   The top branch of the C-shaped bracket crosses the boundary of the inner closed curve to point at \"disgraced.\"\n\n**NESTING**\n*   There is one instance of nesting: the smaller closed curve (containing \"disgraced\") is entirely nested within the larger outer closed curve.",
+  "model": "google/gemini-3-flash-preview",
+  "timestamp": "2026-01-01T16:43:58.489950"
+}

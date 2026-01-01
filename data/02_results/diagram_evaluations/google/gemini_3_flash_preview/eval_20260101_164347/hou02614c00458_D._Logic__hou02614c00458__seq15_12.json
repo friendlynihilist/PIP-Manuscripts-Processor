@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq15.jpg",
+  "segment_index": "12",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq15/D._Logic__hou02614c00458__seq15_cls0_12.jpg",
+  "x": "857",
+  "y": "1473",
+  "width": "623",
+  "height": "105",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq15",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "Based on the provided image, here is a description of the spatial relationships:\n\n**CONTAINMENT**\n*   **Inside the closed curve:** The text label \"wounded\" is contained within the elongated oval-shaped closed curve.\n*   **Outside the closed curve:** The text label \"man\" is located to the left of and outside the closed curve.\n\n**CONNECTIONS**\n*   A continuous, wavy horizontal line connects the text label \"man\" to the text label \"wounded.\"\n*   This line passes through a thick, dark horizontal stroke (a strike-through) located between the two words.\n*   There are no branching lines; it is a single linear path.\n\n**BOUNDARY CROSSINGS**\n*   The horizontal line connecting the two words crosses the left boundary of the closed curve to reach the word \"wounded.\"\n\n**NESTING**\n*   There is only one closed curve visible in this crop; therefore, there is no nesting of closed curves.",
+  "model": "google/gemini-3-flash-preview",
+  "timestamp": "2026-01-01T16:44:22.904756"
+}

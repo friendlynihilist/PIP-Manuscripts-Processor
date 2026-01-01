@@ -1,0 +1,38 @@
+{
+  "model": "qwen2.5-vl-72b-instruct",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 4,
+  "successful": 0,
+  "failed": 4,
+  "timestamp": "20260101_164100",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '91c4641941087c6ef4c39e2456380374'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:01.171441"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '33ad1837de8a7e5ec0bef135f9d3014e'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:09.360815"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': 'b074a36d72b554791fe9ad55f2f19819'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:17.508204"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '49b5d2502e20bc084ffb67205d313969'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:25.661551"
+    }
+  ]
+}

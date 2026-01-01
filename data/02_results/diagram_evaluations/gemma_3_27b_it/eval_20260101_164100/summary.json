@@ -1,0 +1,38 @@
+{
+  "model": "gemma-3-27b-it",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 4,
+  "successful": 0,
+  "failed": 4,
+  "timestamp": "20260101_164100",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': 'aead1810d6650e6db10c306dcd936839'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:41:01.214884"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '9c181f544984155afef4c95a56a2e460'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:41:09.369475"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '500c964fea04d7789b42305d92e69959'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:41:17.508720"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': 'ca69b36ad12fbb2e70304c5c8f707411'}",
+      "model": "gemma-3-27b-it",
+      "timestamp": "2026-01-01T16:41:25.661536"
+    }
+  ]
+}

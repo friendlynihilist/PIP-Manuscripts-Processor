@@ -1,0 +1,52 @@
+{
+  "model": "qwen2.5-vl-72b-instruct",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "total_diagrams": 6,
+  "successful": 0,
+  "failed": 6,
+  "timestamp": "20260101_164126",
+  "results": [
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': 'f5f9300a4f7b5d64bce4fe7fe58e0f01'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:26.459008"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '88e37370e6aa2f1ce8ab3c7a7a643424'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:34.629177"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '8d4056502534231dac11cd6795668353'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:42.815129"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '44f9684b066c1e07b3a53367c28b5d71'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:50.971961"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '672a8c72ede0c93fba002b7a95238f76'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:41:59.140963"
+    },
+    {
+      "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
+      "success": false,
+      "error": "Error code: 401 - {'message': 'Unauthorized', 'request_id': '1e30fd2ab4830b0cc9fe104de2682a3d'}",
+      "model": "qwen2.5-vl-72b-instruct",
+      "timestamp": "2026-01-01T16:42:07.304501"
+    }
+  ]
+}

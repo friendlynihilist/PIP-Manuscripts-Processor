@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq625.jpg",
+  "segment_index": "1",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq625/D._Logic__hou02614c00458__seq625_cls0_1.jpg",
+  "x": "1345",
+  "y": "1104",
+  "width": "707",
+  "height": "306",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq625",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "**CONTAINMENT:**\n\n*   **Top Closed Curve:** Contains the text labels \"fears\", \"snake\", and \"chates\".\n*   **Bottom Closed Curve:** Contains the text labels \"bears\", \"snake\", and \"hates\".\n*   **Outside all Closed Curves:** The text label \"man\" is located outside of both closed curves.\n\n**CONNECTIONS:**\n\n*   \"man\" is connected by a line to the top closed curve.\n*   The top closed curve is connected by a line to the text label \"snake\".\n*   The bottom closed curve is connected by a line to the text label \"snake\".\n*   There is a branching line originating from \"man\" that connects to both closed curves.\n*   The line connecting the top closed curve to \"snake\" and the bottom closed curve to \"snake\" do not connect to each other.\n\n**BOUNDARY CROSSINGS:**\n\n*   The line connecting \"man\" to the top closed curve crosses the boundary of the top closed curve.\n*   The line connecting \"man\" to the bottom closed curve crosses the boundary of the bottom closed curve.\n\n**NESTING:**\n\n*   No closed curves are nested inside others. They are positioned side-by-side.",
+  "model": "gemma-3-27b-it",
+  "timestamp": "2026-01-01T16:47:16.308446"
+}

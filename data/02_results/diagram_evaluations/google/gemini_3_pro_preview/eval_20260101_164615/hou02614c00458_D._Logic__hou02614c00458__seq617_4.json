@@ -1,0 +1,17 @@
+{
+  "manuscript_id": "hou02614c00458",
+  "page_filename": "D._Logic__hou02614c00458__seq617.jpg",
+  "segment_index": "4",
+  "crop_path": "/Users/carloteopedretti/Documents/dev/PIP-Manuscripts-Processor-BACKUP/data/02_results/crops/cropped/D._Logic__hou02614c00458__seq617/D._Logic__hou02614c00458__seq617_cls0_4.jpg",
+  "x": "845",
+  "y": "314",
+  "width": "554",
+  "height": "119",
+  "canvas_uri": "https://iiif.lib.harvard.edu/manifests/drs:48995248/canvas/D._Logic__hou02614c00458__seq617",
+  "category_level_1": "I. Manuscripts",
+  "category_level_2": "D. Logic",
+  "prompt": "Describe the spatial relationships in this diagram.\n\nCONTAINMENT: Which text labels are inside or outside each closed curve?\nCONNECTIONS: Which text labels are connected by lines? Note any branching or unconnected lines.\nBOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?\nNESTING: Are any closed curves nested inside others?\n\nDo not interpret meaning. Only describe what you see spatially.",
+  "evaluation": "Based on the provided image, here is the spatial description:\n\n**CONTAINMENT:**\n*   The text label **\"wounded\"** is located inside a single, hand-drawn oval closed curve.\n*   The text label **\"man\"** is located outside to the left of this closed curve.\n\n**CONNECTIONS:**\n*   There is a short horizontal dash extending to the right from the word \"man\".\n*   There is a separate short horizontal dash extending to the left from the word \"wounded\".\n*   These two dashes are aligned horizontally, appearing to form a sequence, but they are not physically connected to each other.\n\n**BOUNDARY CROSSINGS:**\n*   No lines cross the boundary of the closed curve. The dash extending from \"man\" stops just outside the oval's perimeter, and the dash extending from \"wounded\" is entirely contained within the oval.\n\n**NESTING:**\n*   There is only one closed curve present, so there are no nested curves.",
+  "model": "google/gemini-3-pro-preview",
+  "timestamp": "2026-01-01T16:47:33.944284"
+}
