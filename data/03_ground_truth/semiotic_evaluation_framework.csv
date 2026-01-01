@@ -1,0 +1,4 @@
+semiotic_level,peirce_category,semiotic_operation,task,evaluation_method
+Morphological,Firstness,Iconisation + Observation,Element enumeration,JSON exact-match
+Indexical,Secondness,Iconisation → Référentialisation,Spatial relationships,LLM-as-judge
+Symbolic,Thirdness,Référentialisation + Operationalization,Logical interpretation,LLM-as-judge
