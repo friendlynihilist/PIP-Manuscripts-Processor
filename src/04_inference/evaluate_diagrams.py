@@ -89,7 +89,49 @@ BOUNDARY CROSSINGS: Do any lines cross the boundaries of closed curves?
 NESTING: Are any closed curves nested inside others?
 
 Do not interpret meaning. Only describe what you see spatially.""",
-    "symbolic": "In Peirce's diagrammatic logic, a closed curve called a cut represents logical negation. Elements inside the same region are interpreted conjunctively (i.e., asserted together). Elements placed directly on the background (the Sheet of Assertion) are considered true. A cut around propositions denies them. Nested cuts represent nested negation. Lines may indicate identity or existential quantification. Based on these principles, interpret the diagram and translate its meaning into a logical statement. If this is not possible, provide a clear explanation in natural language.",
+    "symbolic": """EXISTENTIAL GRAPH INTERPRETATION
+
+Analyze this Peirce Existential Graph and provide its logical reading in natural language.
+
+=== COMPONENTS ===
+- TEXT LABELS (spots): predicates ("man", "wounded", "adores")
+- HEAVY LINES: connect spots, represent same individual
+- CLOSED CURVES (cuts): negation - deny everything inside
+- BRANCHING LINES: same individual with multiple predicates
+
+=== QUANTIFICATION ===
+Count how many cuts enclose the OUTERMOST part of each line:
+- EVEN (0,2,4...): "some", "there exists" (∃)
+- ODD (1,3,5...): "every", "all" (∀)
+
+=== KEY PATTERNS ===
+
+1. Line on sheet (0 cuts): "Something is X"
+2. Line in 1 cut: "Nothing is X"
+3. Line crossing cut outward: "Some X is not Y"
+4. Scroll (nested cuts, line at 1 cut): "Every X is Y"
+5. Two lines, different depths: scope determined by outermost position
+
+=== READING EXAMPLES ===
+
+man──wounded (in one cut)
+→ "No man is wounded"
+
+man────┬──wounded (man outside, wounded in cut)
+→ "Some man is not wounded"
+
+man────wounded (both in nested cuts, line at 1 cut)
+→ "Every man is wounded"
+
+Catholic──adores──woman (Catholic in cuts, woman outside)
+→ "Some woman is adored by every Catholic"
+
+man──┬──rational (in scroll structure)
+     └──animal
+→ "Every man is rational and animal"
+
+=== TASK ===
+Provide the natural language reading. Be precise about quantifiers and negation scope.""",
     "description": "Describe this diagram in detail, including its structure, content, and any visible text or labels.",
     "classification": "What type of diagram is this? (e.g., graph, chart, geometric figure, logical diagram, tree diagram, etc.)",
     "transcription": "Transcribe any text, symbols, or mathematical notation visible in this diagram.",

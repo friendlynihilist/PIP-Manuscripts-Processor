@@ -2,111 +2,110 @@
   "diagrams": [
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_0",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' (1) and 'wounded' inside cut; 'man' (2) outside. CONNECTIONS: Branching line connects both 'man' to 'wounded'. BOUNDARY CROSSINGS: Line crosses cut to reach outer 'man'. NESTING: None."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq13_1",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' (1) and 'wounded' inside cut; 'man' (2) outside. CONNECTIONS: Line connects inner 'man' to 'wounded'; branches midway but terminates without connection. Outer 'man' has unconnected line. BOUNDARY CROSSINGS: Branch exits cut but terminates freely. NESTING: None."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_0",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' (1) and 'disgraced' inside nested cut (1); 'wounded' inside external cut; 'man' (2) outside the nested cuts. CONNECTIONS: Branching line connects both 'man' (2) to 'wounded' and bifurcates between 'man' and 'disgraced'. BOUNDARY CROSSINGS: the line from 'man' (2) crosses the boundary of the nested cut to reach both 'wounded' and the inner cut with 'man' and 'disgraced'. NESTING: yes, there are two cuts, one inside the other. the bigger ones contains 'wounded', the smaller one contains 'man' and 'disgraced'."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_1",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' outside the cut; 'wounded' inside a cut (1); 'disgraced' inside a nested cut (2); 'man' (2) outside the nested cuts. CONNECTIONS: Branching line connects 'man' to 'wounded' and 'disgraced'. BOUNDARY CROSSINGS: the line from 'man' crosses the boundary of the nested cut to reach both 'wounded' and the inner cut with 'disgraced'. NESTING: yes, there are two cuts, one inside the other. the bigger ones contains 'wounded', the smaller one contains 'disgraced'."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_12",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' outside cut. 'wounded' inside cut. CONNECTIONS: a line connects 'man' to 'wounded'. BOUNDARY CROSSINGS: a line enters the cut. NESTING: No, just a cut."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_14",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' (1) outside cuts. 'wounded' inside external cut (1). 'disgraced' inside middle cut (2). 'man' (2) inside inner cut (3). CONNECTIONS: 'man' (1) connects to 'wounded' with a bifurcation which bifurcates again and connects to 'man' and 'disgraced'. BOUNDARY CROSSINGS: external line crosses the boundary of all the cuts by bifurcating. NESTING: yes, there are three cuts, all nested into each other. the biggest ones contains 'wounded', the middle one contains 'disgraced', the smaller one contains 'man' (2)."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_3",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'wounded' inside cut (1); 'man' and 'disgraced' inside nested cut (2). CONNECTIONS: Branching line connects 'wounded' to 'man' and 'disgraced'. BOUNDARY CROSSINGS: a line enters the external cut, and its bifurcation enters the internal cut. NESTING: yes, there are two cuts, one inside the other. the bigger ones contains 'wounded', the smaller one contains 'disgraced' and 'man'."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq15_8",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' (1) outside cuts. 'wounded' inside external cut (1). 'disgraced' insided middle cut (2). 'man' (2) inside inner cut (3). CONNECTIONS: 'man' (1) connects to 'wounded' with a bifurcation which bifurcates again and connects to 'man' and 'disgraced'. BOUNDARY CROSSINGS: external line crosses the boundary of all the cuts by birfucating. NESTING: yes, there are three cuts, all nested into each other. the biggest ones contains 'wounded', the middle one contains 'disgraced', the smaller one contains 'man' (2)."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_0",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'respects' inside inner closed curve; 'american' inside outer closed curve (outside inner curve); 'man' outside all closed curves. CONNECTIONS: Line connects 'man' to inner closed curve containing 'respects'. BOUNDARY CROSSINGS: Yes, line from 'man' crosses boundary of outer closed curve. NESTING: Yes, two levels - smaller curve containing 'respects' nested inside larger curve which also contains 'american'."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_1",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'respects' inside inner closed curve; 'American' and 'man' inside outer closed curve (outside inner curve). CONNECTIONS: a line connects 'man' to 'respects' and another line connects respects to 'American'. BOUNDARY CROSSINGS: Yes, line crosses outer curve boundary to reach 'respects', then crosses inner curve boundary to reach 'American'. NESTING: Yes, two levels - smaller curve containing 'respects' nested inside larger curve which also contains 'American' and 'man'."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_2",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'wounded' inside closed curve. 'man' outside closed curve. CONNECTIONS: 'man' has a line which connects with nothing. a line connects 'wounded' with the closed curve. BOUNDARY CROSSINGS: no. NESTING: no. "
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq617_4",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'wounded' inside closed curve. 'man' outside closed curve. CONNECTIONS: 'man' has a line which connects with nothing. a line connects 'wounded' with the closed curve. BOUNDARY CROSSINGS: no. NESTING: no. "
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_0",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' and 'wounded' inside a closed curve. CONNECTIONS: 'man' is connected to 'wounded' with a line. BOUNDARY CROSSINGS: no. NESTING: no, just a closed curve."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_1",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'woman' outside every closed curve. 'Catholic' inside outer closed curve. 'adores' and 'woman' (2) insided the inner closed curve. CONNECTIONS: 'Catholic' is connected to 'adores' with a line. 'adores' is connected with a bifurcated line to both 'woman' labels. BOUNDARY CROSSINGS: yes, the line from 'Catholic crossed the inner closed curve, while the bifurcation from 'adores' to the outer 'woman' crosses both closed curves. NESTING: yes, two nested closed curves."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_2",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'Catholic' inside the outer closed curve. 'adores' and 'woman' inside the inner closed curve. CONNECTIONS: 'Catholic' connected with a line to 'adores' and 'adores' connected with a line to 'woman'. another line stars inside the inner closed curve ('woman') and exit both closed curves. BOUNDARY CROSSINGS: yes, one line connects 'Catholic' to 'adores' and crosses the inner closed curve. NESTING: yes, two nested closed curves."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_3",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' outside closed curve. 'man' (2) inside closed curve as well as 'wounded'. CONNECTIONS: bifurcated line connects 'man' to 'man' (2) and 'wounded'. BOUNDARY CROSSINGS: yes, lines cross closed curve. NESTING: no. "
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_4",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' outside closed curve. 'man' (2) and 'wounded' inside closed curve. CONNECTIONS: a line departs from 'man' but it is not connected. a bifurcated line starts from 'man' (2) and connects to 'wounded'. BOUNDARY CROSSINGS: the bifurcated line crosses the closed curve. NESTING: no."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq621_5",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'Catholic' inside outer closed curve. 'adores' inside inner closed curve. 'woman' outside closed curves. CONNECTIONS: 'Catholic' connected to 'adores' with line and 'adores' connects to 'womand' with line. BOUNDARY CROSSINGS: first line (from 'Catholic') crossed the inner closed curve. second line from 'adores' crosses both closed curves. NESTING: yes, two nested closed curves."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_0",
-      "indexical_description": ""
-    },
+"indexical_description": "Two separate diagrams. Upper: CONTAINMENT: 'animal' inside inner closed curve; 'man' inside outer closed curve (outside inner curve). CONNECTIONS: Line connects 'man' to 'animal'. BOUNDARY CROSSINGS: Yes, line crosses inner curve boundary. NESTING: Yes, inner curve containing 'animal' nested inside outer curve containing 'man'. Lower: CONTAINMENT: 'rational' inside inner closed curve; 'man' inside outer closed curve (outside inner curve). CONNECTIONS: Line connects 'man' to 'rational'. BOUNDARY CROSSINGS: Yes, line crosses inner curve boundary. NESTING: Yes, inner curve containing 'rational' nested inside outer curve containing 'man'."    },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_1",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' outside closed curves. 'snake' (1) and 'snake' (2) inside the outers closed curves. both 'fears' and 'hates' (1 and 2) are inside the inner closed curves. CONNECTIONS: 'man' is connected with a bifurcated line to both 'fears' and 'hates' (1) and 'fears' and 'hates' (2) which are then connected to 'snake'. other two bifurcated lines departs from 'fears' and 'hates' (both 1 and 2) and goes respectively to 'snake' (1) and 'snake' (2) BOUNDARY CROSSINGS: yes. NESTING: yes, there are a total of four closed curves, nested in pair of two. "
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_2",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' outside closed curves. 'snake' (1) and 'snake' (2) inside the outers closed curves. both 'fears' and 'hates' are inside the inner closed curves. CONNECTIONS: 'man' is connected with a bifurcated line to both 'fears' and 'hates' which are then connected to 'snake'. other two lines departs from 'fears' and 'hates' and goes respectively to 'snake' (1) and 'snake' (2) BOUNDARY CROSSINGS: yes. NESTING: yes, there are a total of four closed curves, nested in pair of two. "
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_3",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' inside outer closed curve. 'rational' and 'animal' inside inner closed curve. CONNECTIONS: 'man' connected with a bifurcated line to 'rational' and 'animal'. BOUNDARY CROSSINGS: yes. line crosses the inner closed curve. NESTING: yes, two nested closed curves."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_4",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' outside closed curves. 'fears' and 'hates' inside inner closed curve. 'snake' inside outer closed curve. CONNECTIONS: a bifurcated line connects 'man' to 'fears' and 'hates'; a bifurcated line connects 'fears' and 'hates' to 'snake'. BOUNDARY CROSSINGS: yes, first line crossed both closed curves. second line crossed only inner closed curve. NESTING: yes, there are two nested closed curves."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_5",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' inside outer closed curve. 'rational' and 'animal' inside inner closed curve. CONNECTIONS: a bifurcated line connects 'man' to both 'rational' and 'animal'. BOUNDARY CROSSINGS: yes, the line crossed the inner closed curve. NESTING: yes, there are two nested closed curves."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_6",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'man' inside outer closed curve. 'rational' and 'animal' inside inner closed curve. CONNECTIONS: a bifurcated line connects 'man' to both 'rational' and 'animal'. BOUNDARY CROSSINGS: yes, the line crossed the inner closed curve. NESTING: yes, there are two nested closed curves."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_7",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'wounded' inside a closed curve. CONNECTIONS: a line departing from 'wounded' and going outside the closed curve. BOUNDARY CROSSINGS: yes. NESTING: no, just one closed curve."
     },
     {
       "diagram_id": "hou02614c00458_D._Logic__hou02614c00458__seq625_9",
-      "indexical_description": ""
+      "indexical_description": "CONTAINMENT: 'wounded' inside a closed curve. CONNECTIONS: two segmented lines departing from 'wounded' and going outside the closed curve. BOUNDARY CROSSINGS: yes. NESTING: no, just one closed curve."
     }
   ],
   "metadata": {

@@ -37,6 +37,13 @@ ENV/
 # YOLO training runs
 runs/
 
+# Zenodo dataset exports
+zenodo_dataset/
+
+# Environment variables
+.env
+*.env
+
 # Jupyter
 .ipynb_checkpoints/
 
